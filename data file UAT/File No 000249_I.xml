@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>2126112</APP_VAL>
+      <TERM>132</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05223085_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-17</DATE>
+      <APP_DTE>2022-09-17</APP_DTE>
+      <BRNCH_RGN>Gorakhpur</BRNCH_RGN>
+      <MA>
+        <PAN>DMZPS8182R</PAN>
+        <FST_NME>SUNDRAPATI</FST_NME>
+        <LST_NME>SUNDRAPATI</LST_NME>
+        <DOB>1974-07-12</DOB>
+        <AGE>48</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>BAGHADA MAHUARIPATHARADEVA</ADD>
+          <CTY>Deoria</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>274001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>BAGHADA MAHUARIPATHARADEVA</ADD>
+          <CTY>Deoria</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>274001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9565061672</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>39461</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>UP BASIC EDUCATION</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>OFFICE OF BLK EDUCATION OFFICER PATHARADEVA</ADD>
+            <CTY>Deoria</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>274001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7379741216</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>VANDANA</FST_NME>
+        <LST_NME>VANDANA</LST_NME>
+        <DOB>1993-01-07</DOB>
+        <AGE>29</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>JHARNA TOLA UCHAWA KHORABAR URF SOOBABAZAR</ADD>
+          <CTY>Gorakhpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>273008</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAJENDRA</FST_NME>
+        <LST_NME>PRASHAD</LST_NME>
+        <RF_CA>
+          <ADD>HANUMAN GANJ</ADD>
+          <CTY>Deoria</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>274001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7379741216</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>UMESH</FST_NME>
+        <LST_NME>BHARTI</LST_NME>
+        <RF_CA>
+          <ADD>HANUMAN GANJ</ADD>
+          <CTY>Deoria</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>274001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7379741216</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

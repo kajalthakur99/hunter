@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>100000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05216611_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-08-01</DATE>
+      <APP_DTE>2022-07-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ABQFM6304G</PAN>
+        <FST_NME>M/S SHREE VINAYAK BUILDERS</FST_NME>
+        <LST_NME>M/S SHREE VINAYAK BUILDERS</LST_NME>
+        <DOB>2021-04-03</DOB>
+        <MP_CA>
+          <ADD>P NO 107 HANUMAN VATIKA A GOKULPURA KALWAR ROADJHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 107 HANUMAN VATIKA A GOKULPURA KALWAR ROADJHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9650166604</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>XYZ@GAMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>418105000990</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>M/S SHREE VINAYAK BUILDERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 107 HANUMAN VATIKA A GOKULPURA KALWAR ROADJHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9650166604</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO 23, 24 &amp; 28 SCHEME PATEL VIHAR VILLAGESCHEME PATEL VIHAR VILLAGE</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302020</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>XYZ@GAMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>ACKPL9177B</PAN>
+        <FST_NME>BHANWAR</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1981-08-17</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 4 HANUMAN VATIKA A GOKULPURA JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CXDPS3616Q</PAN>
+        <FST_NME>BANWARI</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>SUNDA</LST_NME>
+        <DOB>1988-06-06</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 50 HANUMAN VATIKA GOKULPURA KALWAR ROADJHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BVWPR3577D</PAN>
+        <FST_NME>NATHU</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <DOB>1981-08-16</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 157 HANUMAN VATIKA VISTAR KALWAR ROADJHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>NIWAS</LST_NME>
+        <RF_CA>
+          <ADD>207 MAA HINILANJ NAGAR B VAISHALI NAGAR JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7665000045</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SITA</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <RF_CA>
+          <ADD>207 MAA HINILANJ NAGAR B VAISHALI NAGAR JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7665000045</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

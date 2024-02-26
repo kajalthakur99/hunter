@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>750000</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05197254_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-04-11</DATE>
+      <APP_DTE>2022-04-10</APP_DTE>
+      <BRNCH_RGN>Gujarat</BRNCH_RGN>
+      <MA>
+        <PAN>AVXPM0197N</PAN>
+        <FST_NME>ALKESH</FST_NME>
+        <LST_NME>MISTRI</LST_NME>
+        <DOB>1976-09-13</DOB>
+        <AGE>45</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>D-201 PRAMUKH EXOTICAAT KUDASANGANDHINAGAR</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382421</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>D-201 PRAMUKH EXOTICAKUDASANGANDHINAGAR</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382421</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9979633169</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>alkeshmistry.169@gmail.com</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>3519101000953</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SAMARTH FURNTIURE</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>A/4, VASANT BAHAROPP. SILICON VALLYKUDASAN GANDHINAGAR</ADD>
+            <CTY>Ahmedabad</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>382421</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9979633169</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HGGPM6128C</PAN>
+        <FST_NME>MISTRI</FST_NME>
+        <MID_NME>USHABEN</MID_NME>
+        <LST_NME>ALKESHKUMAR</LST_NME>
+        <DOB>1981-06-08</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>D-201 PRAMUKH EXOTICAKUDASANGANDHINAGAR </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382421</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

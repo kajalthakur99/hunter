@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>99200000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05278538_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-11-01</DATE>
+      <APP_DTE>2023-10-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAUFV8634P</PAN>
+        <FST_NME>VAGHESHWARI PROJECTS</FST_NME>
+        <LST_NME>VAGHESHWARI PROJECTS</LST_NME>
+        <DOB>2021-11-17</DOB>
+        <MP_CA>
+          <ADD>504, DELI VAS PIPAN SANAND AHMEDABADGUJARAT</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>504, DELI VAS PIPAN SANAND AHMEDABADGUJARAT</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9727389727</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>VAGHESHWARIPROJECTS14@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>59250925092509</ACC_NO>
+        </MP_BNK>
+        <MP_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AAUFV8634P</DOC_NO>
+        </MP_ID>
+      </MP>
+      <SME>
+        <ORG_NME>VAGHESHWARI PROJECTS</ORG_NME>
+        <TAN_NO>AEEPV7837A</TAN_NO>
+        <MAC_ADD>
+          <ADD>504, DELI VAS PIPAN SANAND AHMEDABADGUJARAT</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9727389727</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Survey No. 701/7, F.P. No. 162, O.P. No. 162T.P.S. No. 1 Sanand, Mouje Sanand,Taluka Sanand, District Ahmedabad</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>VAGHESHWARIPROJECTS14@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AEEPV7837A</PAN>
+        <FST_NME>VAGHELA</FST_NME>
+        <MID_NME>HARDEVSINH</MID_NME>
+        <LST_NME>VAJESANG</LST_NME>
+        <DOB>1983-12-23</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>504, DELI VAS PIPAN SANAND AHMEDABADGUJARAT</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AWZPV6732H</PAN>
+        <FST_NME>VAGHELA</FST_NME>
+        <MID_NME>KARANSINH</MID_NME>
+        <LST_NME>VAJESANG</LST_NME>
+        <DOB>1987-12-08</DOB>
+        <AGE>35</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>504, DELI VAS PIPAN SANAND AHMEDABADGUJARAT</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AWQPV0141H</PAN>
+        <FST_NME>VAGHELA</FST_NME>
+        <MID_NME>KANAK</MID_NME>
+        <LST_NME>SINH</LST_NME>
+        <DOB>1985-02-01</DOB>
+        <AGE>38</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>347, DELI VAS PIMPAN PIPAN AHMEDABAD</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5880</ORG_CD>
+        <ORG_NME>Jeny Consulting Services</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>JADEJA</FST_NME>
+        <LST_NME>HITENDRASINH</LST_NME>
+        <RF_CA>
+          <ADD>544, DELI VAS PIPAN TA SANAND</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9727387788</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>JADEJA</FST_NME>
+        <LST_NME>SINH</LST_NME>
+        <RF_CA>
+          <ADD>544, DELI VAS PIPAN TA SANAND</ADD>
+          <CTY>Sananad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382110</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9727387788</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>7</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>518540</APP_VAL>
+      <TERM>60</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05281309_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>AALPL3132H</PAN>
+        <FST_NME>HARILAL</FST_NME>
+        <LST_NME>HARILAL</LST_NME>
+        <DOB>1959-01-01</DOB>
+        <AGE>64</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>Meja, Allahabad, Auta hanuman sahay ka pura, Meja Road, Uttar Pradesh INDIA, 212303</ADD>
+          <CTY>Allahabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>212303</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>MEJA, ALLAHABAD, AUTA HANUMAN SAHAY KA PURA, MEJA ROAD, UTTAR PRADESH INDIA, 212303</ADD>
+          <CTY>Allahabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>212303</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7518252227</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>32082051167</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>NORTH WESTERN RAILWAY</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>ALLAHABAD </ADD>
+            <CTY>Allahabad</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>211001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7518252227</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>PHUL</FST_NME>
+        <LST_NME>KALI</LST_NME>
+        <DOB>1961-01-01</DOB>
+        <AGE>62</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>MEJA, ALLAHABAD, AUTA HANUMAN SAHAY KA PURA, MEJA ROAD, UTTAR PRADESH INDIA, 212303</ADD>
+          <CTY>Allahabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>212303</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>DEV</LST_NME>
+        <RF_MT>
+          <TEL_NO>7607113967</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>AMIT</FST_NME>
+        <RF_MT>
+          <TEL_NO>7607113967</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1300665</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05279921_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Burari</BRNCH_RGN>
+      <MA>
+        <PAN>GLNPD1641G</PAN>
+        <FST_NME>GYATRI</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1987-01-01</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>H NO.4936 GROUND FLOOR GALI NO.113 BLOCK -B SANT NAGAR BURARI NEW DELHI </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO.4936 GROUND FLOOR GALI NO.113 BLOCK -B SANT NAGAR BURARI NEW DELHI </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>KHASRA NO.105 19 GROUND FLOOR 25 FOOTA ROAD BLOCK -B SANT NAGAR BURARI NEW DELHI </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>7065747929</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>2939774783</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Gyatri Vegitable Shop</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>KHASRA NO.105 19 GROUND FLOOR 25 FOOTA ROAD BLOCK -B SANT NAGAR BURARI NEW DELHI </ADD>
+            <CTY>North Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110084</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7065747929</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BNQPT5652M</PAN>
+        <FST_NME>DADAN</FST_NME>
+        <LST_NME>THAKUR</LST_NME>
+        <DOB>1984-01-01</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO.4936 GROUND FLOOR GALI NO.113 BLOCK -B SANT NAGAR BURARI NEW DELHI </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MOHIT</FST_NME>
+        <RF_MT>
+          <TEL_NO>7428267833</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>TARUN</FST_NME>
+        <RF_MT>
+          <TEL_NO>7428267833</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>826617</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280265_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Burari</BRNCH_RGN>
+      <MA>
+        <PAN>AVPPH2805N</PAN>
+        <FST_NME>SHAMSAD</FST_NME>
+        <LST_NME>HUSAIN</LST_NME>
+        <DOB>1986-01-01</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HN,H NO 4,GALI NO 13 B BLOCKHIMGIRI ENCLAVE,BURARI,NORTH DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>HN,H NO 4,GALI NO 13 B BLOCKHIMGIRI ENCLAVE,BURARI,NORTH DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>HN 4 GALI NO 13B BLOCK HIMGIRI ENCLAVE BURARI DELHI </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9971416974</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>37483814245</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SHAMSAD HUSAIN</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>HN 4 GALI NO 13B BLOCK HIMGIRI ENCLAVE BURARI DELHI </ADD>
+            <CTY>North Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110084</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9971416974</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DYMPG0506E</PAN>
+        <FST_NME>GULSHAN</FST_NME>
+        <LST_NME>GULSHAN</LST_NME>
+        <DOB>1991-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HN,H NO 4,GALI NO 13 B BLOCKHIMGIRI ENCLAVE,BURARI,NORTH DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110084</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4477</ORG_CD>
+        <ORG_NME>Easy Loans</ORG_NME>
+        <BR_ADD>
+          <ADD>A   7  4th Floor  Sector   10 A   7  4th Floor  Sector   10</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110092</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>KAILASH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9910282069</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>HINA</FST_NME>
+        <LST_NME>JAIN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9910282069</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>600000</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280934_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>ALIGARH</BRNCH_RGN>
+      <MA>
+        <PAN>CZSPK3763R</PAN>
+        <FST_NME>ASHOK</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1962-03-05</DOB>
+        <AGE>61</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>WARD NO 15,SUNARAN,CHHARRACHHARRA</ADD>
+          <CTY>Aligarh</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>202130</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>WARD NO 15,SUNARAN,CHHARRACHHARRA</ADD>
+          <CTY>Aligarh</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>202130</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9368087744</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>Ashok Kumar Spelar</ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>ALIGARH ROAD SHIV MANDIR CHAURAHA CHHARA</ADD>
+            <CTY>Aligarh</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>202130</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9368087744</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>JFKPK7964D</PAN>
+        <FST_NME>KAMLESH</FST_NME>
+        <LST_NME>KUMARI</LST_NME>
+        <DOB>1965-11-15</DOB>
+        <AGE>57</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>WARD NO 15,MOHALLA SUNARAN CHHARRA,CHHARRA</ADD>
+          <CTY>Aligarh</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>202130</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DOLAT</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9410645786</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>VIKASH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9410645786</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>944395</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280046_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Mahavir Enclave</BRNCH_RGN>
+      <MA>
+        <PAN>CVWPM6603C</PAN>
+        <FST_NME>RUDAL</FST_NME>
+        <LST_NME>MANDAL</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>45</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C-40 FIRST FLOOR ANOOP NAGAR UTTAM NAGAR WEST DELHINEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C-40 FIRST FLOOR ANOOP NAGAR UTTAM NAGAR WEST DELHINEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9136475832</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>THE FASHION HUB</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PLOT NO 60 GROUND FLOOR BLOCK A SEC 23DWARKA NEW DELHI</ADD>
+            <CTY>South West Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110077</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9136475832</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CHNPV6747B</PAN>
+        <FST_NME>VIVEK</FST_NME>
+        <LST_NME>VIVEK</LST_NME>
+        <DOB>2004-04-12</DOB>
+        <AGE>19</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>C-40 FIRST FLOOR ANOOP NAGAR UTTAM NAGAR WEST DELHINEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4887</ORG_CD>
+        <ORG_NME>Tejas Financial Consultant</ORG_NME>
+        <BR_ADD>
+          <ADD>12A Block-K-5 Mohan Garden Uttam Nagar,New Delhi </ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110045</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>SUNIL</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>7011014345</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NARESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>7011014345</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2248850</APP_VAL>
+      <TERM>300</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280082_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-14</APP_DTE>
+      <BRNCH_RGN>Ghaziabad</BRNCH_RGN>
+      <MA>
+        <PAN>CQAPK5098N</PAN>
+        <FST_NME>KUNWAR</FST_NME>
+        <LST_NME>PAL</LST_NME>
+        <DOB>1988-01-01</DOB>
+        <AGE>35</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O SURAJ SINGH,108, RAGHUNATH PURDASNA GHAZIABAD </ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201302</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O SURAJ SINGH,108, RAGHUNATH PURDASNA GHAZIABAD </ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201302</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>S O SURAJ SINGH,108, RAGHUNATH PURDASNA GHAZIABAD </ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201302</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9205465364</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>Kunwar Pal</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>108 RAGHUNATH PUR ,DASNA  ,GHAZIABAD UTTAR PRADESH </ADD>
+            <CTY>Noida</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201302</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9205465364</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>EOHPP8252Q</PAN>
+        <FST_NME>PRIYANKA</FST_NME>
+        <LST_NME>PRIYANKA</LST_NME>
+        <DOB>1990-08-09</DOB>
+        <AGE>33</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O SURAJ SINGH,108, RAGHUNATH PURDASNA GHAZIABAD </ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201302</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>ABHISHEK</FST_NME>
+        <RF_MT>
+          <TEL_NO>7505617903</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RINKU</FST_NME>
+        <RF_MT>
+          <TEL_NO>7505617903</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>885769</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05281013_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-08-14</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Bulandshahr</BRNCH_RGN>
+      <MA>
+        <PAN>IUMPS3343L</PAN>
+        <FST_NME>SHAKEEL</FST_NME>
+        <LST_NME>SHAKEEL</LST_NME>
+        <DOB>1983-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>Tanda faslabad,BULANDSHAR </ADD>
+          <CTY>Bulandsahar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>203001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>Tanda faslabad,BULANDSHAR </ADD>
+          <CTY>Bulandsahar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>203001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9528028891</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <PAN>FMRPR6143H</PAN>
+        <FST_NME>RAHISH</FST_NME>
+        <LST_NME>RAHISH</LST_NME>
+        <DOB>1988-12-12</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O MALTAN,HUTCH TOWER WALI GALI,FAISLABAD</ADD>
+          <CTY>Bulandsahar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>203001</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>WAHID</FST_NME>
+        <RF_MT>
+          <TEL_NO>9897272649</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>REAS</FST_NME>
+        <RF_MT>
+          <TEL_NO>9897272649</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

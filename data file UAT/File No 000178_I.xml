@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>5</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1735279</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05217922_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-08-09</DATE>
+      <APP_DTE>2022-08-09</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>DBUPS1024N</PAN>
+        <FST_NME>NEHA</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <DOB>1983-03-09</DOB>
+        <AGE>39</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>1/6762 1ST EAST ROHITASH NGR DL</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110032</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 1/6599 GALI NO 5 EAST ROHITASH DL</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110032</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8800606574</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>1098101103118</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>GERMANIUM TECHNOLOGIES LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>2ND FLR 30 SHIVAJI MARG NAJAFGARH ROAD</ADD>
+            <CTY>West Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110015</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9873204795</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DGDPS2541N</PAN>
+        <FST_NME>SONU</FST_NME>
+        <LST_NME>SONU</LST_NME>
+        <DOB>1985-09-07</DOB>
+        <AGE>36</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>1/6762 1ST EAST ROHITASH NGR DL</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110032</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SONIYA</FST_NME>
+        <RF_CA>
+          <ADD>89 A PRATAP VIHAR PART 2 KIRARI SULEMAN NGR DL</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9717418722</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>INDU</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>89 A PRATAP VIHAR PART 2 KIRARI SULEMAN NGR DL</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9717418722</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>866788</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05218024_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-08-09</DATE>
+      <APP_DTE>2022-08-09</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>DLWPM8749G</PAN>
+        <FST_NME>MUKESH</FST_NME>
+        <LST_NME>MUKESH</LST_NME>
+        <DOB>1980-01-01</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>LOGKARERA AGRA RUNKATAAGRAUP</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>LOGKARERA AGRA RUNKATAAGRAUP</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>GATA NO-101 LOHKARERA TAHSIL KIRAWALiAGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9368857981</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>726210110002276</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DURGAY BUILDING</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>LOGKARERA AGRA RUNKATAAGRAUP</ADD>
+            <CTY>Agra</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>282007</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9368857981</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>JYOTI</FST_NME>
+        <LST_NME>JYOTI</LST_NME>
+        <DOB>1982-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>LOGKARERA AGRA RUNKATAAGRAUP</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>FIROZ</FST_NME>
+        <RF_CA>
+          <ADD>LOHKARERAAGRARUNKATA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9997409611</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>BITTU</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>LOHKARERAAGRARUNKATA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9997409611</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>628598</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05217623_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-08-09</DATE>
+      <APP_DTE>2022-08-09</APP_DTE>
+      <BRNCH_RGN>MH - Marathwada</BRNCH_RGN>
+      <MA>
+        <PAN>KRKPS1980Q</PAN>
+        <FST_NME>ANIL</FST_NME>
+        <MID_NME>RAMANATH</MID_NME>
+        <LST_NME>SABALE</LST_NME>
+        <DOB>1982-11-17</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>KARANJI KOPERGAON SHINGANPUR</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423603</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>KARANJI KOPERGAON SHINGANPUR</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423603</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>A/p Karanji Tal Kopargaon Dist Ahmednagar</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423601</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8830884653</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CENTRAL BANK OF INDIA</BNK_NM>
+          <ACC_NO>4016784862</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>BALASAHEB SATBHAI KOSHALY VIKAS SANSTHA</ORG_NME>
+          <EMP_IND>EDUCATION</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SHASKIY NR ITI COLLEGE MAHTMA GANDHI PRADARSHAN </ADD>
+            <CTY>Ahmadnagar</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>423601</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9823762087</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>KWEPS6744B</PAN>
+        <FST_NME>SHARADA</FST_NME>
+        <MID_NME>ANIL</MID_NME>
+        <LST_NME>SABALE</LST_NME>
+        <DOB>1988-05-13</DOB>
+        <AGE>34</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>KARANJI KOPERGAON SHINGANPUR</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423603</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>TUSHAR</FST_NME>
+        <LST_NME>MOVAL</LST_NME>
+        <RF_CA>
+          <ADD>NIVARA</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423601</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8380020222</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAJENDRA</FST_NME>
+        <LST_NME>AAHER</LST_NME>
+        <RF_CA>
+          <ADD>NIVARA</ADD>
+          <CTY>Ahmadnagar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>423601</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8380020222</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>669747</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05218144_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-08-09</DATE>
+      <APP_DTE>2022-08-09</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>DLGPS5904B</PAN>
+        <FST_NME>MOHAMMED</FST_NME>
+        <MID_NME>TALHA A GAFFAR</MID_NME>
+        <LST_NME>SHAIKH</LST_NME>
+        <DOB>1992-12-29</DOB>
+        <AGE>29</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>102 A WING DAVID PALACE BHARTI PARK MIRA ROAD</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401107</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>104 6 B ASMITA ANITA MIRA ROAD</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401107</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9773994955</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>INDUSIND BANK</BNK_NM>
+          <ACC_NO>159773994955</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DSHWOOD IMPEX PRIVATE LIMITED</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>B 104 KEMP PLAZA MIND SPACE MALAD </ADD>
+            <CTY>Mumbai</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>400064</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9820277236</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HOQPS4535M</PAN>
+        <FST_NME>RAGADH</FST_NME>
+        <MID_NME>MOHAMMED GOUSE</MID_NME>
+        <LST_NME>SHAIKH</LST_NME>
+        <DOB>1997-10-30</DOB>
+        <AGE>24</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>102 A WING DAVID PALACE BHARTI PARK MIRA ROAD</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401107</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4954</ORG_CD>
+        <ORG_NME>Treasure Homes Real Estate Consultancy</ORG_NME>
+        <BR_ADD>
+          <ADD>Shop No-63, Jotirmay Complex,Sector -8B, Plot no-5, CBD Belapur, Near Saibaba Temple Navi Mumbai </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>400614</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>SHAIKH</FST_NME>
+        <LST_NME>OWAIS</LST_NME>
+        <RF_CA>
+          <ADD>102 8 A ASMITA ANITA MIRA ROAD</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401107</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9619370637</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SHAHAB</FST_NME>
+        <LST_NME>SHAIKH</LST_NME>
+        <RF_CA>
+          <ADD>102 8 A ASMITA ANITA MIRA ROAD</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401107</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9619370637</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>945059</APP_VAL>
+      <TERM>72</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05217982_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-08-09</DATE>
+      <APP_DTE>2022-08-09</APP_DTE>
+      <BRNCH_RGN>Mohali</BRNCH_RGN>
+      <MA>
+        <PAN>AQKPC9111G</PAN>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>CHANDER</LST_NME>
+        <DOB>1968-09-27</DOB>
+        <AGE>53</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H NO 550 VILLAGE MALOYA CHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 550VILLAGE MALOYA CHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Village Jhampur , near to maloya chandigarh 160036</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9988373551</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>30508630716</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>govt job</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PATWARI OFFICEHANUMAN MANDER DHARAMSHALAMANI BAJAR MANIMAJRA</ADD>
+            <CTY>Chandigarh</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>160001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9988373551</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>COVPG3898D</PAN>
+        <FST_NME>GEETA</FST_NME>
+        <LST_NME>GEETA</LST_NME>
+        <DOB>1974-11-14</DOB>
+        <AGE>47</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H. NO 550VILLAGE MALOYA CHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

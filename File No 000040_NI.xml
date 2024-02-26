@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>30000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05306967_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-12-07</DATE>
+      <APP_DTE>2023-12-06</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AALFC6000H</PAN>
+        <FST_NME>CHAUDHARY BHOOP SINGH DEVELOPERS LLP</FST_NME>
+        <LST_NME>CHAUDHARY BHOOP SINGH DEVELOPERS LLP</LST_NME>
+        <DOB>2016-09-20</DOB>
+        <MP_CA>
+          <ADD>UNIT NO- 101,102 TOWER B1ST FLOOR SPAZE BUSINESS PARKSECTOR 66 GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>UNIT NO- 101,102 TOWER B1ST FLOOR SPAZE BUSINESS PARKSECTOR 66 GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9999235678</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>cbsdeveloper1@gmail.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>114301001027</ACC_NO>
+        </MP_BNK>
+        <MP_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AALFC6000H</DOC_NO>
+        </MP_ID>
+      </MP>
+      <SME>
+        <ORG_NME>CHAUDHARY BHOOP SINGH DEVELOPERS LLP</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>UNIT NO- 101,102 TOWER B1ST FLOOR SPAZE BUSINESS PARKSECTOR 66 GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9999235678</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No. 220A, Ashok EstateSector-63A, VillageUllawas, Gurugram, Haryana 122102</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>cbsdeveloper1@gmail.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>BSKPS5021C</PAN>
+        <FST_NME>AJIT</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1986-01-10</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>DN-137NEAR MARUTI KUNJ NAYA GAON  BHONDSI GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CJWPS2571K</PAN>
+        <FST_NME>RAJ</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1989-07-05</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>DN-137NEAR MARUTI KUNJ NAYA GAON  BHONDSI GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4174</ORG_CD>
+        <ORG_NME>K.R. Financial Services</ORG_NME>
+        <BR_ADD>
+          <ADD>shop no 2 first floor opp Huda office  sec  14 </ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <PIN>122001</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>MANI</FST_NME>
+        <LST_NME>SHKUMAR</LST_NME>
+        <RF_CA>
+          <ADD>VILLAGE -nay gaonbhondsigurgaon</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9899400714</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>vikash</FST_NME>
+        <LST_NME>kumar</LST_NME>
+        <RF_CA>
+          <ADD>VILLAGE -nay gaonbhondsigurgaon</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9899400714</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>40000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05279165_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-08-19</DATE>
+      <APP_DTE>2023-08-18</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AETFS2444F</PAN>
+        <FST_NME>SHRI BALAJI DEVLOPERS</FST_NME>
+        <LST_NME>SHRI BALAJI DEVLOPERS</LST_NME>
+        <DOB>2022-06-22</DOB>
+        <MP_CA>
+          <ADD>PLOT NO  C 62 GOVIND NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>PLOT NO  C 62 GOVIND NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9680302769</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>blparswal@gmail.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>745320110000210</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHRI BALAJI DEVLOPERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>PLOT NO  C 62 GOVIND NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9680302769</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No. D-8,D-9,D-10,D-11, D-12Scheme Manglam City Block-DHathoj, Kalwra Road, Jaipur-302012</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>blparswal@gmail.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AKZPL7072L</PAN>
+        <FST_NME>BAJRANG</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1993-05-15</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO  74 FLAT NO - S-1  KARDHANI SCHEME  GOVINDPURA   KALWAR ROAD  JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>FCUPS6663E</PAN>
+        <FST_NME>BAHADUR</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1980-07-07</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO  C 62  GOVIND NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

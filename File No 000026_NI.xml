@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>9000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05266083_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-06-23</DATE>
+      <APP_DTE>2023-06-22</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAVFN2586K</PAN>
+        <FST_NME>NEELKANTH PROPERTY AND BUILDER</FST_NME>
+        <LST_NME>NEELKANTH PROPERTY AND BUILDER</LST_NME>
+        <DOB>2015-08-12</DOB>
+        <MP_CA>
+          <ADD>C 1 15 BHAGWATI GARDEN EXTN 55 FUTA RD BALATI MANDIT METRO PILLERN 786 ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>C 1 15 BHAGWATI GARDEN EXTN 55 FUTA RD BALATI MANDIT METRO PILLERN 786 ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9311553240</TEL_NO>
+        </MP_MT>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK</BNK_NM>
+          <ACC_NO>00901000092126</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>NEELKANTH PROPERTY AND BUILDER</ORG_NME>
+        <TAN_NO>1</TAN_NO>
+        <MAC_ADD>
+          <ADD>C 1 15 BHAGWATI GARDEN EXTN 55 FUTA RD BALATI MANDIT METRO PILLERN 786 ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9311553240</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Entire Plot No F-1 &amp; Part of Plot No. F-2, Part of Khasra No. 42, 43 &amp; 44, VillageNawada Mazra Hastsal, Vipin GardenExtension, Uttam Nagar, New Delhi</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_PROP>
+      </SME>
+      <CP>
+        <PAN>BHXPS6593M</PAN>
+        <FST_NME>SURVINDER</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1981-12-31</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>	C 18 KIRAN GARDEN UTTAM NGR D K MOHAN GARDENW DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AAGPO1512K</PAN>
+        <FST_NME>OM</FST_NME>
+        <MID_NME>PARKASH</MID_NME>
+        <LST_NME>JHAJHRA</LST_NME>
+        <DOB>1975-09-12</DOB>
+        <AGE>47</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H N 106 TOWER 6 MALIBU TOWNE SOHNA RDGURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122018</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5115</ORG_CD>
+        <ORG_NME>NORTH INDIA ENTERPRISES</ORG_NME>
+        <BR_ADD>
+          <ADD>H/No-51&amp;52, Ground floor, Vipin Garden, Near Metro Pillar No-795, Dwarka Morh, Uttam Nagar,New Delhi-59 </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110084</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

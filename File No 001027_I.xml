@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>864674</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05299453_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-11-12</DATE>
+      <APP_DTE>2023-11-11</APP_DTE>
+      <BRNCH_RGN>Chhatarpur-MP</BRNCH_RGN>
+      <MA>
+        <PAN>EOCPA3870J</PAN>
+        <FST_NME>ANVARI</FST_NME>
+        <LST_NME>ANVARI</LST_NME>
+        <DOB>1967-01-01</DOB>
+        <AGE>56</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>WARD NO 19 BHATYANA</ADD>
+          <CTY>Mahoba</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>210427</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>WARD NO 19 BHATYANA</ADD>
+          <CTY>Mahoba</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>210427</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7355261041</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>520291020072096</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>ECKPM5744P</PAN>
+        <FST_NME>MUMTAJ</FST_NME>
+        <LST_NME>MOHAMMAD</LST_NME>
+        <DOB>1965-01-01</DOB>
+        <AGE>58</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O HUSAIN BAKS,BHATYANA</ADD>
+          <CTY>Mahoba</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>210427</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>HANIF</FST_NME>
+        <LST_NME>KHAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>8707668813</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SAJID</FST_NME>
+        <LST_NME>KHAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>8707668813</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

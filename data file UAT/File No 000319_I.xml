@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>4</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>608043</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05230374_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-10-25</DATE>
+      <APP_DTE>2022-10-25</APP_DTE>
+      <BRNCH_RGN>MP</BRNCH_RGN>
+      <MA>
+        <PAN>EKOPP1422D</PAN>
+        <FST_NME>OM</FST_NME>
+        <LST_NME>PANCHAL</LST_NME>
+        <DOB>1993-06-01</DOB>
+        <AGE>29</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H N 209 A ROYAL REIDENCY BHATKHEDIPITHAMPUR INDORE</ADD>
+          <CTY>Dhar</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>454775</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H N 184 WARD N 8 GRAM PANDA JAGIR TEHSONKATCHDEWAS</ADD>
+          <CTY>Dewas</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>455118</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>resi</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9691726292</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>892210110008673</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>PREMIUM PLAST LTD</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>UNIT Z AND 3 PLOT  N 53 5 SEC 1INDAREA PITHAMPUR DHAR </ADD>
+            <CTY>Dhar</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>454775</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8839111835</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>SAPNA</FST_NME>
+        <LST_NME>MALVIYA</LST_NME>
+        <DOB>1993-01-01</DOB>
+        <AGE>29</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H N 209 A ROYAL REIDENCY BHATKHEDIPITHAMPUR INDORE</ADD>
+          <CTY>Dhar</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>454775</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAVI</FST_NME>
+        <LST_NME>SOLANKI</LST_NME>
+        <RF_CA>
+          <ADD>GRAM PANDA JAGEER  DEWAS</ADD>
+          <CTY>Dewas</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>455118</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9575855402</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>LAKHAN</FST_NME>
+        <LST_NME>MADAUTIYA</LST_NME>
+        <RF_CA>
+          <ADD>GRAM PANDA JAGEER  DEWAS</ADD>
+          <CTY>Dewas</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>455118</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9575855402</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>606310</APP_VAL>
+      <TERM>60</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05230398_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-25</DATE>
+      <APP_DTE>2022-10-25</APP_DTE>
+      <BRNCH_RGN>MP</BRNCH_RGN>
+      <MA>
+        <PAN>CKUPA1254Q</PAN>
+        <FST_NME>ARUN</FST_NME>
+        <LST_NME>UPLANA</LST_NME>
+        <DOB>1989-12-03</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>17 ADARSH GANPATI NAGARINDORE</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452015</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>17 ADARSH GANPATI NAGARINDORE</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452015</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>resi</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9669959989</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>IDBI BANK</BNK_NM>
+          <ACC_NO>0155104000237598</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>WORLD CLASS SERVICE LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SKY EARTH BUILDINGSCHEME NO 78INDORE</ADD>
+            <CTY>Indore</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>452001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9669959989</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>KOMAL</FST_NME>
+        <LST_NME>UPLANA</LST_NME>
+        <DOB>1972-03-24</DOB>
+        <AGE>50</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>17 ADARSH GANPATI NAGARINDORE</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452015</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>DEVKARAN</FST_NME>
+        <LST_NME>DEVKARAN</LST_NME>
+        <DOB>1962-02-01</DOB>
+        <AGE>60</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>17 ADARSH GANPATI NAGARINDORE</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452015</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SARITA</FST_NME>
+        <LST_NME>MOTA</LST_NME>
+        <RF_CA>
+          <ADD>VIJAY NAGARINDOREMP</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9009445958</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>FULLCHANDRA</FST_NME>
+        <LST_NME>SAGAR</LST_NME>
+        <RF_CA>
+          <ADD>VIJAY NAGARINDOREMP</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9009445958</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1902573</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05230199_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-10-25</DATE>
+      <APP_DTE>2022-10-25</APP_DTE>
+      <BRNCH_RGN>MH - Latur</BRNCH_RGN>
+      <MA>
+        <PAN>FYTPS2204G</PAN>
+        <FST_NME>GOPINATH</FST_NME>
+        <MID_NME>DNYANOBA</MID_NME>
+        <LST_NME>SHINDE</LST_NME>
+        <DOB>1991-02-26</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>AT LIMLA POST PINGALI TQ PURNA DIST PARBHANI</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431402</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>AT LIMLA POST PINGALI TQ PURNA DIST PARBHANI</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431402</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9049980170</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>13220100016337</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>PRAGATI TRADING COMPANY</ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>AT LIMLA POST PINGALI TQ PURNA DIST PARBHANI</ADD>
+            <CTY>Parbhani</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>431402</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9049980170</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>MXTPS2456J</PAN>
+        <FST_NME>PRIYANKA</FST_NME>
+        <MID_NME>GOPINATH</MID_NME>
+        <LST_NME>SHINDE</LST_NME>
+        <DOB>1996-05-25</DOB>
+        <AGE>26</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>AT LIMLA POST PINGALI TQ PURNA DIST PARBHANI</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431402</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>TRAMBAK</FST_NME>
+        <LST_NME>SHINDE</LST_NME>
+        <RF_CA>
+          <ADD>AT LIMLA POST DINGALI TQ PURNA DIST PARBHANI</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431402</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9850344624</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MUKUND</FST_NME>
+        <LST_NME>SHINDE</LST_NME>
+        <RF_CA>
+          <ADD>AT LIMLA POST DINGALI TQ PURNA DIST PARBHANI</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431402</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9850344624</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>452441</APP_VAL>
+      <TERM>192</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05230028_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-25</DATE>
+      <APP_DTE>2022-10-25</APP_DTE>
+      <BRNCH_RGN>Delhi-Mayur Vihar</BRNCH_RGN>
+      <MA>
+        <PAN>CEZPS1758A</PAN>
+        <FST_NME>OMVIR</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1973-02-28</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>B 2 225NEW KONDALIDELHI</ADD>
+          <CTY>Mayur Vihar</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110096</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>A 4 196 NEW KONDALIMAYUR VIHAR PH 3DELHI</ADD>
+          <CTY>Mayur Vihar</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110096</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9654351796</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>003101622558</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>M/s Newpack Plastics Pvt Ltd</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>D 25 SEC 1NOIDAUP</ADD>
+            <CTY>Noida</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201301</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9560299906</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CTIPD9278E</PAN>
+        <FST_NME>KIRAN</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1977-01-01</DOB>
+        <AGE>45</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>B 2 225NEW KONDALIDELHI</ADD>
+          <CTY>Mayur Vihar</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110096</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAVI</FST_NME>
+        <LST_NME>PRATAP</LST_NME>
+        <RF_CA>
+          <ADD>F 36 NEW KANDALIDELHI</ADD>
+          <CTY>Mayur Vihar</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110096</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9013873970</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>GULAB</FST_NME>
+        <RF_CA>
+          <ADD>F 36 NEW KANDALIDELHI</ADD>
+          <CTY>Mayur Vihar</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110096</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9013873970</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>50000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05298525_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2024-01-01</DATE>
+      <APP_DTE>2023-12-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEZFS2052K</PAN>
+        <FST_NME>SHREE VINAYAK BUILDERS</FST_NME>
+        <LST_NME>SHREE VINAYAK BUILDERS</LST_NME>
+        <DOB>2023-04-12</DOB>
+        <MP_CA>
+          <ADD>PLOT NO - 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_MT>
+          <TEL_NO>9959926005</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>BANWARISUNDALAL@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>INDUSIND BANK</BNK_NM>
+          <ACC_NO>201002794915</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHREE VINAYAK BUILDERS</ORG_NME>
+        <MAC_ADD>
+          <ADD>PLOT NO - 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9959926005</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO - 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>BANWARISUNDALAL@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>CXDPS3616Q</PAN>
+        <FST_NME>BANWARILAL</FST_NME>
+        <LST_NME>SUNDA</LST_NME>
+        <DOB>1988-06-06</DOB>
+        <AGE>35</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO - 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AFAPC1590A</PAN>
+        <FST_NME>RATAN</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <DOB>1975-01-01</DOB>
+        <AGE>48</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>47 GOVIND NAGAR -2 KALWAR ROAD GOKULPURA JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ACKPL9177B</PAN>
+        <FST_NME>BHANWAR</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1981-08-17</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO 116 117 HARI NAGAR KALWAR ROAD JHOTWARA  JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302017</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

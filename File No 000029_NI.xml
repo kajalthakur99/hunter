@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>87500000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05272239_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-07-11</DATE>
+      <APP_DTE>2023-07-11</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ABXFM0430F</PAN>
+        <FST_NME>MY DREAM HOUSE</FST_NME>
+        <LST_NME>MY DREAM HOUSE</LST_NME>
+        <DOB>2023-04-24</DOB>
+        <MP_CA>
+          <ADD>PLOT NO 123 HARI NAGARGOKULPURAKALAWAR ROAD</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>PLOT NO 123 HARI NAGARGOKULPURAKALAWAR ROAD</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_EMA>
+          <EMA_ADD>rameshwarchoudhary3196@gmail.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>418105500265</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>MY DREAM HOUSE</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>PLOT NO 123 HARI NAGARGOKULPURAKALAWAR ROAD</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_PROP>
+          <ADD>PLOT NO 123 HARI NAGARGOKULPURAKALAWAR ROAD</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>rameshwarchoudhary3196@gmail.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AXAPK8656R</PAN>
+        <FST_NME>RAMESHWAR</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>KHADDHA</LST_NME>
+        <DOB>1982-06-21</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO 123 HARI NAGARNEAR SG SCHOOL GOKULPURAKALAWAR ROAD</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BLWPB9398C</PAN>
+        <FST_NME>BHAWANI</FST_NME>
+        <LST_NME>SHANKAR</LST_NME>
+        <DOB>1989-07-19</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>164 JANIYANO KI DHANIKARADSIKAR</ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332710</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>SEVDA</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO 10JAGDISHPURA GOKULPURAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9468863593</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>BHANAWAR</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO 10JAGDISHPURA GOKULPURAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9468863593</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

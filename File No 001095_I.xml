@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>29</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>838810</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05305428_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>EODPB7891R</PAN>
+        <FST_NME>BHAGWAN</FST_NME>
+        <LST_NME>DAS</LST_NME>
+        <DOB>1982-03-15</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O GAYA PRASAD,RZ-50 S F,RAVI NAGAR EXTNTILAK NAGAR,PO TILAK NAGAR,DIST WEST</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110018</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O GAYA PRASAD,RZ-50 S F,RAVI NAGAR EXTNTILAK NAGAR,PO TILAK NAGAR,DIST WEST</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110018</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8447861079</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <PAN>HDGPP8089G</PAN>
+        <FST_NME>POONAM</FST_NME>
+        <LST_NME>POONAM</LST_NME>
+        <DOB>1996-01-01</DOB>
+        <AGE>27</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O BHAGWAN DAS,RZ-50 S F,RAVI NAGAR EXTNTILAK NAGAR,PO TILAK NAGAR,DIST WEST</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110018</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>NANKEY</FST_NME>
+        <RF_MT>
+          <TEL_NO>9315927763</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>JIWAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9315927763</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>864524</APP_VAL>
+      <TERM>300</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05306193_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Gujarat</BRNCH_RGN>
+      <MA>
+        <PAN>BTZPR5653P</PAN>
+        <FST_NME>RAJPUT</FST_NME>
+        <LST_NME>JYOTI</LST_NME>
+        <DOB>1995-05-17</DOB>
+        <AGE>28</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>W O RAHUL RAJPUT,18 539,VARAHIPARK VIBHAG-2MONI HOTEL NA KHANCHO</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382443</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>W O RAHUL RAJPUT,18 539,VARAHIPARK VIBHAG-2MONI HOTEL NA KHANCHO</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382443</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8780144221</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>2131</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Diamond hand stitching </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>18-539 VARAHIPARK VIBHAG 2, MONI HOTEL KHANCHO</ADD>
+            <CTY>Ahmedabad</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>382443</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8780144221</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BUXPR8246R</PAN>
+        <FST_NME>RAHUL</FST_NME>
+        <MID_NME>NARENDRASINH</MID_NME>
+        <LST_NME>RAJPUT</LST_NME>
+        <DOB>1993-06-10</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>W O RAHUL RAJPUT,18 539,VARAHIPARK VIBHAG-2MONI HOTEL NA KHANCHO</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382443</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DIPAK</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_MT>
+          <TEL_NO>9925081089</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DIPAKBHAI</FST_NME>
+        <LST_NME>VASPODA</LST_NME>
+        <RF_MT>
+          <TEL_NO>9925081089</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>683104</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05308564_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>UP - Meerut</BRNCH_RGN>
+      <MA>
+        <PAN>ENGPR6404C</PAN>
+        <FST_NME>RASHID</FST_NME>
+        <LST_NME>RASHID</LST_NME>
+        <DOB>1991-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O SAJID,HOUSE NO-314,CHILKANA ROADPATNI SAHARANPUR UTTAR PRADESH </ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O SAJID,HOUSE NO-314,CHILKANA ROADPATNI SAHARANPUR UTTAR PRADESH </ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9557478179</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <PAN>OQTPS8173M</PAN>
+        <FST_NME>SAJID</FST_NME>
+        <LST_NME>SAJID</LST_NME>
+        <DOB>1968-09-07</DOB>
+        <AGE>55</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O ANAVAR,HOUSE NO 314,CHILKANA ROADPATNI SAHARANPUR UTTAR PRADESH </ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>NURJAHAN</FST_NME>
+        <LST_NME>NURJAHAN</LST_NME>
+        <DOB>1970-09-03</DOB>
+        <AGE>53</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O MAU SAJID,HOUSE NO 344,CHILKANA ROADPATNI SAHARANPUR UTTAR PRADESH </ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>AASMA</FST_NME>
+        <RF_MT>
+          <TEL_NO>9758851434</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SATTAR</FST_NME>
+        <RF_MT>
+          <TEL_NO>9758851434</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1492820</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309558_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>BHKPY6188B</PAN>
+        <FST_NME>PAPPI</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1983-10-10</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>W O SHEETAL PRASAD YADAV A 751 WORLD BANK BARRA KANPUR </ADD>
+          <CTY>Kanpur Nagar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>208027</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>W O SHEETAL PRASAD YADAV A 751 WORLD BANK BARRA KANPUR </ADD>
+          <CTY>Kanpur Nagar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>208027</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9682249618</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <PAN>AEYPY0526M</PAN>
+        <FST_NME>SHEETAL</FST_NME>
+        <MID_NME>PRASAD</MID_NME>
+        <LST_NME>PRASAD</LST_NME>
+        <DOB>1973-12-10</DOB>
+        <AGE>50</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>W O SHEETAL PRASAD YADAV A 751 WORLD BANK BARRA KANPUR </ADD>
+          <CTY>Kanpur Nagar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>208027</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_MT>
+          <TEL_NO>8318417676</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ABHISHEK</FST_NME>
+        <RF_MT>
+          <TEL_NO>8318417676</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>939832</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05308134_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>EYAPS9878A</PAN>
+        <FST_NME>ANAND</FST_NME>
+        <MID_NME>MOHAN</MID_NME>
+        <LST_NME>SRIVASTAVA</LST_NME>
+        <DOB>1990-07-16</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O JAGDISH PRASAD SHRIVASTAVACHATRABAS K PASS VIDHAYAK COLONYBHANDER </ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475335</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O JAGDISH PRASAD SHRIVASTAVACHATRABAS K PASS VIDHAYAK COLONYBHANDER </ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475335</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9301846482</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <FST_NME>ARTI</FST_NME>
+        <LST_NME>ARTI</LST_NME>
+        <DOB>1993-01-01</DOB>
+        <AGE>30</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O JAGDISH PRASAD SHRIVASTAVACHATRABAS K PASS VIDHAYAK COLONYBHANDER </ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475335</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>KAMLESH</FST_NME>
+        <LST_NME>VERMA</LST_NME>
+        <RF_MT>
+          <TEL_NO>7000475976</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>AMAN</FST_NME>
+        <RF_MT>
+          <TEL_NO>7000475976</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>311617</APP_VAL>
+      <TERM>156</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309240_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>OSOPS2811F</PAN>
+        <FST_NME>RAVINDRA</FST_NME>
+        <LST_NME>SAHU</LST_NME>
+        <DOB>1995-01-01</DOB>
+        <AGE>28</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O JAGDISH SAHU,129-1A,AMBEDKAR COLONEYBHUDDH VIHAR KE PASS,NAGRA ATNODNAJHANSI</ADD>
+          <CTY>Jhansi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>284003</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O JAGDISH SAHU,129-1A,AMBEDKAR COLONEYBHUDDH VIHAR KE PASS,NAGRA ATNODNAJHANSI</ADD>
+          <CTY>Jhansi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>284003</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7600594527</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <PAN>FLDPR4212Q</PAN>
+        <FST_NME>RAMKUMARI</FST_NME>
+        <LST_NME>RAMKUMARI</LST_NME>
+        <DOB>1968-01-01</DOB>
+        <AGE>55</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O JAGDISH SAHU,129-1A,AMBEDKAR COLONEYBHUDDH VIHAR KE PASS NAGRAJHANSI</ADD>
+          <CTY>Jhansi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>284003</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAHUL</FST_NME>
+        <LST_NME>SAHU</LST_NME>
+        <RF_MT>
+          <TEL_NO>7388535141</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DHARMENDRA</FST_NME>
+        <LST_NME>AHIRWAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>7388535141</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1287865</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309566_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>BGCPG5113R</PAN>
+        <FST_NME>KAMLESH</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>45</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O MUSE SAO SA 3 3 GOITHAHANPOST SARNATHVARANASI </ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221007</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O MUSE SAO SA 3 3 GOITHAHANPOST SARNATHVARANASI </ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221007</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8112749435</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>KAMLESH TRANSPORT</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>VILLAGE GOITHAHAN SARNAATH VARANASI </ADD>
+            <CTY>Varanasi</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>221007</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8112749435</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CTVPG8953J</PAN>
+        <FST_NME>RITA</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1986-11-10</DOB>
+        <AGE>37</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O KAMLESH GUPTA  GOITHAHANSARNATHVARANASI </ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221007</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>AZAD</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_MT>
+          <TEL_NO>7389364237</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANISH</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_MT>
+          <TEL_NO>7389364237</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>937022</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05309102_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Rajasthan</BRNCH_RGN>
+      <MA>
+        <PAN>ARFPL8723R</PAN>
+        <FST_NME>GOVIND</FST_NME>
+        <LST_NME>LUHAR</LST_NME>
+        <DOB>1991-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>GRAM-ADSIPURABAGOREBHILWARA</ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311402</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>GRAM-ADSIPURABAGOREBHILWARA</ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311402</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8502097909</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>41219064870</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Radhika steel furniture</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>VILLAGE KOSHITHALBHILWARA </ADD>
+            <CTY>Bhilwara</CTY>
+            <STE>Rajasthan</STE>
+            <CTRY>India</CTRY>
+            <PIN>311001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8502097909</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AUCPL7919H</PAN>
+        <FST_NME>BANSHI</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>LUHAR</LST_NME>
+        <DOB>1966-01-01</DOB>
+        <AGE>57</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>VILLAGE ADSIPURABAGOREBHILWARA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311402</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>SANTOKI</FST_NME>
+        <MID_NME>DEVI</MID_NME>
+        <LST_NME>LUHAR</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>45</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>VILLAGE ADSIPURABAGOREBHILWARA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311402</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4147</ORG_CD>
+        <ORG_NME>EVA ASSOCIATES</ORG_NME>
+        <BR_ADD>
+          <ADD>A 15 SHASTRI NAGAR  BHILWARA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>311001</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAJU</FST_NME>
+        <LST_NME>PANCHAL</LST_NME>
+        <RF_CA>
+          <ADD>BHILWARA</ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>6375287932</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DILKHUSH</FST_NME>
+        <RF_CA>
+          <ADD>BHILWARA</ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>6375287932</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>633518</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05301051_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>MP</BRNCH_RGN>
+      <MA>
+        <PAN>ISZPK5426D</PAN>
+        <FST_NME>ABDUL</FST_NME>
+        <MID_NME>ADIL</MID_NME>
+        <LST_NME>ADIL</LST_NME>
+        <DOB>1974-01-01</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H.NO. 316.1 BESIDE NATIONAL PUBLIC SCHOOL THAKKAR GRAM SHASTRI WORD JABALPUR </ADD>
+          <CTY>Jabalpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>482002</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H.NO. 316.1 BESIDE NATIONAL PUBLIC SCHOOL THAKKAR GRAM SHASTRI WORD JABALPUR </ADD>
+          <CTY>Jabalpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>482002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9165784478</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>1234567</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>ATJPA7880L</PAN>
+        <FST_NME>ABDUL</FST_NME>
+        <LST_NME>ASHIK</LST_NME>
+        <DOB>1971-07-02</DOB>
+        <AGE>52</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H.NO. 316.1 BESIDE NATIONAL PUBLIC SCHOOL THAKKAR GRAM SHASTRI WORD JABALPUR </ADD>
+          <CTY>Jabalpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>482002</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>ABDUL</FST_NME>
+        <LST_NME>DILVAR</LST_NME>
+        <DOB>1972-07-04</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H.NO. 316.1 BESIDE NATIONAL PUBLIC SCHOOL THAKKAR GRAM SHASTRI WORD JABALPUR </ADD>
+          <CTY>Jabalpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>482002</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>GOLU</FST_NME>
+        <LST_NME>JI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9144926524</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>GHULAM</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9144926524</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>800000</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309823_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Gujarat</BRNCH_RGN>
+      <MA>
+        <PAN>AZUPJ1928R</PAN>
+        <FST_NME>JETHVA</FST_NME>
+        <LST_NME>VIKRAMSINH</LST_NME>
+        <DOB>1983-04-17</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O AJITSINH,EK DEEK BAPU NI DARGAH,BEDI BANDAR ROADVASILA CHOWK,MAJOTHI NAGAR PASE BEDESHWAR,BEDESHWAR</ADD>
+          <CTY>Jamnagar</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>361002</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O AJITSINH,EK DEEK BAPU NI DARGAH,BEDI BANDAR ROADVASILA CHOWK,MAJOTHI NAGAR PASE BEDESHWAR,BEDESHWAR</ADD>
+          <CTY>Jamnagar</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>361002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9429271808</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CENTRAL BANK OF INDIA</BNK_NM>
+          <ACC_NO>0000001896</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>shri hari bapa sitaram</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>P N MARG, 10 PATEL COLONY NEAR COZY HILL</ADD>
+            <CTY>Jamnagar</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>361002</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9429271808</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>JETHVA</FST_NME>
+        <LST_NME>SHILUBA</LST_NME>
+        <DOB>1987-06-20</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O VIKRAMSINH,EKDE EK BAPU NI DARGAH,BEDI BANDAR ROADVAISHALI CHOWK,NEAR MAJOTHI NAGAR,BEDESHWAR</ADD>
+          <CTY>Jamnagar</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>361002</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MAYURSINH</FST_NME>
+        <LST_NME>JADEJA</LST_NME>
+        <RF_MT>
+          <TEL_NO>9106092212</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MUKESHBHAI</FST_NME>
+        <LST_NME>GYANCHANDANI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9106092212</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>698141</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05309348_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>MH - Pune</BRNCH_RGN>
+      <MA>
+        <PAN>IKJPS0892D</PAN>
+        <FST_NME>KRUSHNA</FST_NME>
+        <MID_NME>DNYANESHWAR</MID_NME>
+        <LST_NME>SALUNKE</LST_NME>
+        <DOB>1998-06-01</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>FLAT NO 16 4TH FLOOR MATOSHRI  APARTMENT JAMBHULWADI ROADAMBEGAON KHPUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>411046</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>FLAT NO 16 4TH FLOOR MATOSHRI  APARTMENT JAMBHULWADI ROADAMBEGAON KHPUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>411046</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9309954404</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>K.S@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+      </MA>
+      <JA>
+        <PAN>RAYPS2425E</PAN>
+        <FST_NME>NIKITA</FST_NME>
+        <MID_NME>KRISHNA</MID_NME>
+        <LST_NME>SALUNKE</LST_NME>
+        <DOB>2002-01-17</DOB>
+        <AGE>21</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>FLAT NO 16 4TH FLOOR MATOSHRI  APARTMENT JAMBHULWADI ROADAMBEGAON KHPUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>411046</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>6089</ORG_CD>
+        <ORG_NME>Bhakti Sales &amp; Services</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>AKASH</FST_NME>
+        <LST_NME>ZAMBARE</LST_NME>
+        <RF_MT>
+          <TEL_NO>8999889414</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SACHIN</FST_NME>
+        <LST_NME>VENGURLEKAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>8999889414</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>938650</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05309316_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Rajasthan</BRNCH_RGN>
+      <MA>
+        <PAN>FDYPS6562M</PAN>
+        <FST_NME>HANUMAN</FST_NME>
+        <MID_NME>SINGH</MID_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1974-01-01</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>MANAKMAGRI SHAKKAR GARH CHORAYA BIJOLIYA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311604</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>RAJPUT MOHALLA RAGHUNATHPURA JALINDRI BHILWADA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311604</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8079065512</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>RAJPUTANA VEG AND NON VEG RETTAURANT </ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SHAKKAR GARH CHORAYA MANAKMAGRI BIJOLIYA </ADD>
+            <CTY>Bhilwara</CTY>
+            <STE>Rajasthan</STE>
+            <CTRY>India</CTRY>
+            <PIN>311602</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8079065512</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AKSPH8000R</PAN>
+        <FST_NME>KISHMAT</FST_NME>
+        <MID_NME>KANWAR</MID_NME>
+        <LST_NME>KANWAR</LST_NME>
+        <DOB>1979-10-28</DOB>
+        <AGE>44</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>MANAKMAGRI SHAKKAR GARH CHORAYA BIJOLIYA </ADD>
+          <CTY>Bhilwara</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>311604</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VIJAY</FST_NME>
+        <LST_NME>JAIN</LST_NME>
+        <RF_MT>
+          <TEL_NO>8949892832</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SHANKAR</FST_NME>
+        <LST_NME>KHATIK</LST_NME>
+        <RF_MT>
+          <TEL_NO>8949892832</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>960729</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05308299_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Nehru Place</BRNCH_RGN>
+      <MA>
+        <PAN>ASPPC6848K</PAN>
+        <FST_NME>PINKI</FST_NME>
+        <LST_NME>CHAKRAWATI</LST_NME>
+        <DOB>1993-03-07</DOB>
+        <AGE>30</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>W O LATE SUBHASH CHAKRAWATI,TA283 5 GALI NO-5,TUGHALAKABAD EXTN.KALKAJISOUTH</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>VILLAGE BILORI POST KHUKSHIBAG</ADD>
+          <CTY>Purnia</CTY>
+          <STE>Bihar</STE>
+          <CTRY>India</CTRY>
+          <PIN>854304</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>NA</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9971588065</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>PINKICHAKRAWATI410@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK</BNK_NM>
+          <ACC_NO>5226822989</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MOHAMMAD KAIF PINKY SETHI VIBHUTI RITA RAY </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>62B F POCKET C  ALAKNANDA MARKET GANGOTRI 68 C POCKET F ALAKNANDA MARKET GANGOTRI </ADD>
+            <CTY>South Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110019</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9971588065</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <RF>
+        <FST_NME>DIPALI</FST_NME>
+        <RF_MT>
+          <TEL_NO>9650628637</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>LAXMI</FST_NME>
+        <LST_NME>DIXTI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9650628637</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1345196</APP_VAL>
+      <TERM>300</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05308616_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Naigaon</BRNCH_RGN>
+      <MA>
+        <PAN>ABJPI3229H</PAN>
+        <FST_NME>IRULE</FST_NME>
+        <MID_NME>DEEPAK</MID_NME>
+        <LST_NME>LAXMAN</LST_NME>
+        <DOB>1989-05-01</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>ROOM NO-3 HOUSE NO 1861  ANUSAYA APT ANANT NAGARNEAR ASHIRWAD HOSPITAL TALAVPALI ROAD NAVI MUMBAI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>ROOM NO-3 HOUSE NO 1861  ANUSAYA APT ANANT NAGARNEAR ASHIRWAD HOSPITAL TALAVPALI ROAD NAVI MUMBAI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8369119210</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>582502010008082</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>ME HIN TECH EDGE SOLUTION</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>IDFC BANK SN7 GF SHREE KRISHNA PARADISE CHSL PLOT NO D 69 SECTOR 12 KHARGHAR NAVI MUMBAI </ADD>
+            <CTY>Mumbai</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>410210</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8369119210</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BVPPG1751B</PAN>
+        <FST_NME>JYOTI</FST_NME>
+        <MID_NME>DIPAK</MID_NME>
+        <LST_NME>IRULE</LST_NME>
+        <DOB>1996-02-29</DOB>
+        <AGE>27</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>ROOM NO-3 HOUSE NO 1861  ANUSAYA APT ANANT NAGARNEAR ASHIRWAD HOSPITAL TALAVPALI ROAD NAVI MUMBAI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DYANESHWAR</FST_NME>
+        <LST_NME>GHODKE</LST_NME>
+        <RF_MT>
+          <TEL_NO>9004144483</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ASHISH</FST_NME>
+        <LST_NME>GORE</LST_NME>
+        <RF_MT>
+          <TEL_NO>9004144483</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>959589</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05307758_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Virar</BRNCH_RGN>
+      <MA>
+        <PAN>AHTPJ6977D</PAN>
+        <FST_NME>OMPRAKASH</FST_NME>
+        <MID_NME>RAMBRIJ</MID_NME>
+        <LST_NME>JAYSAWAR</LST_NME>
+        <DOB>1976-04-05</DOB>
+        <AGE>47</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>Flat no 304 Balwant residency near saravali grampanchayat boisar west</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401501</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>FLAT NO 304 BALWANT RESIDENCY NEAR SARAVALI GRAMPANCHAYAT BOISAR WEST</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401501</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9970361012</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>PAINTEROMPRAKASH@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>MAHANAGAR COOPERATIVE BANK</BNK_NM>
+          <ACC_NO>066011200000258</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>M/s OM PRAKASH R JAYSWAR </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>FLAT NO 304 BALWANT RESIDENCYSARAVALI GRAMPANCHAYAT BOISARDIST PALGHAR</ADD>
+            <CTY>Thane</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>401501</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9970361012</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>SUSHMA</FST_NME>
+        <MID_NME>OM</MID_NME>
+        <LST_NME>PRAKASH</LST_NME>
+        <DOB>1978-05-03</DOB>
+        <AGE>45</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O OM PRAKASH JAYSWAR,NEW BASTI,SHIVAJI NAGARPALGHAR</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>401504</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>NANDKUMAR</FST_NME>
+        <LST_NME>MARATE</LST_NME>
+        <RF_MT>
+          <TEL_NO>8552000863</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ATUL</FST_NME>
+        <LST_NME>PANCHABHUTE</LST_NME>
+        <RF_MT>
+          <TEL_NO>8552000863</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1376408</APP_VAL>
+      <TERM>144</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309484_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Shahdra</BRNCH_RGN>
+      <MA>
+        <PAN>BEHPK0972H</PAN>
+        <FST_NME>NARESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1969-12-01</DOB>
+        <AGE>54</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O SHIV DUTT,21,GOPAL PARKKRISHNA NAGAR,EAST</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110051</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O SHIV DUTT,21,GOPAL PARKKRISHNA NAGAR,EAST</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110051</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9971411581</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>454</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MADHUVAN PARTY LAWN</ORG_NME>
+          <EMP_IND>HOSPITALITY AND TOURISM</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>FARM NO 34 INDIRAPURAM FRIENDS COLONY KANAWANI VILLAGE </ADD>
+            <CTY>Ghaziabad</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9971411581</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DPFPM0967H</PAN>
+        <FST_NME>MEENAKSHI</FST_NME>
+        <LST_NME>MEENAKSHI</LST_NME>
+        <DOB>1981-11-18</DOB>
+        <AGE>42</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O SHIV DUTT,21,GOPAL PARKKRISHNA NAGAR,EAST</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110051</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>NTJPS1221J</PAN>
+        <FST_NME>CHETANYA</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <DOB>2002-03-16</DOB>
+        <AGE>21</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O SHIV DUTT,21,GOPAL PARKKRISHNA NAGAR,EAST</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110051</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>GAURAV</FST_NME>
+        <RF_MT>
+          <TEL_NO>9911999417</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SAGAR</FST_NME>
+        <RF_MT>
+          <TEL_NO>9911999417</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>618267</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05310234_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Sikar</BRNCH_RGN>
+      <MA>
+        <PAN>ELMPP9258J</PAN>
+        <FST_NME>OM</FST_NME>
+        <MID_NME>PRAKASH</MID_NME>
+        <LST_NME>PRAJAPAT</LST_NME>
+        <DOB>1999-07-05</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O BAJRANG LAL PRAJAPAT,WARD NO 11SOLA SIKAR RAJASTHAN </ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332312</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O BAJRANG LAL PRAJAPAT,WARD NO 11SOLA SIKAR RAJASTHAN </ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332312</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>na</ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8875310966</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>Om Prakash Prajapat</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>MODI COLLEGE KE SAMNE NAGAR PALIKAGETE KE PASS LAXMANGARH SIKAR RAJASTHAN </ADD>
+            <CTY>Sikar</CTY>
+            <STE>Rajasthan</STE>
+            <CTRY>India</CTRY>
+            <PIN>332311</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8875310966</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>NKBPK6342B</PAN>
+        <FST_NME>BAJARANG</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>KUMAWAT</LST_NME>
+        <DOB>1973-01-01</DOB>
+        <AGE>50</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O BAJRANG LAL PRAJAPAT,WARD NO 11SOLA SIKAR RAJASTHAN </ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332312</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>SANTOSH</FST_NME>
+        <LST_NME>SANTOSH</LST_NME>
+        <DOB>1975-01-01</DOB>
+        <AGE>48</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O BAJRANG LAL PRAJAPAT,WARD NO 11SOLA SIKAR RAJASTHAN </ADD>
+          <CTY>Sikar</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>332312</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5920</ORG_CD>
+        <ORG_NME>Andromeda Sales And Distribution PVT LTD</ORG_NME>
+        <BR_ADD>
+          <ADD>Ground Floor, H no.1-19-4, Sriram Nagar, East Godavari District, East Godavari, Andhra Pradesh </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>401202</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>KULDA</FST_NME>
+        <LST_NME>SONI</LST_NME>
+        <RF_MT>
+          <TEL_NO>9982560768</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>BIVA</FST_NME>
+        <LST_NME>KUMAWAT</LST_NME>
+        <RF_MT>
+          <TEL_NO>9982560768</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1112000</APP_VAL>
+      <TERM>300</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05308248_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Delhi-Jhandewalan</BRNCH_RGN>
+      <MA>
+        <PAN>ELAPS6372C</PAN>
+        <FST_NME>PUSHPENDER</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1991-03-07</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O LATE SHANKAR SINGH,B-275 SECOND FLOOR KH.NO-29-8 GALI NO-2SUSHILA GARDENMANDOLI CHUNGI </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110093</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O LATE SHANKAR SINGH,B-275 SECOND FLOOR KH.NO-29-8 GALI NO-2SUSHILA GARDENMANDOLI CHUNGI </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110093</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8447370774</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UCO BANK</BNK_NM>
+          <ACC_NO>5793</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>PUSHPNDER DOCUMENTS</ORG_NME>
+          <EMP_IND>LEGAL SERVICES</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>D-403 KARKARDUMANA COURT </ADD>
+            <CTY>East Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110032</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8447370774</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HGIPS0780N</PAN>
+        <FST_NME>PRIYANKA</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1994-08-28</DOB>
+        <AGE>29</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O LATE SHANKAR SINGH,B-275 SECOND FLOOR KH.NO-29-8 GALI NO-2SUSHILA GARDENMANDOLI CHUNGI </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110093</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VIKASH</FST_NME>
+        <RF_MT>
+          <TEL_NO>8585927504</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>TIWARI</FST_NME>
+        <LST_NME>JI</LST_NME>
+        <RF_MT>
+          <TEL_NO>8585927504</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1742817</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05306957_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Ahmedabad-Narol</BRNCH_RGN>
+      <MA>
+        <PAN>CEZPP1675R</PAN>
+        <FST_NME>PARTAPBHAI</FST_NME>
+        <MID_NME>PIRAJI</MID_NME>
+        <LST_NME>PARMAR</LST_NME>
+        <DOB>1974-06-01</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>KAMUMIYA NI CHALI,NAGORI KABRASTANNR NAGORI KABRASTAN</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380004</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>KAMUMIYA NI CHALI,NAGORI KABRASTANNR NAGORI KABRASTAN</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380004</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9978539911</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>12250100005874</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>" M/s Chamunda wood &amp; works furniture and scraping work </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PRATAPBHAI PARMAR OPP SHAHPUR FIRE STATION </ADD>
+            <CTY>Ahmedabad</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>380004</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9978539911</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>FOMPP7023B</PAN>
+        <FST_NME>KANKUBEN</FST_NME>
+        <MID_NME>PRATAPBHAI</MID_NME>
+        <LST_NME>PARMAR</LST_NME>
+        <DOB>1980-06-01</DOB>
+        <AGE>43</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>KAMUMIYA NI CHALI,NAGORI KABRASTANNR NAGORI KABRASTAN</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380004</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5750</ORG_CD>
+        <ORG_NME>RANA HIREN RAMCHANDRA</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>DIPAKBHAI</FST_NME>
+        <RF_MT>
+          <TEL_NO>7330030078</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAMESHBHAI</FST_NME>
+        <RF_MT>
+          <TEL_NO>7330030078</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1140393</APP_VAL>
+      <TERM>264</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05308543_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Ahmedabad-Narol</BRNCH_RGN>
+      <MA>
+        <PAN>CMAPK1409F</PAN>
+        <FST_NME>KOLI</FST_NME>
+        <MID_NME>MAHAVAR</MID_NME>
+        <LST_NME>MUKESHKUMAR</LST_NME>
+        <DOB>1981-05-13</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>1 BAIJIVINI CHALI INTVADA SARSPUR AHMEDABAD </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380018</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>1 BAIJIVINI CHALI INTVADA SARSPUR AHMEDABAD </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380018</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9327418001</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>353502010514083</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>GLOBAL WASTE MANAGEMENT CELL PVT LTD</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>GLOBAL WASTE MANAGEMENT CELL PVT LTDTANMAN BHAJIPAV CROSS ROADOPP STYAM AAVAS VASTRAL </ADD>
+            <CTY>Ahmedabad</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>382418</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9327418001</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>GLHPM4654J</PAN>
+        <FST_NME>RENUKA</FST_NME>
+        <MID_NME>MUKESHKUMAR</MID_NME>
+        <LST_NME>MAHAWAR</LST_NME>
+        <DOB>1990-10-19</DOB>
+        <AGE>33</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>1 BAIJIVINI CHALI INTVADA SARSPUR AHMEDABAD </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380018</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DEEP</FST_NME>
+        <LST_NME>SING</LST_NME>
+        <RF_MT>
+          <TEL_NO>9726215145</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAHUL</FST_NME>
+        <RF_MT>
+          <TEL_NO>9726215145</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1726666</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05308066_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Lucknow-Ayodhya Road</BRNCH_RGN>
+      <MA>
+        <PAN>CFIPG9637Q</PAN>
+        <FST_NME>POOJA</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1995-11-15</DOB>
+        <AGE>28</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>W O LALIT GUPTA,631 265,ISAMIGANNEAR GURGA MANDIR</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226028</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>W O LALIT GUPTA,631 265,ISAMIGANNEAR GURGA MANDIR</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226028</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8433389901</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB AND SIND BANK</BNK_NM>
+          <ACC_NO>93747293</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Veer enterprises</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>TAKROHI BAZAR MAIN ROAD TAKROHI </ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>226028</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8433389901</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AJBPG5653M</PAN>
+        <FST_NME>LALIT</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1982-08-08</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O RAJ BAHADUR GUPTA,631 265,ISMAILGANJ</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226016</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SUMIT</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <RF_MT>
+          <TEL_NO>8112500965</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NEERAJ</FST_NME>
+        <LST_NME>DUBEY</LST_NME>
+        <RF_MT>
+          <TEL_NO>8112500965</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>635405</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05309030_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Ratlam</BRNCH_RGN>
+      <MA>
+        <PAN>GKYPK4551C</PAN>
+        <FST_NME>PAPPU</FST_NME>
+        <LST_NME>KHAROL</LST_NME>
+        <DOB>1982-01-01</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O DEVRAM,MAKAN N 89,WARD N 3TEH PIPLODA ,KESHAR PURA,DIST RATLAM</ADD>
+          <CTY>Ratlam</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>457331</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O DEVRAM,MAKAN N 89,WARD N 3TEH PIPLODA ,KESHAR PURA,DIST RATLAM</ADD>
+          <CTY>Ratlam</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>457331</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9424019842</TEL_NO>
+        </MA_MT>
+      </MA>
+      <JA>
+        <FST_NME>RAJU</FST_NME>
+        <MID_NME>BAI</MID_NME>
+        <LST_NME>KHAROL</LST_NME>
+        <DOB>1984-01-01</DOB>
+        <AGE>39</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>S O DEVRAM,MAKAN N 89,WARD N 3TEH PIPLODA ,KESHAR PURA,DIST RATLAM</ADD>
+          <CTY>Ratlam</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>457331</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAHUL</FST_NME>
+        <RF_MT>
+          <TEL_NO>7869296563</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SHYAM</FST_NME>
+        <LST_NME>MALI</LST_NME>
+        <RF_MT>
+          <TEL_NO>7869296563</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>519225</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05307279_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Chhatarpur-MP</BRNCH_RGN>
+      <MA>
+        <PAN>DNMPR0988E</PAN>
+        <FST_NME>BRANDRAVAN</FST_NME>
+        <LST_NME>RAJPOOT</LST_NME>
+        <DOB>1992-09-05</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O HALKE,WARD NUMBER 18,RAJA PURBADA MALEHARA,BADAMALEHARA</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471311</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O HALKE,WARD NUMBER 18,RAJA PURBADA MALEHARA,BADAMALEHARA</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471311</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7999025244</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>BINDRAVANRAJPOOT981@GAMIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_EMP>
+          <ORG_NME>RAJPUT MOBILE</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>VISWAAS HOSPITAL KE SAMNEWARD NO 13 BADAMALEHRACHHTARPUR MP</ADD>
+            <CTY>Chhatarpur</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>471311</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7999025244</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>KESHAR</FST_NME>
+        <LST_NME>RAJPOOT</LST_NME>
+        <DOB>1994-01-01</DOB>
+        <AGE>29</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O VINDRAVAN.GRAM-PATPURA,SENDPA</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471311</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>PUSPENDRA</FST_NME>
+        <RF_MT>
+          <TEL_NO>6260392135</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NEELESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>6260392135</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>511414</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05308519_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Chhatarpur-MP</BRNCH_RGN>
+      <MA>
+        <PAN>BJZPY3469A</PAN>
+        <FST_NME>ANURUDDH</FST_NME>
+        <MID_NME>SINGH</MID_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1992-07-15</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>SHIV SINGH,H,NO.CHATIPARICHATIPARI,CHATIPAHARI</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471111</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>SHIV SINGH,H,NO.CHATIPARICHATIPARI,CHATIPAHARI</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471111</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8959518910</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>50100574645925</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>YADAV MOBILE</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>YADAV MOBILE SHOPOLD SBI BUILDING MAIN ROAD HARPALPUR</ADD>
+            <CTY>Chhatarpur</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>471111</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8959518910</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BNHPY1922J</PAN>
+        <FST_NME>NIDHI</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1997-01-01</DOB>
+        <AGE>26</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>SHIV SINGH,H,NO.CHATIPARICHATIPARI,CHATIPAHARI</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471111</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RANJEET</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_MT>
+          <TEL_NO>8878067979</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAHISH</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_MT>
+          <TEL_NO>8878067979</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>403938</APP_VAL>
+      <TERM>60</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05302347_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Chhatarpur-MP</BRNCH_RGN>
+      <MA>
+        <PAN>KUPPS9113B</PAN>
+        <FST_NME>SUNIL</FST_NME>
+        <LST_NME>SAHU</LST_NME>
+        <DOB>1998-01-01</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>WARD NUMBER 14,RAJPOOT COLONYHARPALPUR</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471111</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>WARD NUMBER 14,RAJPOOT COLONYHARPALPUR</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471111</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9770965991</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SAHU KIRANA</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>WARD NO.14RAJPOOT COLONY HARPALPUR</ADD>
+            <CTY>Chhatarpur</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>471111</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9770965991</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AEPPL6629D</PAN>
+        <FST_NME>CHHEDA</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>SAHU</LST_NME>
+        <DOB>1953-08-12</DOB>
+        <AGE>70</AGE>
+        <GNDR>MALE</GNDR>
+      </JA>
+      <RF>
+        <FST_NME>DHARMENDRA</FST_NME>
+        <LST_NME>SAHU</LST_NME>
+        <RF_MT>
+          <TEL_NO>9752350260</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DEVENDRA</FST_NME>
+        <LST_NME>SAHU</LST_NME>
+        <RF_MT>
+          <TEL_NO>9752350260</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>985725</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05305417_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Hoshiarpur</BRNCH_RGN>
+      <MA>
+        <PAN>AEKPJ7943R</PAN>
+        <FST_NME>YASHU</FST_NME>
+        <LST_NME>JAIN</LST_NME>
+        <DOB>1983-03-11</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O SURESH KUMAR JAIN,HOUSE NUMBER-121,NEAR KANAK MANDIWARD NUMBER-24,GARI GATE</ADD>
+          <CTY>Hoshiarpur</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>146001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O SURESH KUMAR JAIN,HOUSE NUMBER-121,NEAR KANAK MANDIWARD NUMBER-24,GARI GATE</ADD>
+          <CTY>Hoshiarpur</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>146001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7986366092</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>55139512185</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>M/s SURESH KALIRA HOUSE ‘</ORG_NME>
+          <EMP_IND>SALES</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>HOUSE NUMBER 121GARHI GATE HOSHIAR </ADD>
+            <CTY>Hoshiarpur</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>146001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7986366092</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <BR>
+        <ORG_CD>5878</ORG_CD>
+        <ORG_NME>Vikram Sharma</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>KUNDAL</FST_NME>
+        <LST_NME>JAIN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9872606610</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>VANIT</FST_NME>
+        <LST_NME>JAIN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9872606610</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>650000</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05309226_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>Mundka</BRNCH_RGN>
+      <MA>
+        <PAN>ADMPL1835D</PAN>
+        <FST_NME>SAHIB</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1982-05-01</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>D  36 VIJAY VIHARPHASE 1DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110085</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>D  36 VIJAY VIHARPHASE 1DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110085</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>VIJAY VIHAR PHASE 1</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110085</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8700582066</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SAROJNI RAJNI.PRESS CENTER</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>1728 MULTANI MOHALLA RANI BAGH DELHI</ADD>
+            <CTY>North West Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110034</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8700582066</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>ERAPR9207M</PAN>
+        <FST_NME>RAJNI</FST_NME>
+        <LST_NME>RAJNI</LST_NME>
+        <DOB>1987-05-04</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>D 36 VIJAY VIHAR PHASE 1 DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110085</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>KQWPS1547C</PAN>
+        <FST_NME>SAROJ</FST_NME>
+        <LST_NME>SAROJ</LST_NME>
+        <DOB>1983-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>D  36 VIJAY VIHARPHASE 1DELHI</ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110085</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5920</ORG_CD>
+        <ORG_NME>Andromeda Sales And Distribution PVT LTD</ORG_NME>
+        <BR_ADD>
+          <ADD>Ground Floor, H no.1-19-4, Sriram Nagar, East Godavari District, East Godavari, Andhra Pradesh </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>401202</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAVI</FST_NME>
+        <RF_MT>
+          <TEL_NO>9871721416</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>AJAY</FST_NME>
+        <RF_MT>
+          <TEL_NO>9871721416</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1272810</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05308680_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>WASHIM</BRNCH_RGN>
+      <MA>
+        <PAN>FWSPB5301J</PAN>
+        <FST_NME>DURGA</FST_NME>
+        <MID_NME>PRAKASH</MID_NME>
+        <LST_NME>BHALERAO</LST_NME>
+        <DOB>1986-08-11</DOB>
+        <AGE>37</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>AT.PO TANDALI SHEVAI</ADD>
+          <CTY>Washim</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>444505</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>AT.PO TANDALI SHEVAI</ADD>
+          <CTY>Washim</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>444505</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9011371538</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK</BNK_NM>
+          <ACC_NO>0921122010000094</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>M/s JAY BHOLE SADI CENTER AND JANRAL STORE </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>TANDALI SHEVAI TANDLI WASHIM MAHARASHTRA </ADD>
+            <CTY>Washim</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>444505</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9011371538</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DBQPB3694R</PAN>
+        <FST_NME>PRAKASH</FST_NME>
+        <MID_NME>HARIBHAU</MID_NME>
+        <LST_NME>BHALERAO</LST_NME>
+        <DOB>1981-05-15</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>TANDALI SHEWAL,TANDAL SHEWA</ADD>
+          <CTY>Washim</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>444505</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MAROTI</FST_NME>
+        <LST_NME>BHALERAO</LST_NME>
+        <RF_MT>
+          <TEL_NO>9922183067</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DEEPAK</FST_NME>
+        <LST_NME>BHALERAO</LST_NME>
+        <RF_MT>
+          <TEL_NO>9922183067</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>639631</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>S_APPL05304292_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-12-18</DATE>
+      <APP_DTE>2023-12-18</APP_DTE>
+      <BRNCH_RGN>ANANTHAPUR</BRNCH_RGN>
+      <MA>
+        <PAN>BWLPN1115K</PAN>
+        <FST_NME>KUNUHEPU</FST_NME>
+        <MID_NME>SATYA</MID_NME>
+        <LST_NME>NARAYANA</LST_NME>
+        <DOB>1979-01-01</DOB>
+        <AGE>44</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>D NO 11- 163,VADLA VEEDHIVADLA VEEDHI, PAMIDI ANANTAPUR ANDHRA PRADESH </ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515775</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>D NO 11- 163,VADLA VEEDHIVADLA VEEDHI, PAMIDI ANANTAPUR ANDHRA PRADESH </ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515775</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8125719688</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>RAJESWARI TAILORING WORKS </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD> DNO 11-163, PAMIDI  VILLAGE, PAMIDI MANDAL, ANANTAPUR ANDHRA PRADESH </ADD>
+            <CTY>Anantapur</CTY>
+            <STE>Andhra Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>515775</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8125719688</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>EUAPR8105P</PAN>
+        <FST_NME>KUNUHEPU</FST_NME>
+        <LST_NME>RAJESWARI</LST_NME>
+        <DOB>1986-01-01</DOB>
+        <AGE>37</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O KUNUHEPU SATYA NARAYANA,11 163,VADIA VEEDHIVADLA VEEDHI, PAMIDI ANANTAPUR </ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515775</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VENKATESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9704567319</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PRAVEEN</FST_NME>
+        <RF_MT>
+          <TEL_NO>9704567319</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

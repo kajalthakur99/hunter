@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>455772</APP_VAL>
+      <TERM>360</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05227533_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-10-09</DATE>
+      <APP_DTE>2022-10-08</APP_DTE>
+      <BRNCH_RGN>Mahavir Enclave</BRNCH_RGN>
+      <MA>
+        <PAN>AMOPR0459C</PAN>
+        <FST_NME>NEHA</FST_NME>
+        <LST_NME>RANI</LST_NME>
+        <DOB>1986-06-01</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>D 70 A G F CHAWLA NIWAS CHANK YA PLACEPRAT 140FEET RD UTTAM NGR WEST DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>D 70 A G F CHAWLA NIWAS CHANK YA PLACEPRAT 140FEET RD UTTAM NGR WEST DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>CONFLUENCE BUILDING A 24 INFO TECHNOLOGYPARK SEC 34GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9971808051</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>002901556720</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AMOPR0459C</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>NIIT LIMITED</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>CONFLUENCE BUILDING A 24 INFO TECHNOLOGYPARK SEC 34GURGAON</ADD>
+            <CTY>Gurgaon</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>122001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9953027254</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CBCPS7353F</PAN>
+        <FST_NME>KRISHNA</FST_NME>
+        <MID_NME>PRASAD</MID_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1964-03-01</DOB>
+        <AGE>58</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>D 70 A G F CHAWLA NIWAS CHANK YA PLACEPRAT 140FEET RD UTTAM NGR WEST DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4142</ORG_CD>
+        <ORG_NME>THE COMPANIONS</ORG_NME>
+        <BR_ADD>
+          <ADD>110  1ST  FLOOR BAJAJ TOWE4R JAIL  ROAD   JANAKPURI </ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110034</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>AKSHAY</FST_NME>
+        <LST_NME>BEHL</LST_NME>
+        <RF_CA>
+          <ADD>C 21 MAHINDRA PARK UTTAM NGR ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9560212131</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SANDEEP</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>C 21 MAHINDRA PARK UTTAM NGR ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9560212131</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

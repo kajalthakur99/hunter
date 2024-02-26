@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1030042</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05217611_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-08-07</DATE>
+      <APP_DTE>2022-08-07</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>EXVPS0715N</PAN>
+        <FST_NME>RAMPRASAD</FST_NME>
+        <LST_NME>SONI</LST_NME>
+        <DOB>1990-08-03</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>KORAUT BAZAR, CORAUT, VARANASI KOTAWA KOUTTAR PRADESH </ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221105</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>KORAUT BAZAR,CORAUT, VARANASI,KOTAWA KORUTTAR PRADESH</ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221105</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>KORAUT BAZAR, CORAUT, VARANASI KOTAWA K</ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221105</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>6388732906</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>749802010004211</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>RAMPRASAD</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>MAHMUDPUR RELWEY FATAK KE PASSBHARTHARA LOHATA VARANASI</ADD>
+            <CTY>Varanasi</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>221105</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>6388732906</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>RADHA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1992-01-01</DOB>
+        <AGE>30</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>142 KORAUT BAZAR, CORAUT, VARANASI</ADD>
+          <CTY>Varanasi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>221105</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

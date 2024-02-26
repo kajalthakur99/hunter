@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>100000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05261436_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-05-23</DATE>
+      <APP_DTE>2023-05-23</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEXFS0490P</PAN>
+        <FST_NME>SHYAM BUILDHOME</FST_NME>
+        <LST_NME>SHYAM BUILDHOME</LST_NME>
+        <DOB>2023-01-02</DOB>
+        <MP_CA>
+          <ADD>P NO 65 GOVIND NAGAR VISTAR GOKULPURA KALWARROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 65 GOVIND NAGAR VISTAR GOKULPURA KALWARROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9929443575</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>MSPARSWAL23@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>14716014076</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHYAM BUILDHOME</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 65 GOVIND NAGAR VISTAR GOKULPURA KALWARROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9929443575</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Survey 82 / B Final Plot No 59 / 2 TPS No 109 Shyam Kutir  2 Nava</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382345</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>MSPARSWAL23@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>KEVPS5301P</PAN>
+        <FST_NME>VIKASH</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>SESMA</LST_NME>
+        <DOB>2000-01-09</DOB>
+        <AGE>23</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO D 146 KARDHANI SCHEME KALWAR ROAD JHOTWAR JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ALZPJ3358E</PAN>
+        <FST_NME>MOHAN</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1979-10-08</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 65 GOVIND NAGAR VISTAR GOKULPURA KALWARROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BUMPD1067M</PAN>
+        <FST_NME>KUNANI</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1983-03-04</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 65 GOVIND NAGAR VISTAR GOKULPURA KALWARROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>GANPAT</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <RF_CA>
+          <ADD>P N 12 13 JAY DADI NAGAR KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9887613517</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ARJUN</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <RF_CA>
+          <ADD>P N 12 13 JAY DADI NAGAR KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9887613517</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

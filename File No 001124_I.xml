@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>191257</APP_VAL>
+      <TERM>24</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05313077_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2024-01-02</DATE>
+      <APP_DTE>2024-01-01</APP_DTE>
+      <BRNCH_RGN>NARNAUL</BRNCH_RGN>
+      <MA>
+        <PAN>CETPS4492D</PAN>
+        <FST_NME>Harinder</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1984-04-15</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>889/A-554, ward no-28, near hisar lain Rewari, Rewari, Rewari RAMSINGH PURA, REWARI, HARYANA, INDIA, 123401</ADD>
+          <CTY>Rewari</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123401</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>889/A-554, ward no-28, near hisar lain Rewari, Rewari, Rewari RAMSINGH PURA, REWARI, HARYANA, INDIA, 123401</ADD>
+          <CTY>Rewari</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123401</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9996161970</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>34555518417</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>GUPTA METAL</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>DELHI ROAD NEAR RAO TULA RAM STADIUM REWARI </ADD>
+            <CTY>Rewari</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>123401</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9996161970</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CUYPD5856P</PAN>
+        <FST_NME>KAMLESH</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1956-09-28</DOB>
+        <AGE>67</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>MAKAN NO. 889/A/554, WARD NO. 28, REWARI REWARI, REWARI, RAM SINGH PURA REWARI, HARYANA, INDIA, 123401</ADD>
+          <CTY>Rewari</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123401</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>ANIL</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>9050337342</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAJESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9050337342</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

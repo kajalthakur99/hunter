@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>80000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05286180_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-10-18</DATE>
+      <APP_DTE>2023-10-18</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AFAFS0493L</PAN>
+        <FST_NME>SIDDHI VINAYAK BUILDERS</FST_NME>
+        <LST_NME>SIDDHI VINAYAK BUILDERS</LST_NME>
+        <DOB>2023-05-17</DOB>
+        <MP_CA>
+          <ADD>P NO 103 HANUMAN VATIKA - A GOKUL PURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 103 HANUMAN VATIKA - A GOKUL PURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9849473053</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>KHNWARAMJAAT@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>418105001639</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SIDDHI VINAYAK BUILDERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 103 HANUMAN VATIKA - A GOKUL PURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302017</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9849473053</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO  35, 36, 37, 40, 41, 42SCHEME HANUMAN VIHAR, BALRAMPURA URF KHEJADON KA BASSANGANER, JAIPUR - 302020</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302020</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>KHNWARAMJAAT@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>BDCPR8157D</PAN>
+        <FST_NME>SHYOJI</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <DOB>1987-07-06</DOB>
+        <AGE>36</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO - 103 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AVOPJ4780D</PAN>
+        <FST_NME>KHINWA</FST_NME>
+        <MID_NME>RAM</MID_NME>
+        <LST_NME>JAT</LST_NME>
+        <DOB>1981-09-01</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO - 103 HANUMAN VATIKA  AGOKULPURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BBJPJ7456E</PAN>
+        <FST_NME>DOLA</FST_NME>
+        <MID_NME>RAM</MID_NME>
+        <LST_NME>JAT</LST_NME>
+        <DOB>1985-07-15</DOB>
+        <AGE>38</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO B 65 SHRI GOVIND VIHAR B SIRSI LINK ROAD KALWAR  ROAD  JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

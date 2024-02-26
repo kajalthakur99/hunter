@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>2</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>8400000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05254273_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-04-01</DATE>
+      <APP_DTE>2023-03-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ADDFS7827H</PAN>
+        <FST_NME>SAINIK REAL ESTATE</FST_NME>
+        <LST_NME>SAINIK REAL ESTATE</LST_NME>
+        <DOB>2016-09-26</DOB>
+        <MP_CA>
+          <ADD>P NO 4 VIPIN GARDEN EXTN UTTAM NAGAR ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 4 VIPIN GARDEN EXTN UTTAM NAGAR ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9911669926</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>SRE.REGD@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>235505000380</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SAINIK REAL ESTATE</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 4 VIPIN GARDEN EXTN UTTAM NAGAR ND</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9911669926</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No 155 &amp; 156, Part of Khasra No 61,Village Nawada, Vipin GardenExtension, Gali No 22, Uttam Nagar, New Delhi</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>SRE.REGD@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>BWJPS2274N</PAN>
+        <FST_NME>BHARAT</FST_NME>
+        <MID_NME>BHUSHAN</MID_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1984-12-27</DOB>
+        <AGE>38</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>D 174 3RD FLR NAWADA HOUSING COMPLEX UTTAM NAGAR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BAZPK6496A</PAN>
+        <FST_NME>RAVI</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1985-04-12</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>A 30 B SHIVPURI PHASE 2 DINPUR NAJAFGARHNEW DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110043</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AROPM6609A</PAN>
+        <FST_NME>AJIT</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>MISHRA</LST_NME>
+        <DOB>1986-01-10</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H NO D 67 TF D BLOCK NAWADA HOUSING COMPLEX </ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>NAVEEN</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>P NO 4VIPIN GARDEN EXTENSION DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9625959068</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>HIMANSHU</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>P NO 4VIPIN GARDEN EXTENSION DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9625959068</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>25000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05256662_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-04-01</DATE>
+      <APP_DTE>2023-04-01</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAHFO2867J</PAN>
+        <FST_NME>OMKAR INFRA</FST_NME>
+        <LST_NME>OMKAR INFRA</LST_NME>
+        <DOB>2021-02-01</DOB>
+        <MP_CA>
+          <ADD>SURVEY NO 2292 KHATA NO 830 OMKAR ELITE BAREJA AHMEDABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>SURVEY NO 2292 KHATA NO 830 OMKAR ELITE BAREJA AHMEDABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9979508502</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>BANK OF BARODAA</BNK_NM>
+          <ACC_NO>75210100003533</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>OMKAR INFRA</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>SURVEY NO 2292 KHATA NO 830 OMKAR ELITE BAREJA AHMEDABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9979508502</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>SURVEY NO 2292 KHATA NO 830 OMKAR ELITE BAREJA AHMEDABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>ALTPR8267Q</PAN>
+        <FST_NME>RAMI</FST_NME>
+        <LST_NME>NAREDRABHAI</LST_NME>
+        <DOB>1970-05-21</DOB>
+        <AGE>52</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>B 37 VANDEVI BUNGLOW NR SMRUTI MANDIRAHMEDABAD CITY</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380050</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BFUPB7390Q</PAN>
+        <FST_NME>BAROLIYA</FST_NME>
+        <MID_NME>RAVI</MID_NME>
+        <LST_NME>ARVINDBHAI</LST_NME>
+        <DOB>1992-12-19</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>01 1 PUSHPAK 2 BH ALOK BUNGLOW GHODASARAHMEDABAD CITY </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380050</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AVNPM7558F</PAN>
+        <FST_NME>SUNDEEP</FST_NME>
+        <MID_NME>LAKHRAJMAL</MID_NME>
+        <LST_NME>MAHESHWARI</LST_NME>
+        <DOB>1977-01-21</DOB>
+        <AGE>46</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>A 45 CHANDRIKA PARK SOCIETY NR GOKUL NAGARGHODASAR OPP MANGLAM SOCIETY AHMEDBAD CITY GHODASAR </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380050</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4384</ORG_CD>
+        <ORG_NME> Cityfincorp</ORG_NME>
+        <BR_ADD>
+          <ADD>Shop NO14 Satkar Avenue  Naroda Road </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <PIN>382345</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>VISHAL</FST_NME>
+        <LST_NME>MAHESHWARI</LST_NME>
+        <RF_CA>
+          <ADD>26 B ANAND TENAMENTISANPUR </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7990696334</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PRAKASHBHAI</FST_NME>
+        <LST_NME>RAMI</LST_NME>
+        <RF_CA>
+          <ADD>26 B ANAND TENAMENTISANPUR </ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>382425</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7990696334</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

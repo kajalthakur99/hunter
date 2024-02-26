@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>10</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>12500000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05192235_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MA>
+        <PAN>ARNPD1328C</PAN>
+        <FST_NME>RAM</FST_NME>
+        <MID_NME>NARAYAN</MID_NME>
+        <LST_NME>DAS</LST_NME>
+        <DOB>1968-08-15</DOB>
+        <AGE>53</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>P NO 7 AND 14 UGF FRONT SIDE MOHAN GARDENRAMCHANDR  ENCLAVE UTTAM</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>P NO 7 AND 14 UGF FRONT SIDE MOHAN GARDENRAMCHANDR  ENCLAVE UTTAM</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Plot No. 30, Part of Khasra No. 65/9Village Hastsal, K-1 Extension, Zaildar EnclaveGarden, New Delhi</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110066</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9810435524</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>12345</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>ARNPD1328C</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>NARAYAN ASSOCIATES</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>GROUND FLR 19 20 21 RAM CHANDERENCLAVE MOHAN GARDEN UTTAM NAGARDELHI</ADD>
+            <CTY>West Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110059</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9810435524</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>EQQPK8491H</PAN>
+        <FST_NME>SAWAN</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1997-01-01</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>P NO 7 AND 14 UGF FRONT SIDE MOHAN GARDENRAMCHANDR  ENCLAVE UTTAM</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4719</ORG_CD>
+        <ORG_NME>Battuck Business Solution</ORG_NME>
+        <BR_ADD>
+          <ADD>L-66,GuruDuwara Road,Mohan Garden,Uttam nagar, Delhi </ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <PIN>201302</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>15000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05192314_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MA>
+        <GNDR>UNKNOWN</GNDR>
+        <MA_CA>
+          <ADD>SHOP AT PLOT NO 07 OM VIHAR PHASE 4 UTTAM NAGAR NEW DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>SHOP AT PLOT NO 07 OM VIHAR PHASE 4 UTTAM NAGAR NEW DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Plot No. 75 &amp; 76Part of Khasra No. 66/17Village Hastsal, Om Vihar Block- D-1</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9911168478</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>abcad@gmail.com</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF BIKANER AND JAIPUR</BNK_NM>
+          <ACC_NO>1234</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>AJHPT7578C</PAN>
+        <FST_NME>DINESH</FST_NME>
+        <LST_NME>TYAGI</LST_NME>
+        <DOB>1985-01-25</DOB>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>WZ 19 OM VIHAR PHASE 4 UTTAM NAGAR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>AIVPR0317C</PAN>
+        <FST_NME>SAGAR</FST_NME>
+        <LST_NME>RAJPUT</LST_NME>
+        <DOB>1975-02-14</DOB>
+        <AGE>47</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>W Z 7 PHASE 4 OM VIHAR UTTAM NGRDL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>APRPT4785P</PAN>
+        <FST_NME>RAHUL</FST_NME>
+        <LST_NME>TYAGI</LST_NME>
+        <DOB>1994-02-06</DOB>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>A 1/124 HASTSAL ROAD  UTTAM NAGAR </ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4620</ORG_CD>
+        <ORG_NME>Sarvesh Kumar Gupta</ORG_NME>
+        <BR_ADD>
+          <ADD>B20, Bhagwati Garden , Dwarka Mor , New Delhi  </ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110034</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>HARDEEP</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>W Z 8 PHASE 4 OM VIHAR 4 UTTAM NGR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7678559520</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PUNIT</FST_NME>
+        <LST_NME>ARORA</LST_NME>
+        <RF_CA>
+          <ADD>W Z 8 PHASE 4 OM VIHAR 4 UTTAM NGR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7678559520</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>50000000</APP_VAL>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05193179_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MA>
+        <GNDR>UNKNOWN</GNDR>
+        <MA_CA>
+          <ADD>B 75 S 4 SHYAM PARK EXTN SHYAHIBABADGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>B 75 S 4 SHYAM PARK EXTN SHYAHIBABADGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9999994766</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>GALAXYMOBILE.ARUN@GAMIL.COM</EMA_ADD>
+        </MA_EMA>
+      </MA>
+      <JA>
+        <PAN>ADNPT1851A</PAN>
+        <FST_NME>ARUN</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>TYAGI</LST_NME>
+        <DOB>1981-05-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 82 9 MOHALLA NAVEEN PARKSHAHIBABADGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>AHNPM9499B</PAN>
+        <FST_NME>SHANKAR</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>MITTAL</LST_NME>
+        <DOB>1983-01-06</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO G 02 D GULMOHAR GREEN SOCIETYMOHAN NAGARGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201007</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VIRENDRA</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>203 B BHOPRA GZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9718436667</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SANJAY</FST_NME>
+        <LST_NME>GARG</LST_NME>
+        <RF_CA>
+          <ADD>203 B BHOPRA GZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9718436667</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>4100000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05192622_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-03-26</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MA>
+        <GNDR>UNKNOWN</GNDR>
+        <MA_CA>
+          <ADD>Z 3 DHAYALSAR ROAD UTTAM NAGAR DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>Z 3 DHAYALSAR ROAD UTTAM NAGAR DL</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Part of Plot No. 78Part of Khasra No. 57/12,Vijay Nagar, Mohan Garden Extension Village Hastsal, Uttam Nagar New Delhi</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110066</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8700231818</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>abddc@gmail.com</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>123</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AAYCS9142A</DOC_NO>
+        </MA_ID>
+      </MA>
+      <JA>
+        <PAN>ADJPJ7365D</PAN>
+        <FST_NME>AVDHESH</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>JAISWAL</LST_NME>
+        <DOB>1970-05-14</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>B 1 15 15 A HASTSAL VIHARUTTAM NAGAR NEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>31000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05192240_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MA>
+        <GNDR>UNKNOWN</GNDR>
+        <MA_CA>
+          <ADD>GF PLOT NO 227 A2278 VIPIN GARDEN UTTAM NAGAR WEST DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>GF PLOT NO 227 A2278 VIPIN GARDEN UTTAM NAGAR WEST DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Plot No. E-118, Part of Khasra No. 167,168,169,169/1,Village Nawada, Delhi State DelhiNawada Housing Complex, Uttam Nagar</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8882512034</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>12345</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AEJFS4505F</DOC_NO>
+        </MA_ID>
+      </MA>
+      <JA>
+        <PAN>CNXPP8393K</PAN>
+        <FST_NME>UMESH</FST_NME>
+        <LST_NME>PASWAN</LST_NME>
+        <DOB>1974-05-05</DOB>
+        <AGE>47</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>D 188 NAWADA HOUSING COMPLEXUTAM NAGAR DK MOHAN GARDENWEST DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>BLGPK3662J</PAN>
+        <FST_NME>AJIT</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1988-05-16</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO D 62 BLOCK DSEWAK PARK UTTAM NAGAR DK MOHAN GARDEN DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>CRLPP3141F</PAN>
+        <FST_NME>VIJAY</FST_NME>
+        <LST_NME>PAL</LST_NME>
+        <DOB>1980-09-10</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>PLOT NO 1 TO 8 NEW PLOT NO 123F F NIDHI VIHAR VIPIN GARDEN UTTMA NGARDELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAJENDER</FST_NME>
+        <LST_NME>GOSA</LST_NME>
+        <RF_CA>
+          <ADD>D 137 UGF BACK SIDENAWADA HOUSING COMPLEXDELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9871295232</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANOJ</FST_NME>
+        <RF_CA>
+          <ADD>D 137 UGF BACK SIDENAWADA HOUSING COMPLEXDELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9871295232</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>3178126</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05191120_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-23</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>FMFPK4594F</PAN>
+        <FST_NME>ANUJ</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1996-06-19</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>KH NO 127 TULSI PURAMIRADAT NAGAR TRIVENI NAGARLUCKNOW</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>RASAULINEAR ARYA SAMAJ MANDIRBARABANKI</ADD>
+          <CTY>Barabanki</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>225001</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>A house constructed on plot no. 51, part of khasra no.18,at Village- Lohramau, Ward Faizullaganj, Tehsil and Distt. Lucknow,</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9198887588</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>07502191030024</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>FMFPK4594F</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>OM PHARMA CEUTICALS</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>OM PHARMACEUTICALSSHOP NO S8 SALAM MEDICINE MARKETAMINABAD LUCKNOW</ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>226001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9198887588</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CTFPR9717R</PAN>
+        <FST_NME>ROSHNI</FST_NME>
+        <LST_NME>SONI</LST_NME>
+        <DOB>1998-08-05</DOB>
+        <AGE>23</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>KH NO 127 TULSI PURAMIRADAT NAGAR TRIVENI NAGARLUCKNOW</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226001</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4222</ORG_CD>
+        <ORG_NME>Durgesh Giri</ORG_NME>
+        <BR_ADD>
+          <ADD>lower ground floor shagun palace </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <PIN>226001</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2462535</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05191334_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-13</APP_DTE>
+      <BRNCH_RGN>Nehru Place</BRNCH_RGN>
+      <MA>
+        <PAN>ENFPK1187Q</PAN>
+        <FST_NME>RAJU</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1996-12-19</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HNO RZ 38 A GALI NO 3 TUGHLAKABAD EXTENSION KALKA JI SOUTH DELHI</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>HNO RZ 38 A GALI NO 3 TUGHLAKABAD EXTENSION KALKA JI SOUTH DELHI</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Property bearing no. RZ-57-H/7 First Floor Front side (without roof rightsFalling under Khasra no. 496 &amp; 497,Situated at Tughlakabad Extn. New Delhi</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8470870402</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>AXIS BANK</BNK_NM>
+          <ACC_NO>000000000</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>ENFPK1187Q</DOC_NO>
+        </MA_ID>
+      </MA>
+      <JA>
+        <PAN>GDEPD8076A</PAN>
+        <FST_NME>URMILA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>44</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HNO RZ 38 A GALI NO 3 TUGHLAKABAD EXTENSION KALKA JI SOUTH DELHI</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RUPESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>RZ 570 GALI NO 7 TUGHLAKABAD EXTN</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8700604180</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAJESH</FST_NME>
+        <RF_CA>
+          <ADD>RZ 570 GALI NO 7 TUGHLAKABAD EXTN</ADD>
+          <CTY>South Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110019</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8700604180</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2973979</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05189230_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-27</APP_DTE>
+      <BRNCH_RGN>Ghaziabad</BRNCH_RGN>
+      <MA>
+        <PAN>DRZPK3182A</PAN>
+        <FST_NME>AJAY</FST_NME>
+        <LST_NME>KASHYAP</LST_NME>
+        <DOB>1994-11-15</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>TEHSIL DHAULANA DISTT HAPUR PILKH UWADEHATI 144 PARTAPUR GHAZIABAD UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>TEHSIL DHAULANA DISTT HAPUR PILKH UWADEHATI 144 PARTAPUR GHAZIABAD UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Khasra No. 1215/1 &amp; 1215/2, Partapur RoadPilkhuwa, Pargana DasnaTehsil Dhaulana, Distt. Hapur</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8923358835</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>3705000101080180</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>DRZPK3182A</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>SHREE SAI MEDICOS</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>N H 24 NIKAT SABJI MANDIBUS SATANDPILKHUWA HAPUR UP</ADD>
+            <CTY>Ghaziabad</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>245304</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8923358835</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>KABPK9213A</PAN>
+        <FST_NME>POOJA</FST_NME>
+        <LST_NME>KASHYAP</LST_NME>
+        <DOB>1997-09-06</DOB>
+        <AGE>24</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>TEHSIL DHAULANA DISTT HAPUR PILKH UWADEHATI 144 PARTAPUR GHAZIABAD UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>BUGPA4955H</PAN>
+        <FST_NME>ARUN</FST_NME>
+        <LST_NME>ARUN</LST_NME>
+        <DOB>1990-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD> PARTAPUR PILKHUWAPOST OFFICE GHAZIABADUP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>AADESH</FST_NME>
+        <RF_CA>
+          <ADD>TEHSIL SHAULANA DISTHAPUR PILUWA DEHAT 144PARTHAPUR</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7668419141</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PANKAJ</FST_NME>
+        <RF_CA>
+          <ADD>TEHSIL SHAULANA DISTHAPUR PILUWA DEHAT 144PARTHAPUR</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>245304</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7668419141</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2562859</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05183394_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2021-12-31</APP_DTE>
+      <BRNCH_RGN>Ghaziabad</BRNCH_RGN>
+      <MA>
+        <PAN>FBBPK6505B</PAN>
+        <FST_NME>RAHUL</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1991-12-12</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>23 BHOWA PUR GHAZIABADATOR NAGLA UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201003</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>23 BHOWA PUR GHAZIABADATOR NAGLA UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201003</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>KHASRA NO. 271 MIN VILLAGE OF DHARGAL, PARGANA JALALABADTEHSIL &amp; DISTT. GHAZIABAD, (U.P.)</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201206</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8130813022</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>INDIAN OVERSEAS BANK</BNK_NM>
+          <ACC_NO>2931</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>FBBPK6505B</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>NATIONAL ENGINEERING WORKS</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>H NO 18 PREM ENCLAVE MEERUT ROADGZB</ADD>
+            <CTY>Ghaziabad</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8130813022</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>RENU</FST_NME>
+        <LST_NME>RENU</LST_NME>
+        <DOB>1995-07-10</DOB>
+        <AGE>26</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>23 BHOWA PUR GHAZIABADATOR NAGLA UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201003</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>ANUJ</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>SIHANI MEERUT ROADGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201006</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8802811825</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>YASHPAL</FST_NME>
+        <RF_CA>
+          <ADD>SIHANI MEERUT ROADGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201006</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8802811825</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>3000000</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05191360_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-01-03</DATE>
+      <APP_DTE>2022-02-12</APP_DTE>
+      <BRNCH_RGN>Jaipur-Bagru</BRNCH_RGN>
+      <MA>
+        <PAN>AQJPC0931B</PAN>
+        <FST_NME>URMILA</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <DOB>1990-07-01</DOB>
+        <AGE>31</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>QUATAR N 3 OLD QUATARSANGANERJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302011</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>NIMODIYA TESHIL CHAKSU JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>303901</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>PLOT NO. G-9, SCHEME NO 4GTIRUPATI BALAJI NAGAR,TONK ROAD SANGANER, JAIPUR.</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302011</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9602887049</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>51102595130</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AQJPC0931B</DOC_NO>
+        </MA_ID>
+      </MA>
+      <JA>
+        <PAN>BBUPB9580Q</PAN>
+        <FST_NME>HANUMAN</FST_NME>
+        <MID_NME>SAHAI</MID_NME>
+        <LST_NME>BENIWAL</LST_NME>
+        <DOB>1984-08-10</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>QUATAR N 3 OLD QUATARSANGANERJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302011</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>OM</FST_NME>
+        <LST_NME>SAWAMI</LST_NME>
+        <RF_CA>
+          <ADD>JADIKA PATAKJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302039</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9929835405</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SURESH</FST_NME>
+        <LST_NME>MEENA</LST_NME>
+        <RF_CA>
+          <ADD>JADIKA PATAKJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302039</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9929835405</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

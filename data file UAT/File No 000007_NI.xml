@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>22000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05227130_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-10-01</DATE>
+      <APP_DTE>2022-09-30</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEDFS1622P</PAN>
+        <FST_NME>SHUBHAM ASSOCIATES</FST_NME>
+        <LST_NME>SHUBHAM ASSOCIATES</LST_NME>
+        <DOB>2022-09-19</DOB>
+        <MP_CA>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9825022336</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>MAHAH@EMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>50200054049830</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHUBHAM ASSOCIATES</ORG_NME>
+        <TAN_NO>1</TAN_NO>
+        <MAC_ADD>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9825022336</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>MAHAH@EMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AIYPD0316L</PAN>
+        <FST_NME>PIYUSH</FST_NME>
+        <MID_NME>NANDLALBHAI</MID_NME>
+        <LST_NME>DHANANI</LST_NME>
+        <DOB>1979-09-23</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AFIPP8485P</PAN>
+        <FST_NME>JIGISH</FST_NME>
+        <MID_NME>ROHITBHAI</MID_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1977-06-06</DOB>
+        <AGE>45</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AMUPS0671B</PAN>
+        <FST_NME>HITESHKUMAR</FST_NME>
+        <MID_NME>SHANTILAL</MID_NME>
+        <LST_NME>SAVAJ</LST_NME>
+        <DOB>1980-07-13</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>B M HEIGHTS KHOKHARA MANI NGR ABAD</ADD>
+          <CTY>Ahmedabad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>380008</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5363</ORG_CD>
+        <ORG_NME>R.K Account and finance</ORG_NME>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

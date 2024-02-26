@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>42200000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05251872_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-03-02</DATE>
+      <APP_DTE>2023-02-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAZFK6203G</PAN>
+        <FST_NME>KANHA SMART HOMZ LLP</FST_NME>
+        <LST_NME>KANHA SMART HOMZ LLP</LST_NME>
+        <DOB>2018-02-24</DOB>
+        <MP_CA>
+          <ADD>LONI SAHIBABADGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>LONI SAHIBABADGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9599247108</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>ABC@GMAIL.CO</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>KOTAK MAHINDRA BANK LIMITED</BNK_NM>
+          <ACC_NO>06770120011080</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>KANHA SMART HOMZ LLP</ORG_NME>
+        <TAN_NO>A</TAN_NO>
+        <MAC_ADD>
+          <ADD>LONI SAHIBABADGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9599247108</TEL_NO>
+        </MAC_TEL>
+        <MAC_EMA>
+          <EMA_ADD>ABC@GMAIL.CO</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AGNPS4438F</PAN>
+        <FST_NME>RAJESH</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <DOB>1970-12-20</DOB>
+        <AGE>52</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>FLAT NO D 134 A GF SECTOR 26 NOIDA GB NAGAR</ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201301</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ADLPK2675D</PAN>
+        <FST_NME>SANJEEV</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1971-11-02</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>9 47 SECTOR 3RAJENDER NAGAR SAHIBADGZB UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AIJPK1969K</PAN>
+        <FST_NME>SACHIN</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1980-01-01</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H NO 28 DURGA COLONYSAHIBABAD MALAK NAGARGHAZIABAD UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5554</ORG_CD>
+        <ORG_NME>Nitin Sharma</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>SANJAY</FST_NME>
+        <LST_NME>TYAGI</LST_NME>
+        <RF_CA>
+          <ADD>9 36 A SEC 3 SATENDER NGRGHAZIABADUP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9711667700</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ASHISH</FST_NME>
+        <LST_NME>CHAUHAN</LST_NME>
+        <RF_CA>
+          <ADD>9 36 A SEC 3 SATENDER NGRGHAZIABADUP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9711667700</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

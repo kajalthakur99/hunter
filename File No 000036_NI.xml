@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>65000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05282346_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-09-13</DATE>
+      <APP_DTE>2023-09-12</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ABXFA1317L</PAN>
+        <FST_NME>ASTHA DREAM HOMES</FST_NME>
+        <LST_NME>ASTHA DREAM HOMES</LST_NME>
+        <DOB>2021-12-09</DOB>
+        <MP_CA>
+          <ADD>PLOT NO - 46 JAI DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>PLOT NO - 46 JAI DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9782864535</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>MUKESH864535@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>071900284208</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>ASTHA DREAM HOMES</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>PLOT NO - 46 JAI DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9782864535</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO - 46 JAI DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>MUKESH864535@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>BLVPC1690K</PAN>
+        <FST_NME>MUKESH</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <DOB>1994-01-11</DOB>
+        <AGE>29</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO - 46 JAI DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AILPL3476G</PAN>
+        <FST_NME>SOHAN</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1992-08-08</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P N 122 VINAYAK VIHAR GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AROPP3216A</PAN>
+        <FST_NME>BENA</FST_NME>
+        <MID_NME>RAM</MID_NME>
+        <LST_NME>PARASWAL</LST_NME>
+        <DOB>1967-05-09</DOB>
+        <AGE>56</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO - 15 JAI DADI NAGAR GOKULPURA KALWAR ROAD JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

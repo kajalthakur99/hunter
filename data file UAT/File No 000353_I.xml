@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1019035</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05232047_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-11-12</DATE>
+      <APP_DTE>2022-11-12</APP_DTE>
+      <BRNCH_RGN>MP</BRNCH_RGN>
+      <MA>
+        <PAN>BFGPA2270E</PAN>
+        <FST_NME>ASHOK</FST_NME>
+        <LST_NME>GIRI</LST_NME>
+        <DOB>1981-06-06</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>A 42 B DEVSHREE COLONY WARD NO 14PITHAMPUR</ADD>
+          <CTY>Dhar</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>454775</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>A 42 B DEVSHREE COLONY WARD NO 14PITHAMPUR</ADD>
+          <CTY>Dhar</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>454775</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>resi</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>452001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9753893902</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>00000053020314205</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>FLEXITUFF VENTURE LTD</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>C 41 50 SEC 3 PITHAMPUR</ADD>
+            <CTY>Dhar</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>454775</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7792420200</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>FWPPB2243N</PAN>
+        <FST_NME>JYOTI</FST_NME>
+        <LST_NME>BAI</LST_NME>
+        <DOB>1986-01-01</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>A 42 B DEVSHREE COLONY WARD NO 14PITHAMPUR</ADD>
+          <CTY>Dhar</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>454775</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>YASH</FST_NME>
+        <LST_NME>VERMA</LST_NME>
+        <RF_CA>
+          <ADD>RAJ MOHALLA MHOW</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>453441</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9399433106</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SHYAM</FST_NME>
+        <LST_NME>OJHA</LST_NME>
+        <RF_CA>
+          <ADD>RAJ MOHALLA MHOW</ADD>
+          <CTY>Indore</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>453441</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9399433106</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

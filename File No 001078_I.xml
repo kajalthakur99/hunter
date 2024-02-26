@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1689381</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05306864_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-12-10</DATE>
+      <APP_DTE>2023-12-09</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>AEAPU5257M</PAN>
+        <FST_NME>NITIN</FST_NME>
+        <MID_NME>GOPAL</MID_NME>
+        <LST_NME>UBALE</LST_NME>
+        <DOB>1974-03-07</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HOUSE NO 316 ROOM NO 01 KOTACHI ALIBEHIND HANUMAN MANDIR SECTOR 19 KOPERKHAIRNENAVI MUMBAI KOPAR KHAIRNE KOPAR KHAIRNE</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>AT POST KHARIVALI TALUKA SHAHPUR THANE DISTRICT THANE </ADD>
+          <CTY>Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>421601</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8655750298</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>7257</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>ADPPU5173L</PAN>
+        <FST_NME>VANITA</FST_NME>
+        <MID_NME>NITIN</MID_NME>
+        <LST_NME>UBALE</LST_NME>
+        <DOB>1978-06-05</DOB>
+        <AGE>45</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HOUSE NO.316,ROOM NO.01,KOTACHI ALIBEHIND HANUMAN MANDIR,SECTOR 19,KOPERKHAIRNENAVI MUMBAI,KOPAR KHAIRNE KOPAR KHAIRNE</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>6103</ORG_CD>
+        <ORG_NME>H.P.S. Enterprises</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>ANIL</FST_NME>
+        <LST_NME>GHANGHA</LST_NME>
+        <RF_MT>
+          <TEL_NO>8097281878</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PRAKASH</FST_NME>
+        <LST_NME>KADAM</LST_NME>
+        <RF_MT>
+          <TEL_NO>8097281878</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

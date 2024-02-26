@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1042008</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05220479_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-11</DATE>
+      <APP_DTE>2022-09-10</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>FFNPK9556Q</PAN>
+        <FST_NME>FARHAN</FST_NME>
+        <LST_NME>KHAN</LST_NME>
+        <DOB>1993-09-12</DOB>
+        <AGE>28</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>ST NO 1,SAMRAT COLONY,GIASPURA,SUA ROAD</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141014</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>ST NO 1,SAMRAT COLONY,GIASPURA,SUA ROAD</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141014</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9915954070</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>55159466483</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>S K AGGARWAL</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SK AGGARWALEXPOKANGANWAL ROAD</ADD>
+            <CTY>Ludhiana</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>141014</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9915954070</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>MGHPK4869G</PAN>
+        <FST_NME>NIHAL</FST_NME>
+        <LST_NME>KHAN</LST_NME>
+        <DOB>2000-01-01</DOB>
+        <AGE>22</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>ST NO 1,SAMRAT COLONY,GIASPURA,SUA ROAD</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141014</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>FGBPK6791N</PAN>
+        <FST_NME>KAMRAN</FST_NME>
+        <LST_NME>KHAN</LST_NME>
+        <DOB>1992-01-01</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>ST NO 1,SAMRAT COLONY,GIASPURA,SUA ROAD</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141014</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

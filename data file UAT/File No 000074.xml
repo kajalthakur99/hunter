@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>5</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>347007</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05177986_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-03-27</DATE>
+      <APP_DTE>2022-02-26</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>DULPK1784B</PAN>
+        <FST_NME>LAKHAN</FST_NME>
+        <LST_NME>KASHYAP</LST_NME>
+        <DOB>1996-05-20</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>NARAYAN VIHAR COLONY KASHYAP PURI GANDHIJIVANRAMTEDI BAGIYA AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>NARAYAN VIHAR COLONY KASHYAP PURI GANDHIJIVANRAMTEDI BAGIYA AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD> KHASRA NO. 1292/9, PLOT NO. 104 A SITUATED AT NEAR NARAYAN VIHAR NEAR GARHI JIWANRAM MAUZA NARAYACH TEHSIL ETMADPUR JILLA AGRA 282006 </ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8006965156</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>35800100006077</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>DULPK1784B</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>AGRA TILES PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>AGRA TILES PVT LTDSHAHDRA CHUNGIFIROZABAD ROAD AGRA</ADD>
+            <CTY>Agra</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>282006</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8630531436</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DEIPD7507A</PAN>
+        <FST_NME>MEENA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1970-09-11</DOB>
+        <AGE>51</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>NARAYAN VIHAR COLONY KASHYAP PURI GANDHIJIVANRAMTEDI BAGIYA AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>EOHPK7307K</PAN>
+        <FST_NME>SUNDAR</FST_NME>
+        <LST_NME>KASHYAP</LST_NME>
+        <DOB>1997-01-01</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>NARAYAN VIHAR COLONY KASHYAP PURI GANDHIJIVANRAMTEDI BAGIYA AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>ATHPL6533F</PAN>
+        <FST_NME>RAM</FST_NME>
+        <MID_NME>JI</MID_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1966-01-01</DOB>
+        <AGE>55</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>NARAYAN VIHAR COLONY KASHYAP PURI GANDHIJIVANRAMTEDI BAGIYA AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>JITU</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>HANUMAN NAGARRAM BAGHAGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8630531436</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SHIV</FST_NME>
+        <LST_NME>CHARAN</LST_NME>
+        <RF_CA>
+          <ADD>HANUMAN NAGARRAM BAGHAGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8630531436</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2314897</APP_VAL>
+      <TERM>96</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05198514_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-27</DATE>
+      <APP_DTE>2022-03-27</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>AFAPT2840Q</PAN>
+        <FST_NME>SANTOSH</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>TIWARI</LST_NME>
+        <DOB>1964-10-09</DOB>
+        <AGE>57</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HOUSE ON KHASRA NO-9 PART OFFAZULLAGANJ LUCKNOW</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226013</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>RAWSINGPUR, RAWSINGPURSITAPUR</ADD>
+          <CTY>Sitapur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>261405</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>HOUSE ON PLOT OF KHASRA NO-528 VILL MARIYAAON PARGANA MAHONAA BAKSHI KAA TALAB </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226021</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8090343077</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>4786001500125287</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MANISHA PROJECTS PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>MANISHA PROJECTS PVT LTDD-23 RDCRAJ NAGAR, GHAZIABAD</ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>226006</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8090343077</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BFXPT2135J</PAN>
+        <FST_NME>ANKIT</FST_NME>
+        <LST_NME>TRIPATHI</LST_NME>
+        <DOB>1998-09-16</DOB>
+        <AGE>23</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>HOUSE ON PART OF KHASRA NO-9FAZULLAGANJ LUCKNOW</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226013</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>BZEPT3723R</PAN>
+        <FST_NME>BEBI</FST_NME>
+        <LST_NME>TIVARI</LST_NME>
+        <DOB>1975-01-01</DOB>
+        <AGE>47</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HOUSE ON PART OF KHASRA NO-9FAZULLAGANJ LUCKNOW</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226013</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>103819</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05188593_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-03-27</DATE>
+      <APP_DTE>2022-01-28</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>FJHPK5665J</PAN>
+        <FST_NME>RAMESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1968-01-01</DOB>
+        <AGE>54</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>VILL JAGIRPUR SURJIT COLONY NEAR SHIV MANDIR </ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141007</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H.NO14,ST.NO2,GAUTAM CILONEY,JAGIRPURROAD BAJRA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141007</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Surjit Colony, Ludhiana and comprised of Khata no. 97/101, 98/102 Khasra no. 16//6, 7/1 Khata no 102/106 ,103/107 Village Jagirpur Hadbast no. 70 Tehsil and District Ludhiana</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9988698845</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UCO BANK</BNK_NM>
+          <ACC_NO>25950110001011</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>FJHPK5665J</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>RAMESH CYCLE WORKS</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>RAMESH CYCLE WORKSST.NO9,SURJEET COLONEY,JAGIRPUR ROAD</ADD>
+            <CTY>Ludhiana</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>141007</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9988698845</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HDHPK1956A</PAN>
+        <FST_NME>PARDEEP</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1996-01-01</DOB>
+        <AGE>26</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>	VILL JAGIRPUR SURJIT COLONY NEAR SHIV MANDIR</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141007</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>RANI</FST_NME>
+        <LST_NME>RANI</LST_NME>
+        <DOB>1982-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>	VILL JAGIRPUR SURJIT COLONY NEAR SHIV MANDIR</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141007</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>983225</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05197291_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-27</DATE>
+      <APP_DTE>2022-03-27</APP_DTE>
+      <BRNCH_RGN>Dombivali</BRNCH_RGN>
+      <MA>
+        <PAN>AYCPM1206M</PAN>
+        <FST_NME>SANJAY</FST_NME>
+        <MID_NME>JAGESHWAR</MID_NME>
+        <LST_NME>MANDAL</LST_NME>
+        <DOB>1986-10-03</DOB>
+        <AGE>35</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HNO 809 B NAVADE GAON POST NAVADE TALUJAPANVEL</ADD>
+          <CTY>Raigarh(MH)</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410208</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>VILL PACH MUNIYA POST THARADIHA DIST MADHUBANI</ADD>
+          <CTY>Madhubani</CTY>
+          <STE>Bihar</STE>
+          <CTRY>India</CTRY>
+          <PIN>847211</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>HNO 809 B NAVADE GAON POST NAVADE TALUJAPANVEL</ADD>
+          <CTY>Raigarh(MH)</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410208</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8356041323</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>4510000100025442</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>OM SAI ENTERPRISES</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SHOP NO 175 A NAVADE VILL NR DATA MANDIR TALUJA</ADD>
+            <CTY>Raigarh(MH)</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>410208</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8356041323</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CBYPM3438H</PAN>
+        <FST_NME>SITA</FST_NME>
+        <MID_NME>SANJAY</MID_NME>
+        <LST_NME>MANDAL</LST_NME>
+        <DOB>1989-06-10</DOB>
+        <AGE>32</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HNO 809 B NAVADE GAON POST NAVADE TALUJAPANVEL</ADD>
+          <CTY>Raigarh(MH)</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410208</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>BHAJANLAL</FST_NME>
+        <RF_CA>
+          <ADD>FLAT 101 LIO COLONY KALAMBOLI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410218</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9821282820</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MAQSOOD</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <RF_CA>
+          <ADD>FLAT 101 LIO COLONY KALAMBOLI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410218</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9821282820</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2106328</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05196931_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-27</DATE>
+      <APP_DTE>2022-03-27</APP_DTE>
+      <BRNCH_RGN>Lucknow-Ayodhya Road</BRNCH_RGN>
+      <MA>
+        <PAN>ARMPJ0964F</PAN>
+        <FST_NME>MOHD</FST_NME>
+        <LST_NME>JUNAID</LST_NME>
+        <DOB>1991-01-20</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>568 KHA/568 GEETA PALLI ALAMBAGH</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226005</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>125 MAIN ROAD NIKAT NATIONAL MONTASSORYSCHOOL SHEIKH 2DEVA BARABANKI</ADD>
+          <CTY>Barabanki</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>225301</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7497979709</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>KOTAK MAHINDRA BANK LIMITED</BNK_NM>
+          <ACC_NO>9613087613</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MJ HOSPITAL</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>568 KHA/568 GEETA PALLI ALAMBAGH</ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>226005</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7497979709</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>APUPH5597J</PAN>
+        <FST_NME>MAHFISHA</FST_NME>
+        <LST_NME>JUNAID</LST_NME>
+        <DOB>1998-02-06</DOB>
+        <AGE>24</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>568 KHA/568 GEETA PALLI ALAMBAGH</ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226005</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5517</ORG_CD>
+        <ORG_NME>Yogendra singh</ORG_NME>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

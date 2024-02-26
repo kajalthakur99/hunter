@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>4</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>622847</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05285979_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-09-11</DATE>
+      <APP_DTE>2023-09-10</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>GHCPM5624M</PAN>
+        <FST_NME>SUHAIL</FST_NME>
+        <LST_NME>MALIK</LST_NME>
+        <DOB>2002-09-04</DOB>
+        <AGE>21</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>SHARIF MALIK,RC-41 GALI NO-1,HIMALAYA VIHAR COLONY</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>SHARIF MALIK,RC-41 GALI NO-1,HIMALAYA VIHAR COLONY</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7011203677</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>SUHAIL.MALIK4849@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_EMP>
+          <ORG_NME>TATWA TECHNOLOGIES LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>A-86SECTOR -57NOIDA </ADD>
+            <CTY>Noida</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201301</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7011203677</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>PARVIN</FST_NME>
+        <LST_NME>PARVIN</LST_NME>
+        <DOB>1981-01-01</DOB>
+        <AGE>42</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>SHARIF MALIK,RC-41 GALI NO-1,HIMALAYA VIHAR COLONY</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5972</ORG_CD>
+        <ORG_NME>Posiguide Solutions</ORG_NME>
+        <BR_ADD>
+          <ADD>POSIGUIDE SOLUTIONS, FIRST FLOOR BUILDING NO 14 OFFICE NO 10 VEER SAVAKAR BLOCK SHAKARPUR DELHI </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110092</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>AMIR</FST_NME>
+        <LST_NME>MALIK</LST_NME>
+        <RF_MT>
+          <TEL_NO>9582636634</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SUMIT</FST_NME>
+        <LST_NME>VERMA</LST_NME>
+        <RF_MT>
+          <TEL_NO>9582636634</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1194454</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05285913_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-09-11</DATE>
+      <APP_DTE>2023-09-10</APP_DTE>
+      <BRNCH_RGN>MP</BRNCH_RGN>
+      <MA>
+        <PAN>GWHPM4193R</PAN>
+        <FST_NME>ANIKET</FST_NME>
+        <LST_NME>MEENA</LST_NME>
+        <DOB>2000-02-20</DOB>
+        <AGE>23</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H NO 54,NEAR FOOTA MAKBARATEELA JAMALPURA</ADD>
+          <CTY>Bhopal</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>462001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 54,NEAR FOOTA MAKBARATEELA JAMALPURA</ADD>
+          <CTY>Bhopal</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>462001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9993722002</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SWASTIK TOUR AND TRAVELS</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>4,55, CHHATRASAL NAGARPHASE 2NARELA SHANKARI </ADD>
+            <CTY>Bhopal</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>462021</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9993722002</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HZIPM7750M</PAN>
+        <FST_NME>VIVEK</FST_NME>
+        <LST_NME>MEENA</LST_NME>
+        <DOB>2002-04-28</DOB>
+        <AGE>21</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 54,NEAR FOOTA MAKBARATEELA JAMALPURA</ADD>
+          <CTY>Bhopal</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>462001</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <FST_NME>SALONI</FST_NME>
+        <LST_NME>RANA</LST_NME>
+        <DOB>2003-02-14</DOB>
+        <AGE>20</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 54,NEAR FOOTA MAKBARATEELA JAMALPURA</ADD>
+          <CTY>Bhopal</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>462001</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VIPUL</FST_NME>
+        <LST_NME>GOUR</LST_NME>
+        <RF_MT>
+          <TEL_NO>9770975958</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ANAND</FST_NME>
+        <LST_NME>AHIRWAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>9770975958</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>940574</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05283792_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-09-11</DATE>
+      <APP_DTE>2023-09-10</APP_DTE>
+      <BRNCH_RGN>Delhi-Yamuna Vihar</BRNCH_RGN>
+      <MA>
+        <PAN>KJNPK8351Q</PAN>
+        <FST_NME>MAKESHWAR</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1989-01-15</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>3 NUMBER BIJLI GHARGTB HOSPITAL MORCHRI KE PICHEDILSHAD GARDEN </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110095</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>3 NUMBER BIJLI GHARGTB HOSPITAL MORCHRI KE PICHEDILSHAD GARDEN </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110095</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9650014581</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>4535</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>AZFARUDDIN ENGINEERS AND GOVT CONTRACTOR</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>QUARTER NUMBER C 41 CAMPUSGTB HOSPITAL DILSHAD GARDEN DELHI DELHI</ADD>
+            <CTY>East Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110095</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9650014581</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>FVHPD9638E</PAN>
+        <FST_NME>MIKKI</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1994-01-01</DOB>
+        <AGE>29</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>3 NUMBER BIJLI GHARGTB HOSPITAL MORCHRI KE PICHEDILSHAD GARDEN </ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110095</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>JAGDIS</FST_NME>
+        <RF_MT>
+          <TEL_NO>7982825341</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>GUDDU</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>7982825341</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>382049</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05285553_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-09-11</DATE>
+      <APP_DTE>2023-09-11</APP_DTE>
+      <BRNCH_RGN>Nandurbar</BRNCH_RGN>
+      <MA>
+        <PAN>CRZPG8798K</PAN>
+        <FST_NME>SHANTARAM</FST_NME>
+        <MID_NME>SURESH</MID_NME>
+        <LST_NME>GAVIT</LST_NME>
+        <DOB>1987-01-01</DOB>
+        <AGE>36</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>Nandurbar, Nandurbar, Ranale Khurd At-Ranale Post- Bhadwad Tal- Dist- Nandurbar, Bhadvad, Maharashtra INDIA, 425416</ADD>
+          <CTY>Nandurbar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>425416</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>Nandurbar, Nandurbar, Ranale Khurd At-Ranale Post- Bhadwad Tal- Dist- Nandurbar, Bhadvad, Maharashtra INDIA, 425416</ADD>
+          <CTY>Nandurbar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>425416</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7447872484</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>MAHARASHTRA GOVERMENT</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>AT RANALE POST BHADWADTAL DIST NANDURBAR </ADD>
+            <CTY>Nandurbar</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>425416</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7447872484</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>KAUSHALYA</FST_NME>
+        <MID_NME>SHANTARAM</MID_NME>
+        <LST_NME>GAVIT</LST_NME>
+        <DOB>1991-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>NANDURBAR, NANDURBAR, RANALE KHURD AT-RANALE POST- BHADWAD TAL- DIST- NANDURBAR, BHADVAD, MAHARASHTRA INDIA, 425416</ADD>
+          <CTY>Nandurbar</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>425416</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>VASUDEV</FST_NME>
+        <LST_NME>GAVIT</LST_NME>
+        <RF_MT>
+          <TEL_NO>8806331299</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAISING</FST_NME>
+        <LST_NME>GAVIT</LST_NME>
+        <RF_MT>
+          <TEL_NO>8806331299</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

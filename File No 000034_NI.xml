@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>2</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>100000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280885_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-08-28</DATE>
+      <APP_DTE>2023-08-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAECF4781G</PAN>
+        <FST_NME>FRAME FORTUNE HOMES PVT LTD </FST_NME>
+        <LST_NME>FRAME FORTUNE HOMES PVT LTD </LST_NME>
+        <DOB>2021-03-06</DOB>
+        <MP_CA>
+          <ADD>IST FLOOR 325,327,335,339OFFICERS CAMPUS EXCT JAIPUR RAJASTHAN</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>IST FLOOR 325,327,335,339OFFICERS CAMPUS EXCT JAIPUR RAJASTHAN</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9829097212</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>JSBHATI0302@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>AU SMALL FINANCE BANK LIMITED</BNK_NM>
+          <ACC_NO>2121221735990593</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>FRAME FORTUNE HOMES PVT LTD </ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>IST FLOOR 325,327,335,339OFFICERS CAMPUS EXCT JAIPUR RAJASTHAN</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9829097212</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>KCL Building  Shop no 03  150 feet ring road junction  Amin marg  Rajkot  360004</ADD>
+          <CTY>Rajkot</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>360004</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>JSBHATI0302@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AGGPB8088H</PAN>
+        <FST_NME>JITENDRA</FST_NME>
+        <MID_NME>SINGH</MID_NME>
+        <LST_NME>BHATI</LST_NME>
+        <DOB>1977-08-26</DOB>
+        <AGE>46</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>399 G -1 VAISHALI NAGAROFFICERS CAMPUS EXTENSIONSIRSI ROAD HUGLI MARG  JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AJOPB3966H</PAN>
+        <FST_NME>NEETU</FST_NME>
+        <LST_NME>BHATI</LST_NME>
+        <DOB>1976-07-15</DOB>
+        <AGE>47</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>399 G -1 VAISHALI NAGAROFFICERS CAMPUS EXTENSIONSIRSI ROAD HUGLI MARG  JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>6033</ORG_CD>
+        <ORG_NME>TL Center Advisors Pvt. Ltd.</ORG_NME>
+        <BR_ADD>
+          <ADD>A SQUARE APPARAISAL ,14/13 TELEPHONE EXCHANGE ROAD SAMALKA NEW DELHI </ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <PIN>122001</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAJESH</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>25 AMADHUVANWATIKA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302031</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9875201969</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NARPAT</FST_NME>
+        <LST_NME>RATHORE</LST_NME>
+        <RF_CA>
+          <ADD>25 AMADHUVANWATIKA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302031</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9875201969</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>75000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05275435_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-08-28</DATE>
+      <APP_DTE>2023-08-28</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEZFS0775D</PAN>
+        <FST_NME>SHRI RAM HEIGHTS</FST_NME>
+        <LST_NME>SHRI RAM HEIGHTS</LST_NME>
+        <DOB>2023-04-05</DOB>
+        <MP_MT>
+          <TEL_NO>9660043432</TEL_NO>
+        </MP_MT>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>71900389562</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHRI RAM HEIGHTS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_TEL>
+          <TEL_NO>9660043432</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No. R-10 / 45, R-10 / 46, R-10 / 47, R-10 / 48,Chordiya City Indraprasth ColonyAjmer Road, Jaipur  302012</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+      </SME>
+      <CP>
+        <PAN>IHPPS3800E</PAN>
+        <FST_NME>SATISH</FST_NME>
+        <LST_NME>SATISH</LST_NME>
+        <DOB>1998-11-23</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO 186 SURYA NAGAR B BADARAMA KALAWAR ROADJOTHWARJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BURPJ1984L</PAN>
+        <FST_NME>KESHAR</FST_NME>
+        <MID_NME>MAL</MID_NME>
+        <LST_NME>JHAJHRA</LST_NME>
+        <DOB>1986-04-25</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>PLOT NO C 62 63 GOVIND NAGAR JALAWAR ROADJOTHWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CXHPP5406P</PAN>
+        <FST_NME>HARI</FST_NME>
+        <MID_NME>PRASAD</MID_NME>
+        <LST_NME>PARASVAL</LST_NME>
+        <DOB>1971-09-05</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>BANWARI</FST_NME>
+        <LST_NME>JAT</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO C-62 GOVIND NAGAR CKALAWAR ROADJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9460960311</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAMESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO C-62 GOVIND NAGAR CKALAWAR ROADJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9460960311</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>941634</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05231813_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-11-07</DATE>
+      <APP_DTE>2022-11-06</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>AASPQ2785J</PAN>
+        <FST_NME>SHANU</FST_NME>
+        <LST_NME>QURESHI</LST_NME>
+        <DOB>1989-05-01</DOB>
+        <AGE>33</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>BHAIRON COLONYHURAWALI MORARHURAWALI MORAR</ADD>
+          <CTY>Gwalior</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>474008</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>BHAIRON COLONYHURAWALIMORAR GWALIOR</ADD>
+          <CTY>Gwalior</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>474008</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>BHAIRON COLONYHURAWALI MORARHURAWALI MORAR</ADD>
+          <CTY>Gwalior</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>474008</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>7974677727</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>580802010010730</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>NATIONAL HEALTH MISSION</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>BAHADUR PURBLOCL RONBHIND</ADD>
+            <CTY>Bhind</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>477335</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7974677727</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>SHAKEELA</FST_NME>
+        <LST_NME>BANO</LST_NME>
+        <DOB>1966-01-01</DOB>
+        <AGE>56</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>BHAIRON COLONY HURAWALIMORAR</ADD>
+          <CTY>Gwalior</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>474008</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4891</ORG_CD>
+        <ORG_NME>Sachin Garg</ORG_NME>
+        <BR_ADD>
+          <ADD>4-3/56 A, Model Town-3rd, north West Delhi </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110084</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

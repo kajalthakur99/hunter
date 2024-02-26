@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>3</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1248000</APP_VAL>
+      <TERM>144</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05186362_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-11</DATE>
+      <APP_DTE>2022-01-17</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>DGSPP4086G</PAN>
+        <FST_NME>SHIVDAS</FST_NME>
+        <MID_NME>SUPDU</MID_NME>
+        <LST_NME>PATIL</LST_NME>
+        <DOB>1969-06-01</DOB>
+        <AGE>52</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H N 2011 003 ANANT NAGARKISHOR NIWAS TALAVPALI ROADNR F WORD  OFFICE SHIVAJI TALAV GHANSOLI </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>AT MUKKAM DARAGAONDIST JALGAONMH</ADD>
+          <CTY>Jalgaon</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>425327</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Flat No 301, 3rd Floor, Shreyas Nivas, House No 1882, Unit No 0301, Lekha No GH0003334386, Village Ghansoli, Navi  Mumbai</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9867020483</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>3502000100251388</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SECURITY GUARDS BOAD FOR BRIHAN MUMBAI AND THANE DISTRICT</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>CENTRAL PARK NAVI MUMMUNICIPAL CORPORATION CHANSOLI SEC 3 GHANSOLI </ADD>
+            <CTY>Navi Mumbai</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>400701</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8898769653</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>ESHPP5077B</PAN>
+        <FST_NME>SULOCHANA</FST_NME>
+        <MID_NME>SHIVDAS</MID_NME>
+        <LST_NME>PATIL</LST_NME>
+        <DOB>1977-06-18</DOB>
+        <AGE>44</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H N 2011 003 ANANT NAGARKISHOR NIWAS TALAVPALI ROADNR F WORD  OFFICE SHIVAJI TALAV GHANSOLI </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>ESHPP5081F</PAN>
+        <FST_NME>RAHUL</FST_NME>
+        <MID_NME>SHIVDAS</MID_NME>
+        <LST_NME>PATIL</LST_NME>
+        <DOB>1999-09-21</DOB>
+        <AGE>22</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H N 2011 003 ANANT NAGARKISHOR NIWAS TALAVPALI ROADNR F WORD  OFFICE SHIVAJI TALAV GHANSOLI </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>DDOPP3647E</PAN>
+        <FST_NME>PRASHANT</FST_NME>
+        <MID_NME>SHIVDAS</MID_NME>
+        <LST_NME>PATIL</LST_NME>
+        <DOB>1996-07-20</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H N 2011 003 ANANT NAGARKISHOR NIWAS TALAVPALI ROADNR F WORD  OFFICE SHIVAJI TALAV GHANSOLI </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MANOHAR</FST_NME>
+        <LST_NME>MANDOKAR</LST_NME>
+        <RF_CA>
+          <ADD>R 201 2ND FLR</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8898769653</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PANDURANG</FST_NME>
+        <LST_NME>HURSALE</LST_NME>
+        <RF_CA>
+          <ADD>R 201 2ND FLR</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8898769653</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>361303</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05187072_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-03-11</DATE>
+      <APP_DTE>2022-01-30</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>EDBPS0280N</PAN>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>SEVAK</LST_NME>
+        <DOB>1965-01-01</DOB>
+        <AGE>57</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HOUSE NO 1 SAINYARGET TIRANA HARDOL MOHALLADATIA</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>HOUSE NO 1 SAINYARGET TIRANA HARDOL MOHALLADATIA</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Plot on Araji No-1691Situated at Ward No-13 Lala ka taal Gird Datiya, Madhya Pradesh</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9009495161</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>1935000104086311</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>JAY SHRI RADHE MISTHAN</ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>HARDOL MOHALLALALA KA TALDATIA</ADD>
+            <CTY>Datia</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>475661</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9009495161</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>KALPK9218M</PAN>
+        <FST_NME>PANKAJ</FST_NME>
+        <LST_NME>KUSHWAH</LST_NME>
+        <DOB>1990-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>NEAR JANANI ASPTALLALA KA TALDATIA</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </JA_CA>
+        <JA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>KALPK9218M</DOC_NO>
+        </JA_ID>
+      </JA>
+      <RF>
+        <FST_NME>JEETU</FST_NME>
+        <RF_CA>
+          <ADD>HARDOL MOHALLADATIA</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7000240442</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>DHURIYA</LST_NME>
+        <RF_CA>
+          <ADD>HARDOL MOHALLADATIA</ADD>
+          <CTY>Datia</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>475661</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7000240442</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1364849</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05186011_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-11</DATE>
+      <APP_DTE>2022-01-06</APP_DTE>
+      <BRNCH_RGN>Mohali</BRNCH_RGN>
+      <MA>
+        <PAN>EXKPK1979M</PAN>
+        <FST_NME>MUKESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1988-03-27</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>198 AMBEDKAR AWAS YOJANASECTOR 56 PALSORA CHANDIGARHCHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>198 AMBEDKAR AWAS YOJANASECTOR 56 PALSORA CHANDIGARH CHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Property being  Khewat/Khatoni No. 494/513, 514 under Khasra No. 99//26/2(5-6), 10/5(0-7), 11/2(3-11), 12(6-2), 20/1(0-11), Kite 5 Rakba 15 Kanal 17 Marla its Share 281/31700 Measuring 2-4/5 Marla situated  at Village Kurali, Hadbast No 121, Tehsil Kharar Distt SAS Nagar Mohali</ADD>
+          <CTY>Rupnagar</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>140103</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>7355224072</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>60977</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>PUNJAB STATE POWER CORPORATION LIMTED</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PUNJAB STATE POWER CORPORATION LIMTEDPOWER HOUSE GRID ITCITY SECTOR 82A</ADD>
+            <CTY>Mohali</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>140010</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7355224072</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BQUPD0442A</PAN>
+        <FST_NME>SUDHA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1990-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>198 AMBEDKAR AWAS YOJANASECTOR 56 PALSORA CHANDIGARHCHANDIGARH</ADD>
+          <CTY>Chandigarh</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>160036</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1571871</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05213342_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-07-10</DATE>
+      <APP_DTE>2022-07-10</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>AGHPY2576L</PAN>
+        <FST_NME>SWATI</FST_NME>
+        <MID_NME>NITIN</MID_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1983-08-07</DOB>
+        <AGE>38</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>ROOM NO H 107LIG 2 SEC 2 E KALAMBOLI RAIGADNAVI MUMBAI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410218</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>M POST KATHAPURTALUKA KOREGAONSATARA</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412103</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9702011278</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>000485</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DR G D POL FOUNDATION</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>INSTITUTIONAL AREA SEC 04KHARGHAR NAVIMUMBAI</ADD>
+            <CTY>Raigarh(MH)</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>410210</PIN>
+          </MA_EMP_AD>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AGGPY9723N</PAN>
+        <FST_NME>NITIN</FST_NME>
+        <MID_NME>BHANUDAS</MID_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1972-09-12</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>ROOM NO H 107LIG 2 SEC 2 E KALAMBOLI RAIGADNAVI MUMBAI</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>410218</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>JYOTI</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_CA>
+          <ADD>FLAT NO 101 PEVANOSH APT SEC 20 BELAPURNAVI MUMBAU</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400416</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9870100552</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>KARUNA</FST_NME>
+        <LST_NME>SHRAN</LST_NME>
+        <RF_CA>
+          <ADD>FLAT NO 101 PEVANOSH APT SEC 20 BELAPURNAVI MUMBAU</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400416</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9870100552</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1185535</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05185767_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-03-20</DATE>
+      <APP_DTE>2022-01-11</APP_DTE>
+      <BRNCH_RGN>MH - Marathwada</BRNCH_RGN>
+      <MA>
+        <PAN>BMWPG1773K</PAN>
+        <FST_NME>AMOL</FST_NME>
+        <MID_NME>BHARAT</MID_NME>
+        <LST_NME>GODSE</LST_NME>
+        <DOB>1994-02-17</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>GODSE WADA NEAR VITTHAL MANDIRSANSARI GAON DEVLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>GODSE WADA NEAR VITTHAL MANDIRSANSARI GAON DEVLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>sansari</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422101</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9175979489</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>04740100019915</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SAPTASHRUNGI BUILDCON</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SAPTASHRUNGI BUILDCONSANSARIGAON DEVLALITAL NASHIK</ADD>
+            <CTY>Nasik</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>422401</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9175979489</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DDPPG3632B</PAN>
+        <FST_NME>SUNITA</FST_NME>
+        <MID_NME>BHARAT</MID_NME>
+        <LST_NME>GODSE</LST_NME>
+        <DOB>1977-01-19</DOB>
+        <AGE>44</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>GODSE WADA NEAR VITTHAL MANDIRSANSARI GAON DEVLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>AELPG8894B</PAN>
+        <FST_NME>SHARAD</FST_NME>
+        <MID_NME>SHANKAR</MID_NME>
+        <LST_NME>GODSE</LST_NME>
+        <DOB>1970-11-10</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>FL NO 6 GOPAL PARK SAUBHAGYA NAGAROPP BG SCHOOL LAM ROAD VITITGAON NASHI ROADNASHIK MAHARASHTRA</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422101</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>DDPPG3697L</PAN>
+        <FST_NME>BHARAT</FST_NME>
+        <MID_NME>SHANKAR</MID_NME>
+        <LST_NME>GODSE</LST_NME>
+        <DOB>1968-08-11</DOB>
+        <AGE>53</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>GODSE WADA NEAR VITTHAL MANDIRSANSARI GAON DEVLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5443</ORG_CD>
+        <ORG_NME>Sadguru Financial Services</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>UJJWAL</FST_NME>
+        <LST_NME>GODSE</LST_NME>
+        <RF_CA>
+          <ADD>SANJARI GAON DEOLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9518364538</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SURENDRA</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_CA>
+          <ADD>SANJARI GAON DEOLALINASHIK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422401</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9518364538</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

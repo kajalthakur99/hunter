@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>2</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1423436</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05230836_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-23</DATE>
+      <APP_DTE>2022-10-23</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>AQBPP2780P</PAN>
+        <FST_NME>PRASHANT</FST_NME>
+        <MID_NME>BHIMRAO</MID_NME>
+        <LST_NME>PAWAR</LST_NME>
+        <DOB>1985-06-12</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>SS 3 R NO 451 SEC 8 KOPAR KHIRANE </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>AT POST SALPHARE TAL JAVIR DIST SATARA</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>415002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9702024543</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>IDBI BANK</BNK_NM>
+          <ACC_NO>53610010099259</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SWAMI SAMARTH TRADING CO</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>APMC BEGETABLE MARKET V 1142 SEC 19 VASHI </ADD>
+            <CTY>Navi Mumbai</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>400705</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9702024543</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BSHPP1999K</PAN>
+        <FST_NME>RESHMA</FST_NME>
+        <MID_NME>PRASHANT</MID_NME>
+        <LST_NME>PAWAR</LST_NME>
+        <DOB>1987-02-03</DOB>
+        <AGE>35</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>SS 3 R NO 451 SEC 8 KOPAR KHIRANE </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SWAPNIL</FST_NME>
+        <LST_NME>BHOSALE</LST_NME>
+        <RF_CA>
+          <ADD>SS 2 SEC 18 RM NO 15 KOPAR KHIRANA</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7021009665</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>TUSHAR</FST_NME>
+        <LST_NME>SHEDGE</LST_NME>
+        <RF_CA>
+          <ADD>SS 2 SEC 18 RM NO 15 KOPAR KHIRANA</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400709</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7021009665</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1130595</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05229416_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-23</DATE>
+      <APP_DTE>2022-10-23</APP_DTE>
+      <BRNCH_RGN>Delhi-Mayur Vihar</BRNCH_RGN>
+      <MA>
+        <PAN>ANYPG2989B</PAN>
+        <FST_NME>DOYEL</FST_NME>
+        <LST_NME>GHOSH</LST_NME>
+        <DOB>1981-01-18</DOB>
+        <AGE>41</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>KAUSHIK MARKET GALI NO 16 GEJHA SEC 93 NOIDA</ADD>
+          <CTY>Gautam Buddha Nagar</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201304</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>HNO 25 SAHASTRADHARA ROAD DANDA LAKHONDDANDA LAKHAUR DEHRADUN</ADD>
+          <CTY>Dehradun</CTY>
+          <STE>Uttarakhand</STE>
+          <CTRY>India</CTRY>
+          <PIN>248013</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9267902895</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>097901516689</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SPI TECHNOLOGY PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>CANDOR TEL SPACE IT ITES SEZ TOWER 5 2TH FLR PLOT NO 20 21 SEC 135 NOIDA</ADD>
+            <CTY>Noida</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201301</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9099246798</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <RF>
+        <FST_NME>NITIN</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>VILL BAROLA SEC 49</ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201301</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7011112329</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>AMAR</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>VILL BAROLA SEC 49</ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201301</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7011112329</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

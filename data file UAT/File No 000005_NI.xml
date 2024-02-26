@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>27500000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05221916_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-09-06</DATE>
+      <APP_DTE>2022-09-05</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAGCR0280G</PAN>
+        <FST_NME>ROYAL BLUE CITY DEVELOPERS PRIVATE LIMITED</FST_NME>
+        <LST_NME>ROYAL BLUE CITY DEVELOPERS PRIVATE LIMITED</LST_NME>
+        <DOB>2012-08-24</DOB>
+        <MP_CA>
+          <ADD>UNIT NO 312 &amp; 314 3RD FLR ILD TRADE CENTER SOHANA ROAD GURGAON HR</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>UNIT NO 312 &amp; 314 3RD FLR ILD TRADE CENTER SOHANA ROAD GURGAON HR</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9873871155</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>05728730000078</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>ROYAL BLUE CITY DEVELOPERS PRIVATE LIMITED</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>UNIT NO 312 &amp; 314 3RD FLR ILD TRADE CENTER SOHANA ROAD GURGAON HR</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9873871155</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Khewat No. 952, Khata No. 1233Part of Khasra No. 337 5-5Waka Sivana Mauja Jharsa, Tehsil Wazirabad</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121101</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AFSPY3010P</PAN>
+        <FST_NME>YOGINDER</FST_NME>
+        <LST_NME>TANWAR</LST_NME>
+        <DOB>1988-11-11</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>207 VILLAGE SILAM GURGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122103</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CTDPK6854Q</PAN>
+        <FST_NME>JITENDER</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1990-07-09</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>33 NR WIT COLLEGE SILANI SOHANA GURGAON </ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122103</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>SUNIL</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>HNO 6 RAJENDRA PARK GGN</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810868712</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>CHANDAN</FST_NME>
+        <LST_NME>MISHRA</LST_NME>
+        <RF_CA>
+          <ADD>HNO 6 RAJENDRA PARK GGN</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810868712</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>7</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>461960</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05223323_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>UP - Meerut</BRNCH_RGN>
+      <MA>
+        <PAN>MMYPS3636L</PAN>
+        <FST_NME>SHAHAVEJ</FST_NME>
+        <LST_NME>SHAHAVEJ</LST_NME>
+        <DOB>1998-08-18</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>11 CHAKLA SARDHANAMEERUT</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>11 CHAKLA SARDHANAMEERUT</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7060565813</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>719002010011149</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>BON TEH TAILOR</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>JAIN MARKETGANJ BAJARSARDHNA</ADD>
+            <CTY>Meerut</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>250342</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7060565813</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>SAHANAZAR</FST_NME>
+        <LST_NME>SAHANAZAR</LST_NME>
+        <DOB>1995-01-01</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>11 CHAKLA SARDHANAMEERUT</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>BHGPP5592Q</PAN>
+        <FST_NME>RASHIDA</FST_NME>
+        <LST_NME>PRAVIN</LST_NME>
+        <DOB>1970-05-01</DOB>
+        <AGE>52</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>11 CHAKLA SARDHANAMEERUT</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>GULZAR</FST_NME>
+        <RF_CA>
+          <ADD>AZAD NAGARCAKLASARDHNA</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7983205050</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>INTZAR</FST_NME>
+        <RF_CA>
+          <ADD>AZAD NAGARCAKLASARDHNA</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250342</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7983205050</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>585086.1</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05202780_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-09</APP_DTE>
+      <BRNCH_RGN>UP - Meerut</BRNCH_RGN>
+      <MA>
+        <PAN>CUZPK6126N</PAN>
+        <FST_NME>PANKAJ</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1990-03-29</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>DHOLA HERI SAHARANPUR BARTHA KAYASTHA</ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>DHOLA HERI SAHARANPUR BARTHAKAYASTHA</ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9828167381</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB AND SIND BANK</BNK_NM>
+          <ACC_NO>06301100000156</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>M/S KANHAIYA PESTICIDE </ORG_NME>
+          <EMP_IND>AGRICULTURE</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>M/S KANHAIYA PESTICIDE GANDEVAD ROAD PATHER SAHARANPUR</ADD>
+            <CTY>Saharanpur</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>247001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9828167381</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>FRNPK9900C</PAN>
+        <FST_NME>KOMAL</FST_NME>
+        <LST_NME>SAINI</LST_NME>
+        <DOB>1994-02-13</DOB>
+        <AGE>28</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>DHOLA HERI SAHARANPUR </ADD>
+          <CTY>Saharanpur</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>247231</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1664681</APP_VAL>
+      <TERM>216</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05222880_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>AHSPD8739J</PAN>
+        <FST_NME>PUSHPA</FST_NME>
+        <MID_NME>HARIDAS</MID_NME>
+        <LST_NME>RAJPAN</LST_NME>
+        <DOB>1971-04-01</DOB>
+        <AGE>51</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>FLAT NO 06 1ST FLR SHIV SMRUTI BLDGHOUSE NO 0135 JUHUGAON VASHINAVI MUMBAI</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400703</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>FLAT NO 06 1ST FLR SHIV SMRUTI BLDGHOUSE NO 0135 JUHUGAON VASHINAVI MUMBAI</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400703</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9324373246</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>056401504536</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SHRADDHA DECORATORS</ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SHOP NO 2 RUKAMINI NIWASJUHUGAON NR AMAAR BAR SEC 11 VASHI NAVI MUMBAI</ADD>
+            <CTY>Thane</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>400703</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9324373246</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AMCPR0191B</PAN>
+        <FST_NME>VISHNU</FST_NME>
+        <MID_NME>HARIDAS</MID_NME>
+        <LST_NME>RAJPAN</LST_NME>
+        <DOB>1989-04-01</DOB>
+        <AGE>33</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>FLAT NO 06 1ST FLR SHIV SMRUTI BLDGHOUSE NO 0135 JUHUGAON VASHINAVI MUMBAI</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400703</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>ANITA</FST_NME>
+        <LST_NME>GOHIL</LST_NME>
+        <RF_CA>
+          <ADD>FLAT NO 401 MEN 2 HOUSEGHUGAON NAVI MUMBAI</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400703</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9987724311</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>KESHAV</FST_NME>
+        <LST_NME>BHOIR</LST_NME>
+        <RF_CA>
+          <ADD>FLAT NO 401 MEN 2 HOUSEGHUGAON NAVI MUMBAI</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400703</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9987724311</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1276888</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05222718_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>MH - Vidarbha</BRNCH_RGN>
+      <MA>
+        <PAN>BKQPP1434A</PAN>
+        <FST_NME>JUSTINA</FST_NME>
+        <MID_NME>RANJIT </MID_NME>
+        <LST_NME>DUNGDUNG</LST_NME>
+        <DOB>1984-01-24</DOB>
+        <AGE>38</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>P NO 2136 WARD NO4 SAWANER RD NR MUSKAN HARDWEAR DAHEGAON</ADD>
+          <CTY>Nagpur</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>441113</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>P NO 2136 WARD NO4 SAWANER RD NR MUSKAN HARDWEAR DAHEGAON</ADD>
+          <CTY>Nagpur</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>441113</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8308860123</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>IDBI BANK</BNK_NM>
+          <ACC_NO>0510104000111881</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SPANDAN HEART INSTITUTE &amp; RESEARCH CENTER PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SPANDAN HOSPITAL BH HITAVADA OFFICE</ADD>
+            <CTY>Nagpur</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>440012</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7122443333</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>AXUPD0109N</PAN>
+        <FST_NME>RANJIT</FST_NME>
+        <MID_NME>SILBHANUS</MID_NME>
+        <LST_NME>DUNGDUNG</LST_NME>
+        <DOB>1981-12-21</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>P NO 2136 WARD NO4 SAWANER RD NR MUSKAN HARDWEAR DAHEGAON</ADD>
+          <CTY>Nagpur</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>441113</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>LINSEN</FST_NME>
+        <LST_NME>BABCHAK</LST_NME>
+        <RF_CA>
+          <ADD>AT KHAPARKHEDA  DAHEGAON</ADD>
+          <CTY>Nagpur</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>441113</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8421569903</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANGESH</FST_NME>
+        <LST_NME>LANDE</LST_NME>
+        <RF_CA>
+          <ADD>AT KHAPARKHEDA  DAHEGAON</ADD>
+          <CTY>Nagpur</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>441113</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8421569903</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>285193</APP_VAL>
+      <TERM>84</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05221608_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>ATXPR4761K</PAN>
+        <FST_NME>ALAM</FST_NME>
+        <MID_NME>SINGH</MID_NME>
+        <LST_NME>RAWAT</LST_NME>
+        <DOB>1965-07-24</DOB>
+        <AGE>57</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>HOUSE NO 46 52 STREET NO 2WARD NO 73 SURJEET NAGARGIASPURA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141010</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>HOUSE NO 46 52 STREET NO 2WARD NO 73 SURJEET NAGARGIASPURA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141010</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>street no. 1 house no. -9 surjeet Nagar Giaspura</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141010</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8146739941</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF BARODA</BNK_NM>
+          <ACC_NO>25740100003582</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>kumar exports</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PLOT NO 180PHASE  6FOCAL POINT</ADD>
+            <CTY>Ludhiana</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>141001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8146739941</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CRWPR0268Q</PAN>
+        <FST_NME>JATIN</FST_NME>
+        <LST_NME>RAWAT</LST_NME>
+        <DOB>1996-11-28</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>HOUSE NO 46 52 STREET NO  2WARD NO 73  SURJEET NAGARGIASPURA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141003</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>CECPR6356A</PAN>
+        <FST_NME>SITA</FST_NME>
+        <LST_NME>RAWAT</LST_NME>
+        <DOB>1975-07-01</DOB>
+        <AGE>47</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>BXXIX 46 5202 NEW SURJEET NAGARGIASPURA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141014</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1095290</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05221558_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>Badarpur</BRNCH_RGN>
+      <MA>
+        <PAN>GZGPP6394K</PAN>
+        <FST_NME>PAYAL</FST_NME>
+        <LST_NME>PAYAL</LST_NME>
+        <DOB>1991-01-01</DOB>
+        <AGE>31</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>6/18 AMBEDKAR COLONY INDERGARHIGHAZIABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201013</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>ULDAYPUR,MEERUT</ADD>
+          <CTY>Meerut</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>250001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9971918664</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB AND SIIND BANK</BNK_NM>
+          <ACC_NO>1</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>WINDBERRY INFRA SOLUTION P LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>E-31 GOVINDPURAM </ADD>
+            <CTY>Ghaziabad</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201013</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9971918664</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BBXPN8040C</PAN>
+        <FST_NME>NITU</FST_NME>
+        <LST_NME>NITU</LST_NME>
+        <DOB>1988-01-01</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>6/18 AMBEDKAR COLONY INDERGARHI</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201013</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>975825</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05222879_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-09-15</DATE>
+      <APP_DTE>2022-09-15</APP_DTE>
+      <BRNCH_RGN>Karampura</BRNCH_RGN>
+      <MA>
+        <PAN>AWTPR2500B</PAN>
+        <FST_NME>SITA</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <DOB>1975-08-05</DOB>
+        <AGE>47</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>E 5 5 RAILWAY QRTS BRAR SQUARE DELHI CANT SOUTH WEST DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110010</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>E 5 5 RAILWAY QRTS BRAR SQUARE DELHI CANT SOUTH WEST DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110010</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Nangloi</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110041</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>7982302280</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>606610110004204</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>INDIAN RAILWAY</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>S S HAZRAT NIZAMUDDIN RAILWAY STATIONDELHI</ADD>
+            <CTY>South Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110013</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9971002713</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>GOZPD9307C</PAN>
+        <FST_NME>HIRA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1980-08-05</DOB>
+        <AGE>42</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>E 5 5 RAILWAY QRTS BRAR SQUARE DELHI CANT SOUTH WEST DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110010</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RAMKESH</FST_NME>
+        <RF_CA>
+          <ADD>H NO E5 4 BRAR SQUARE DELHICANT SOUTH DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110010</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9711456194</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>AMIT</FST_NME>
+        <LST_NME>MEHTO</LST_NME>
+        <RF_CA>
+          <ADD>H NO E5 4 BRAR SQUARE DELHICANT SOUTH DELHI</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110010</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9711456194</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

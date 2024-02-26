@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>11000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05235337_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-01-26</DATE>
+      <APP_DTE>2023-01-25</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAHFF7978B</PAN>
+        <FST_NME>FIVE STAR REAL TECH LLP</FST_NME>
+        <LST_NME>FIVE STAR REAL TECH LLP</LST_NME>
+        <DOB>2014-02-21</DOB>
+        <MP_CA>
+          <ADD>PLOT N  13 PKT 2SEC 21ROHINI</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>PLOT N  13 PKT 2SEC 21ROHINI</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9212749525</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>FIVE@GAMIL.CO</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>082805001845</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>FIVE STAR REAL TECH LLP</ORG_NME>
+        <TAN_NO>5</TAN_NO>
+        <MAC_ADD>
+          <ADD>PLOT N  13 PKT 2SEC 21ROHINI</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9212749525</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No. 133 &amp; 134Pocket No. 11-BSector 23 Rohini New Delhi</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110086</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>FIVE@GAMIL.CO</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AAIPG0944K</PAN>
+        <FST_NME>MEETU</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1973-08-08</DOB>
+        <AGE>49</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>G 2 54 BLOCK G PKT 2 SEC  16 ROHINI</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110089</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AAZPG9601Q</PAN>
+        <FST_NME>MANMOHAN</FST_NME>
+        <LST_NME>GUPTA</LST_NME>
+        <DOB>1967-01-28</DOB>
+        <AGE>55</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>G 2 54 BLOCK G PKT 2 SEC  16 ROHINI</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110089</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4086</ORG_CD>
+        <ORG_NME>Namaste Credit</ORG_NME>
+        <BR_ADD>
+          <ADD>C 135  firstfloor kirti nagar New Delhi</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <PIN>122001</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

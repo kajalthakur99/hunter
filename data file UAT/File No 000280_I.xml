@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>905207</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05226864_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-03</DATE>
+      <APP_DTE>2022-10-02</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>APJPK3423P</PAN>
+        <FST_NME>NARESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1984-11-21</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>TEEKLA DEVI TEEKLA (60) REWARI HARYANA</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>TEEKLA DEVI TEEKLA (60) REWARI HARYANA</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>SDM OFFICE BAWAL REWARI HARYANA</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8399991529</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>37711545127</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SDM OFFICE</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SDM OFFICE BAWAL REWARI HARYANA</ADD>
+            <CTY>Mahendragarh</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>123501</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9812668238</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CEMPN6937F</PAN>
+        <FST_NME>RAVITA</FST_NME>
+        <LST_NME>NEHRA</LST_NME>
+        <DOB>1985-04-15</DOB>
+        <AGE>37</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>TEEKLA (60) NAGAL TENU REWARI HARYANA</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>UMESH</FST_NME>
+        <LST_NME>KUAMR</LST_NME>
+        <RF_CA>
+          <ADD>VPO TIIKLA BAWAL</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8659699830</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NITESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>VPO TIIKLA BAWAL</ADD>
+          <CTY>Mahendragarh</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>123501</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>8659699830</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

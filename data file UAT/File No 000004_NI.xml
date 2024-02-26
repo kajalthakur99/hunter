@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>21000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05218265_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-08-26</DATE>
+      <APP_DTE>2022-08-26</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAHCD4235A</PAN>
+        <FST_NME>DEEPRAKSH BUILDER PVT LTD</FST_NME>
+        <LST_NME>DEEPRAKSH BUILDER PVT LTD</LST_NME>
+        <DOB>2019-09-12</DOB>
+        <MP_CA>
+          <ADD>W Z 811 ADIL BAGH PALAM VILLAGESOUTHWEST DL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110045</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>W Z 811 ADIL BAGH PALAM VILLAGESOUTHWEST DL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110045</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9899972040</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>JAIGULIAJB@GAMIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>UNION BANK OF INDIA</BNK_NM>
+          <ACC_NO>520101242929717</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>DEEPRAKSH BUILDER PVT LTD</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>W Z 811 ADIL BAGH PALAM VILLAGESOUTHWEST DL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110045</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9899972040</TEL_NO>
+        </MAC_TEL>
+        <MAC_EMA>
+          <EMA_ADD>JAIGULIAJB@GAMIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>DZPPD7125C</PAN>
+        <FST_NME>DEEPANSHI</FST_NME>
+        <LST_NME>DEEPANSHI</LST_NME>
+        <DOB>1994-11-02</DOB>
+        <AGE>27</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>W Z 811 ADIL BAGH PALAM VILLAGESOUTHWEST DL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110045</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AESPG6537Q</PAN>
+        <FST_NME>JAI</FST_NME>
+        <MID_NME>BHAGWAN</MID_NME>
+        <LST_NME>GULIA</LST_NME>
+        <DOB>1974-07-14</DOB>
+        <AGE>48</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>W Z 811 ADIL BAGH PALAM VILLAGESOUTHWEST DL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110045</PIN>
+        </CP_CA>
+      </CP>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

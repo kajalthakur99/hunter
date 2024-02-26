@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>13500000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262184_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-05-30</DATE>
+      <APP_DTE>2023-05-30</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ADJFS9595C</PAN>
+        <FST_NME>SHIVAM HITEC BUILDER AND ASSOCIATES</FST_NME>
+        <LST_NME>SHIVAM HITEC BUILDER AND ASSOCIATES</LST_NME>
+        <DOB>2017-06-23</DOB>
+        <MP_CA>
+          <ADD>P NO 182 GF PRO NO 271 VIPIN GARDEN MAIN GALI NO 39 UTTAM NAGAR NEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 182 GF PRO NO 271 VIPIN GARDEN MAIN GALI NO 39 UTTAM NAGAR NEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9871420158</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>008701051699</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHIVAM HITEC BUILDER AND ASSOCIATES</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 182 GF PRO NO 271 VIPIN GARDEN MAIN GALI NO 39 UTTAM NAGAR NEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9871420158</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>P NO 182 GF PRO NO 271 VIPIN GARDEN MAIN GALI NO 39 UTTAM NAGAR NEW DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AQMPD5803G</PAN>
+        <FST_NME>MALA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1978-11-09</DOB>
+        <AGE>44</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>D 150 1ST FLR NAWADA HOUSING COMPLEXDDK MOHAN GARDEN WEST DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CNXPP8393K</PAN>
+        <FST_NME>UMESH</FST_NME>
+        <LST_NME>PASWAN</LST_NME>
+        <DOB>1974-05-05</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>D 150 1ST FLR NAWADA HOUSING COMPLEXDK MOHAN GARDEN WEST DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5115</ORG_CD>
+        <ORG_NME>NORTH INDIA ENTERPRISES</ORG_NME>
+        <BR_ADD>
+          <ADD>H/No-51&amp;52, Ground floor, Vipin Garden, Near Metro Pillar No-795, Dwarka Morh, Uttam Nagar,New Delhi-59 </ADD>
+          <CTY>North Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110084</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>MANOJ</FST_NME>
+        <RF_CA>
+          <ADD>H NO 342 GALI NO 40 VIPIN GARDEN EXTENSION UTTAM NAGAR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9289507249</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SWATI</FST_NME>
+        <RF_CA>
+          <ADD>H NO 342 GALI NO 40 VIPIN GARDEN EXTENSION UTTAM NAGAR</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9289507249</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>15000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05240051_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-01-07</DATE>
+      <APP_DTE>2022-12-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAICK7071L</PAN>
+        <FST_NME>K2M DEVELOPERS PRIVATE LIMITED</FST_NME>
+        <LST_NME>K2M DEVELOPERS PRIVATE LIMITED</LST_NME>
+        <DOB>2015-12-20</DOB>
+        <MP_CA>
+          <ADD>HNO 504 A NEAR MODEM JAIL RD NAYAGAON BHONDSI 168</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>HNO 504 A NEAR MODEM JAIL RD NAYAGAON BHONDSI 168</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>7838076678</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>K2M@GAMIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>KOTAK MAHINDRA BANK LIMITED</BNK_NM>
+          <ACC_NO>7838076678</ACC_NO>
+        </MP_BNK>
+        <MP_ID>
+          <DOC_TYP>OTHER</DOC_TYP>
+          <DOC_NO>U70109HR2021PTC094042</DOC_NO>
+        </MP_ID>
+        <MP_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AAICK7071L</DOC_NO>
+        </MP_ID>
+      </MP>
+      <SME>
+        <ORG_NME>K2M DEVELOPERS PRIVATE LIMITED</ORG_NME>
+        <TAN_NO>U70109HR2021PTC094042</TAN_NO>
+        <MAC_ADD>
+          <ADD>HNO 504 A NEAR MODEM JAIL RD NAYAGAON BHONDSI 168</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>7838076678</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No 1205 Block C EsenciaVillage Badshahpur Sector-67Tehsil-Badshahpur &amp; Distt. Gurugram Haryana</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122101</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>K2M@GAMIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>ALJPD5279J</PAN>
+        <FST_NME>KAPIL</FST_NME>
+        <LST_NME>DEV</LST_NME>
+        <DOB>1979-11-29</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>HNO 504 A NEAR MODEM JAIL RD NAYAGAON BHONDSI 168</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>IHZPK2077M</PAN>
+        <FST_NME>MANOJ</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1982-06-22</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>HNO 504 A NEAR MODEM JAIL RD NAYAGAON BHONDSI 168</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>KAVINDER</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>WARD NO2 HNO 504 NAYAGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9710591110</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>VIRENDER</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>WARD NO2 HNO 504 NAYAGAON</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122102</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9710591110</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

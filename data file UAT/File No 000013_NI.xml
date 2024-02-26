@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>40000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05237484_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-12-27</DATE>
+      <APP_DTE>2022-12-27</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAPFD5164P</PAN>
+        <FST_NME>DREAM DEVELOPERS</FST_NME>
+        <LST_NME>DREAM DEVELOPERS</LST_NME>
+        <DOB>2018-12-06</DOB>
+        <MP_CA>
+          <ADD>5 2 SECTOR 5 RAJENDER NAGAR GZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>5 2 SECTOR 5 RAJENDER NAGAR GZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9711319142</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>dreamdevelopers18@gmail.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>IDBI BANK</BNK_NM>
+          <ACC_NO>1990102000003100</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>DREAM DEVELOPERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>5 2 SECTOR 5 RAJENDER NAGAR GZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9711319142</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>House No 9/17Block-9 Sector-3 Rajendra Nagar Tehsil &amp; District-Ghaziabad UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201004</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>dreamdevelopers18@gmail.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>CAWPP4587M</PAN>
+        <FST_NME>PANKAJ</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1971-10-29</DOB>
+        <AGE>51</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>UG 1 PLOT NO 24 ASHIRWAD HOMES NAVEENPARK SHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BDCPS8637R</PAN>
+        <FST_NME>SANCER</FST_NME>
+        <MID_NME>PAL</MID_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1980-04-12</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H NO 223 SATYAM ENCLAVESHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>IVLPS6106M</PAN>
+        <FST_NME>SOURAV</FST_NME>
+        <LST_NME>SOURAV</LST_NME>
+        <DOB>1994-09-01</DOB>
+        <AGE>28</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>UG 1 PLOT NO 24 ASHIRWAD HOMES NAVEENPARK SHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>SURENDER</FST_NME>
+        <RF_CA>
+          <ADD>SH 2 P NO 5 25 RAJENDER NAGAR </ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810626488</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DEVENDER</FST_NME>
+        <LST_NME>PANWAR</LST_NME>
+        <RF_CA>
+          <ADD>SH 2 P NO 5 25 RAJENDER NAGAR </ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810626488</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>2</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>610016</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05280317_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-08-13</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>FAZPK1223H</PAN>
+        <FST_NME>DINESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1984-03-12</DOB>
+        <AGE>39</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O PREM SHANKAR,RC-85,GHAZI ABAD NAVCHETNA ENCLAVE</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O PREM SHANKAR,RC-85,GHAZI ABAD NAVCHETNA ENCLAVE</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8285751006</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>10306</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DEXTER APPARELS PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>G 183 SECTOR 63 NOIDA</ADD>
+            <CTY>Noida</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>201301</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8285751006</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>RANI</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1970-02-12</DOB>
+        <AGE>53</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O PREM SHANKAR,RC-85,NAVCHAETANA ENCLAVE KHODAGAON</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201309</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SUNIL</FST_NME>
+        <RF_MT>
+          <TEL_NO>9899144233</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DURGESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>9899144233</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1188887</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>C_APPL05280610_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-08-13</DATE>
+      <APP_DTE>2023-08-13</APP_DTE>
+      <BRNCH_RGN>Chhatarpur-MP</BRNCH_RGN>
+      <MA>
+        <PAN>APIPA2207A</PAN>
+        <FST_NME>JUGAL</FST_NME>
+        <MID_NME>KISHOR</MID_NME>
+        <LST_NME>ANURAGI</LST_NME>
+        <DOB>1983-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O RAJARAM ANURAGI H.N.435 SANKAR MOCHAN MARG WARD N 15 CHHATARPURCHHATARPUR</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471201</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O RAJARAM ANURAGI H.N.435 SANKAR MOCHAN MARG WARD N 15 CHHATARPURCHHATARPUR</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471201</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9165368081</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>14240000100270344</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Dipali And Tours And Travels</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>SANKAR MOCHAN MARG CHHATARPUR</ADD>
+            <CTY>Chhatarpur</CTY>
+            <STE>Madhya Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>471001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9165368081</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>EMIPA3158K</PAN>
+        <FST_NME>SANPAT</FST_NME>
+        <LST_NME>ANURAGI</LST_NME>
+        <DOB>1988-01-01</DOB>
+        <AGE>35</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O JUGAL ANURAGI435 SANKAT MOCHAN MARGOTHER WARD 15 ZONE 01</ADD>
+          <CTY>Chhatarpur</CTY>
+          <STE>Madhya Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>471001</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RIHAN</FST_NME>
+        <RF_MT>
+          <TEL_NO>9893456238</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SURENDRA</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_MT>
+          <TEL_NO>9893456238</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

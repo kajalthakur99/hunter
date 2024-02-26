@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>742734</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05252253_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-03-08</DATE>
+      <APP_DTE>2023-03-08</APP_DTE>
+      <BRNCH_RGN>Rajasthan</BRNCH_RGN>
+      <MA>
+        <PAN>AMRPH1760K</PAN>
+        <FST_NME>HANSRAJ</FST_NME>
+        <LST_NME>HANSRAJ</LST_NME>
+        <DOB>1982-07-11</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O HEERA LAL,SANGAM VIHAR SPECIAL,RANG TALAB</ADD>
+          <CTY>Kota</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>324002</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O HEERA LAL,SANGAM VIHAR SPECIAL,RANG TALAB</ADD>
+          <CTY>Kota</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>324002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8107090136</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>INDIAN OVERSEAS BANK</BNK_NM>
+          <ACC_NO>147101000003958</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>ERVPB3336L</PAN>
+        <FST_NME>BHULI</FST_NME>
+        <LST_NME>BAI</LST_NME>
+        <DOB>1987-01-01</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>TRANSFAR SE BHAGAJI KI DOLA GALI NO.1, KOTA, KOTA JUNCTION RANG TALAB, RAJASTHAN, INDIA 324002</ADD>
+          <CTY>Kota</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>324002</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MONU</FST_NME>
+        <RF_CA>
+          <ADD>RANG TALAB</ADD>
+          <CTY>Kota</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>324001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9660385804</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANISH</FST_NME>
+        <RF_CA>
+          <ADD>RANG TALAB</ADD>
+          <CTY>Kota</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>324001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9660385804</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

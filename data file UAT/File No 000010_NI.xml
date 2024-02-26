@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>20000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05234093_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-11-30</DATE>
+      <APP_DTE>2022-11-30</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ABUFM9767E</PAN>
+        <FST_NME>MAHADEV BUILDERS</FST_NME>
+        <LST_NME>MAHADEV BUILDERS</LST_NME>
+        <DOB>2015-11-07</DOB>
+        <MP_CA>
+          <ADD>29 A SHIV VATI KA GOVIND PURAKALWAD RD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>29 A SHIV VATI KA GOVIND PURAKALWAD RD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>8239040616</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>MAHIH@GAMIL.CO</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>418105001453</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>MAHADEV BUILDERS</ORG_NME>
+        <TAN_NO>2</TAN_NO>
+        <MAC_ADD>
+          <ADD>29 A SHIV VATI KA GOVIND PURAKALWAD RD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>8239040616</TEL_NO>
+        </MAC_TEL>
+        <MAC_EMA>
+          <EMA_ADD>MAHIH@GAMIL.CO</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AIRPR2921A</PAN>
+        <FST_NME>RAM</FST_NME>
+        <MID_NME>DEV</MID_NME>
+        <LST_NME>CHOUDARY</LST_NME>
+        <DOB>1972-07-02</DOB>
+        <AGE>50</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>	P N 80 NORTH SOUTH PART FIRST FLR GOVIND NGR VISTARJHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>HIRPK8603K</PAN>
+        <FST_NME>ASHOK</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1995-12-12</DOB>
+        <AGE>26</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>29 A SHIV VATI KA GOVIND PURAKALWAD RD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>DOTPK1180P</PAN>
+        <FST_NME>NARENDRA</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1995-05-04</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>	P N 80 NORTH SOUTH PART FIRST FLR GOVIND NGR VISTARJHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

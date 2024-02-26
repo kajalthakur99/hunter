@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>4</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>860454</APP_VAL>
+      <TERM>204</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05262159_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-05-04</DATE>
+      <APP_DTE>2023-05-04</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>CZSPB9756R</PAN>
+        <FST_NME>SANTOSH</FST_NME>
+        <MID_NME>KASHAPPA</MID_NME>
+        <LST_NME>BANDIGE</LST_NME>
+        <DOB>1998-12-14</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>ROOM NO 155 N CHAWL KALYAN ROAD GANESH MANDIRNAVI VASTI BHIWANDI THANE</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>421302</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>DIWAKAR CHAWL KALYAN ROAD POPE LINE TEMGHARPADA BHIWANDI THANE</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>421302</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7776015501</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>THE COSMOS CO OPERATIVE BANK LIMITED</BNK_NM>
+          <ACC_NO>63850</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME> SB Mobile Accessories</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>H NO 131/2/2/G/1, GALA 03 TEMGHAR PADA KALYANROAD NR. AUTO STAND </ADD>
+            <CTY>Thane</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>421302</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7776015501</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BHCPB3031N</PAN>
+        <FST_NME>PARATAMMA</FST_NME>
+        <MID_NME>KASHAPPA</MID_NME>
+        <LST_NME>BANDAGE</LST_NME>
+        <DOB>1961-01-01</DOB>
+        <AGE>62</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>ROOM NO 155 N CHAWL KALYAN ROAD GANESH MANDIRNAVI VASTI BHIWANDI THANE</ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>421302</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5252</ORG_CD>
+        <ORG_NME>FINACRI ADVISORY INTERMEDIARY &amp; RESOURCES PRIVATE LIMITED</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>SAILU</FST_NME>
+        <RF_MT>
+          <TEL_NO>9511879220</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ROHIT</FST_NME>
+        <RF_MT>
+          <TEL_NO>9511879220</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1590978</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05262726_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-04</DATE>
+      <APP_DTE>2023-05-04</APP_DTE>
+      <BRNCH_RGN>MH - Pune</BRNCH_RGN>
+      <MA>
+        <PAN>DOBPK8577Q</PAN>
+        <FST_NME>JAYASHRI</FST_NME>
+        <MID_NME>CHANDRAKANT</MID_NME>
+        <LST_NME>KALANGE</LST_NME>
+        <DOB>1973-12-02</DOB>
+        <AGE>49</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>Satara, Varne, Varne Maharashtra, India, 415019</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>415019</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>SATARA, VARNE, VARNE MAHARASHTRA, INDIA, 415019</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>415019</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Satara, Varne, Varne Maharashtra, India, 415019</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>415019</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9665172659</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>3555</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>INDIAN ARMY PENSION </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>AT POST VARNE SATARA</ADD>
+            <CTY>Satara</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>415019</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9665172659</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DFGPK4842Q</PAN>
+        <FST_NME>SHRIKANT</FST_NME>
+        <MID_NME>CHANDRAKANT</MID_NME>
+        <LST_NME>KALANGE</LST_NME>
+        <DOB>1995-01-22</DOB>
+        <AGE>28</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>SATARA, VARNE, VARNE MAHARASHTRA, INDIA, 415019</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>415019</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5588</ORG_CD>
+        <ORG_NME>Jija Enterprises</ORG_NME>
+        <BR_ADD>
+          <ADD>Shop no.05, 497/a/1/19 ramkrushnav colony sardar bazar satara </ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>415002</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>AKSHAY</FST_NME>
+        <LST_NME>ATPALE</LST_NME>
+        <RF_MT>
+          <TEL_NO>7387479641</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NITIN</FST_NME>
+        <LST_NME>KARANGE</LST_NME>
+        <RF_MT>
+          <TEL_NO>7387479641</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>718604</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262629_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-04</DATE>
+      <APP_DTE>2023-05-04</APP_DTE>
+      <BRNCH_RGN>Lucknow-2</BRNCH_RGN>
+      <MA>
+        <PAN>AHPPI6216G</PAN>
+        <FST_NME>MOHD</FST_NME>
+        <LST_NME>IRFAN</LST_NME>
+        <DOB>1999-01-01</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O PEER GULAM,MOHAMMAD NAGER  BIJNOR ROADBIJNOR </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226002</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O PEER GULAM,MOHAMMAD NAGER  BIJNOR ROADBIJNOR </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9794112424</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>MOHDIRFANQURESHI123456@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK</BNK_NM>
+          <ACC_NO>50100355939350</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Irfan Furniture</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>MOHAMMAD NAGER BIJNOR ROAD BIJNOR </ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>226002</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9794112424</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>ABPPQ9730M</PAN>
+        <FST_NME>MOHD</FST_NME>
+        <MID_NME>IMRAN</MID_NME>
+        <LST_NME>QURAISHI</LST_NME>
+        <DOB>1998-03-18</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>MOHAMMAD NAGER BIJNOR ROAD BIJNOR </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226002</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>RIZWAN</FST_NME>
+        <LST_NME>QURESHI</LST_NME>
+        <RF_MT>
+          <TEL_NO>8181023886</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ABHAY</FST_NME>
+        <LST_NME>TRIPATHI</LST_NME>
+        <RF_MT>
+          <TEL_NO>8181023886</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>795960</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262616_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-04</DATE>
+      <APP_DTE>2023-05-04</APP_DTE>
+      <BRNCH_RGN>Ghaziabad</BRNCH_RGN>
+      <MA>
+        <PAN>DMKPA7392J</PAN>
+        <FST_NME>ISRAT</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <DOB>1967-01-01</DOB>
+        <AGE>56</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O ASRAF ALI HOUSE NO.59 WARD NO 11 DASANA</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O ASRAF ALI HOUSE NO.59 WARD NO 11 DASANA</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9310788033</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>38838638520</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>EXEPK8311K</PAN>
+        <FST_NME>KAUSAR</FST_NME>
+        <LST_NME>JAHAN</LST_NME>
+        <DOB>1974-01-01</DOB>
+        <AGE>49</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O ISRAT ALI,HOUSE NO-59,WARD NO-11DASNA</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201001</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>AHZPI6365A</PAN>
+        <FST_NME>IMRAN</FST_NME>
+        <LST_NME>KAZMI</LST_NME>
+        <DOB>1999-05-10</DOB>
+        <AGE>23</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O ISHRAT ALI,WARD NUMBER 11,MURGI FARM</ADD>
+          <CTY>Noida</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201302</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>NAUSAD</FST_NME>
+        <RF_MT>
+          <TEL_NO>7428988682</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MOHSIN</FST_NME>
+        <RF_MT>
+          <TEL_NO>7428988682</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

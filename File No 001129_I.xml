@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>7</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>474245</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05313214_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>BQVPL3947D</PAN>
+        <FST_NME>BANWARI</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1973-01-01</DOB>
+        <AGE>51</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O DURGA PARSAD,HOUSE NUMBER 52,MANJEET NAGAR</ADD>
+          <CTY>Jalandhar</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>144002</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O DURGA PARSAD,HOUSE NUMBER 52,MANJEET NAGAR</ADD>
+          <CTY>Jalandhar</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>144002</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7814702170</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>9999999999999999</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>SAHIL SPORTS</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>BASTI DANISHMANDAN ROAD</ADD>
+            <CTY>Jalandhar</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>144002</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7814702170</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>ICMPM3640A</PAN>
+        <FST_NME>MEENA</FST_NME>
+        <LST_NME>MEENA</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>46</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O BANWARI LAL,HOUSE NUMBER 52 MANJIT NAGAR,IL</ADD>
+          <CTY>Jalandhar</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>144002</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SHERU</FST_NME>
+        <RF_MT>
+          <TEL_NO>8837850049</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SUNNY</FST_NME>
+        <RF_MT>
+          <TEL_NO>8837850049</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>2039946</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05310866_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Mumbai</BRNCH_RGN>
+      <MA>
+        <PAN>FBFPM6603E</PAN>
+        <FST_NME>RAVINDRA</FST_NME>
+        <MID_NME>SANJAY</MID_NME>
+        <LST_NME>MANE</LST_NME>
+        <DOB>1998-12-27</DOB>
+        <AGE>25</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>FLAT NO 303,B-WING JAI MALHAR BUILDING RABALE STATION GOTHIVALU GAON</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>FLAT NO 303,B-WING JAI MALHAR BUILDING RABALE STATION GOTHIVALU GAON</ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400701</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7517827646</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CENTRAL BANK OF INDIA</BNK_NM>
+          <ACC_NO>9031</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MILIND TRAVELS</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>A-808,KAILAS BUSINESS PARKPARK SITE</ADD>
+            <CTY>Mumbai</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>400079</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7517827646</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <BR>
+        <ORG_CD>6078</ORG_CD>
+        <ORG_NME>Mahesh Shantaram Kulkarni</ORG_NME>
+        <BR_ADD>
+          <ADD>Plot No B, 454, Sec 4, Aakash Darshan Co-op Hsg Soc Ltd, Nr Central Park, Ghansoli 400701. </ADD>
+          <CTY>Thane</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>421301</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>RAHUL</FST_NME>
+        <RF_MT>
+          <TEL_NO>9664066629</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MADHUR</FST_NME>
+        <RF_MT>
+          <TEL_NO>9664066629</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>714105</APP_VAL>
+      <TERM>120</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05313421_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>MH - Latur</BRNCH_RGN>
+      <MA>
+        <PAN>ECRPP8635R</PAN>
+        <FST_NME>AWESKHAN</FST_NME>
+        <MID_NME>AHEMADKHAN</MID_NME>
+        <LST_NME>PATHAN</LST_NME>
+        <DOB>1991-08-19</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O PATHAN AHEMADKHAN,DARGAH S ROAD,AJMER COLONY</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431401</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O PATHAN AHEMADKHAN,DARGAH S ROAD,AJMER COLONY</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431401</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8788102020</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SHRIRAM CITY UNIONFINANCE CO LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>BASMAT ROADPARBHANI </ADD>
+            <CTY>Parbhani</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>431401</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8788102020</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>CDSPA1424R</PAN>
+        <FST_NME>IMTIYAZ</FST_NME>
+        <MID_NME>AHMED</MID_NME>
+        <LST_NME>KHAN</LST_NME>
+        <DOB>1997-10-29</DOB>
+        <AGE>26</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>S O PATHAN AHEMADKHAN,DARGAH S ROAD,AJMER COLONY</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431401</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4359</ORG_CD>
+        <ORG_NME>Secure Financial Service</ORG_NME>
+        <BR_ADD>
+          <ADD>1st Floor Yadav Complex Station Road  Parbhani</ADD>
+          <CTY>Parbhani</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>431401</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>SHAIKH</FST_NME>
+        <LST_NME>RIZWAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9175299969</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAFIQ</FST_NME>
+        <LST_NME>SIDHIQUEE</LST_NME>
+        <RF_MT>
+          <TEL_NO>9175299969</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>666973</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05311664_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>HYPPK1178D</PAN>
+        <FST_NME>DINESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1971-01-01</DOB>
+        <AGE>53</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>C O BIKRAM SINGH,4,SAT SANG GHARNEW SAT GURU NAGAR,LOHORA,PO LOHORADIST</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141016</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>C O BIKRAM SINGH,4,SAT SANG GHARNEW SAT GURU NAGAR,LOHORA,PO LOHORADIST</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141016</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>7888595629</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>EASTMAN IMPEX</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>EASTMAN CHOWK SUA ROADDHANDARI KALLAN LUDHIANA </ADD>
+            <CTY>Ludhiana</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>141010</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>7888595629</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>HTVPP1798H</PAN>
+        <FST_NME>REECHA</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1999-01-01</DOB>
+        <AGE>25</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O DINESH PATEL,04,NEAR RADHA SWAMI SATSANG GHARNEW SATGURU NAGAR,LOHORA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141016</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>EYFPP2847K</PAN>
+        <FST_NME>DEEPIKA</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1989-03-10</DOB>
+        <AGE>34</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O DINESH PATEL,ST NO 4,NEAR RADHA SWAMI SATSANG GHARNEW SATGURU NAGAR,LOHORA</ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141016</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>AMAN</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <RF_MT>
+          <TEL_NO>8847530718</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>KAKA</FST_NME>
+        <LST_NME>ATWAL</LST_NME>
+        <RF_MT>
+          <TEL_NO>8847530718</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1487192</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05312523_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Punjab</BRNCH_RGN>
+      <MA>
+        <PAN>GVIPS3434M</PAN>
+        <FST_NME>LAKHWINDER</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1986-10-24</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>VILL. DHODE, PO DEHLONLUDHIANA </ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141118</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>VILL. DHODE, PO DEHLONLUDHIANA </ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141118</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9592944193</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>39657073892</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>LAKHWINDER SINGH</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>VILL DHODE, DEHLONLUDHIANA </ADD>
+            <CTY>Ludhiana</CTY>
+            <STE>Punjab</STE>
+            <CTRY>India</CTRY>
+            <PIN>141007</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9592944193</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>IOHPK9890B</PAN>
+        <FST_NME>GURDEEP</FST_NME>
+        <LST_NME>KAUR</LST_NME>
+        <DOB>1986-01-01</DOB>
+        <AGE>38</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>VILL. DHODE, PO DEHLONLUDHIANA </ADD>
+          <CTY>Ludhiana</CTY>
+          <STE>Punjab</STE>
+          <CTRY>India</CTRY>
+          <PIN>141118</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>SUNNY</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_MT>
+          <TEL_NO>8544971419</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>PRINCE</FST_NME>
+        <RF_MT>
+          <TEL_NO>8544971419</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1314339</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05311292_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Agra-Fatehabad Road</BRNCH_RGN>
+      <MA>
+        <PAN>GJIPK0541M</PAN>
+        <FST_NME>RAVI</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1992-01-01</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>PURANI ABADI BODLA AGRA </ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>PURANI ABADI BODLA AGRA </ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9568119049</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>STATE BANK OF INDIA</BNK_NM>
+          <ACC_NO>2707</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Riya Flowers Maker</ORG_NME>
+          <EMP_IND>AGRICULTURE</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PURANI ABADI BODLA AGRA </ADD>
+            <CTY>Agra</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>282007</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9568119049</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>GFIPD5772R</PAN>
+        <FST_NME>PREETI</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1993-01-01</DOB>
+        <AGE>31</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>PURANI ABADI BODLA AGRA </ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282007</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MUKESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>8171860972</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MURARI</FST_NME>
+        <RF_MT>
+          <TEL_NO>8171860972</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>731728</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05313090_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2024-01-04</DATE>
+      <APP_DTE>2024-01-04</APP_DTE>
+      <BRNCH_RGN>Yamuna Nagar</BRNCH_RGN>
+      <MA>
+        <PAN>GFZPD9810M</PAN>
+        <FST_NME>SANJOGITA</FST_NME>
+        <LST_NME>DEVI</LST_NME>
+        <DOB>1978-01-01</DOB>
+        <AGE>45</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>W O RAJ KUMAR,928,DURGA GARDENGARHI MUNDAY</ADD>
+          <CTY>Yamuna Nagar</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>135003</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>W O RAJ KUMAR,928,DURGA GARDENGARHI MUNDAY</ADD>
+          <CTY>Yamuna Nagar</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>135003</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9034235808</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>HOUSE WORKER</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>GREEN PARK</ADD>
+            <CTY>Yamuna Nagar</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>135001</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9034235808</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>LQUPK3636H</PAN>
+        <FST_NME>SACHIN</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>2003-07-20</DOB>
+        <AGE>20</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>C O RAJ KUMAR,MAND KHERI KI TAPRIYAN</ADD>
+          <CTY>Yamuna Nagar</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>135003</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5920</ORG_CD>
+        <ORG_NME>Andromeda Sales And Distribution PVT LTD</ORG_NME>
+        <BR_ADD>
+          <ADD>Ground Floor, H no.1-19-4, Sriram Nagar, East Godavari District, East Godavari, Andhra Pradesh </ADD>
+          <CTY>Navi Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <PIN>401202</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>SUMIT</FST_NME>
+        <RF_MT>
+          <TEL_NO>9817638625</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ARUN</FST_NME>
+        <RF_MT>
+          <TEL_NO>9817638625</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

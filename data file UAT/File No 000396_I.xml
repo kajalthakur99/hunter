@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1997792</APP_VAL>
+      <TERM>300</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05235560_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-12-04</DATE>
+      <APP_DTE>2022-11-26</APP_DTE>
+      <BRNCH_RGN>Delhi-Dwarka More</BRNCH_RGN>
+      <MA>
+        <PAN>AUXPB0981A</PAN>
+        <FST_NME>SUMAN</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>BHARTI</LST_NME>
+        <DOB>1990-02-10</DOB>
+        <AGE>32</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H NO 20 GR FLR K BLOCK GALI NO 14MAHIPALPUR ND</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110037</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 20 GR FLR K BLOCK GALI NO 14MAHIPALPUR ND</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110037</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>PROPERTY NO.177 OUT OF KHASRA NO.43/17VILLAGE HATSAL KNOWN ASMOHAN GARDEN BLOCK K-3 DELHI</ADD>
+          <CTY>West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110059</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9650380103</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>KOTAK MAHINDRA BANK LIMITED</BNK_NM>
+          <ACC_NO>6151</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>CITY KART STORES PVT LTD</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>1ST FLR P NO 474 475 PH 3 UDYOG VIHARGURGAON</ADD>
+            <CTY>Gurgaon</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>122016</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9650380103</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DODPK5516K</PAN>
+        <FST_NME>NEELU</FST_NME>
+        <LST_NME>KUMARI</LST_NME>
+        <DOB>1988-08-28</DOB>
+        <AGE>34</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 20 GR FLR K BLOCK GALI NO 14MAHIPALPUR ND</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110037</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DEV</FST_NME>
+        <RF_CA>
+          <ADD>VILLAGE TAJ NAGAR GALI NO 3GURUGRAM</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122506</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9650097319</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAJNISH</FST_NME>
+        <RF_CA>
+          <ADD>VILLAGE TAJ NAGAR GALI NO 3GURUGRAM</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122506</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9650097319</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

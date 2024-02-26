@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>100000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262853_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-07-31</DATE>
+      <APP_DTE>2023-07-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEZFS2052K</PAN>
+        <FST_NME>SHREE VINAYAK BUILDERS</FST_NME>
+        <LST_NME>SHREE VINAYAK BUILDERS</LST_NME>
+        <DOB>2023-04-12</DOB>
+        <MP_CA>
+          <ADD>P NO 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9959926005</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>BAWARISUMDALAL@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>ICICI BANK LIMITED</BNK_NM>
+          <ACC_NO>675905500983</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>SHREE VINAYAK BUILDERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9959926005</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Survey No 67, Hissa No 12, Village- Done, Tal- Ambernath, Dist - Thane  </ADD>
+          <CTY>Mumbai</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>400080</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>BAWARISUMDALAL@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>CXDPS3616Q</PAN>
+        <FST_NME>BANWARI</FST_NME>
+        <MID_NME>LAL</MID_NME>
+        <LST_NME>SUNDA</LST_NME>
+        <DOB>1988-06-06</DOB>
+        <AGE>35</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 4 HANUMAN VATIKA A GOKULPURA KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CBDPC0941A</PAN>
+        <FST_NME>SARWAN</FST_NME>
+        <MID_NME>RAM</MID_NME>
+        <LST_NME>CHOUDARY</LST_NME>
+        <DOB>1986-02-20</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 82 JAY DADI NAGAR GOKULPURA KALWAR ROAD JHOTWARA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ACKPL9177B</PAN>
+        <FST_NME>BHANWAR</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1981-08-17</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 116 117 HARI NAGAR KALWAR ROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>TARUN</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <RF_CA>
+          <ADD>P N 22A EIDEN APPARTMENT DHAWAS</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7229906777</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SOHAN</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_CA>
+          <ADD>P N 22A EIDEN APPARTMENT DHAWAS</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7229906777</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

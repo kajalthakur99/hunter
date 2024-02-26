@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>100000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05255597_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-03-29</DATE>
+      <APP_DTE>2023-03-29</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAJCC6235H</PAN>
+        <FST_NME>CONSOL VENTURES PRIVATE LIMITED</FST_NME>
+        <LST_NME>CONSOL VENTURES PRIVATE LIMITED</LST_NME>
+        <DOB>2021-07-15</DOB>
+        <MP_CA>
+          <ADD>P NO 3 CHANDRA VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 3 CHANDRA VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9784248531</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>hello@consolventures.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>BANK OF INDIA</BNK_NM>
+          <ACC_NO>660530110000116</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>CONSOL VENTURES PRIVATE LIMITED</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 3 CHANDRA VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9784248531</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>P NO 3 CHANDRA VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>hello@consolventures.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>ALDPJ8186C</PAN>
+        <FST_NME>RUGNATH</FST_NME>
+        <MID_NME>PRASAD</MID_NME>
+        <LST_NME>JAT</LST_NME>
+        <DOB>1973-07-24</DOB>
+        <AGE>49</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 3 CHANDRA NAGAR VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BHDPM2213E</PAN>
+        <FST_NME>RAKESH</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>MAHALA</LST_NME>
+        <DOB>1995-08-01</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 3 CHANDRA NAGAR VISTAR BADARAMA KALWARROAD JHOTWARA JAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>GANGADHAR</FST_NME>
+        <LST_NME>BHUKAR</LST_NME>
+        <RF_CA>
+          <ADD>UNIT 204 ROSHAN RESIDANCY P NO 1 2 3 4SAHKAR MARG LAL KOTHI</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>303001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7742606567</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>HARISH</FST_NME>
+        <LST_NME>JAKHAD</LST_NME>
+        <RF_CA>
+          <ADD>UNIT 204 ROSHAN RESIDANCY P NO 1 2 3 4SAHKAR MARG LAL KOTHI</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>303001</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7742606567</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

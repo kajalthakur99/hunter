@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1256668</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05199658_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-04-04</DATE>
+      <APP_DTE>2022-04-04</APP_DTE>
+      <BRNCH_RGN>Keshavnagar</BRNCH_RGN>
+      <MA>
+        <PAN>AGIPY2739C</PAN>
+        <FST_NME>MITHILESH</FST_NME>
+        <MID_NME>RAMAVADH</MID_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1991-06-20</DOB>
+        <AGE>30</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>CHANDRADEEP PLAZA GROUND FLOORPATIL VASTI BEHIND BUS STOP URULI KANCHANPUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412202</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>JILHA AZAMGADH LANGARPURPOST BILENYAGANJUP</ADD>
+          <CTY>Azamgarh</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>276121</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9503562847</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>CANARA BANK</BNK_NM>
+          <ACC_NO>919503562847</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>MAHI AWMINIUM</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PUNE SOLAPUR ROAD KOREGAON MULINAMDAR VESTI OPP PLAYAGDHAM ROADPUNE</ADD>
+            <CTY>Pune</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>412202</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9503562847</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BERPY7472Q</PAN>
+        <FST_NME>SUSHMA</FST_NME>
+        <MID_NME>MITHILESH</MID_NME>
+        <LST_NME>YADAV</LST_NME>
+        <DOB>1993-11-22</DOB>
+        <AGE>28</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>CHANDRADEEP PLAZA GROUND FLOORPATIL VASTI BEHIND BUS STOP URULI KANCHANPUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412202</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>DESHRAJ</FST_NME>
+        <LST_NME>YADAV</LST_NME>
+        <RF_CA>
+          <ADD>INAMDARVESTIKUNJIRWADE KOREGAONMUL PUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412202</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7387419487</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RANA</FST_NME>
+        <LST_NME>SAHANI</LST_NME>
+        <RF_CA>
+          <ADD>INAMDARVESTIKUNJIRWADE KOREGAONMUL PUNE</ADD>
+          <CTY>Pune</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412202</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7387419487</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

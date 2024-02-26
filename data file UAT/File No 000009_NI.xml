@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>2</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>20000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05229617_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-11-01</DATE>
+      <APP_DTE>2022-10-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>ABUFM9467E</PAN>
+        <FST_NME>MAHADEV BUILDER</FST_NME>
+        <LST_NME>MAHADEV BUILDER</LST_NME>
+        <DOB>2022-09-14</DOB>
+        <MP_CA>
+          <ADD>29 A SHIV VATIKA GOVIDPURA KALWAD ROADJHOTWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>29 A SHIV VATIKA GOVIDPURA KALWAD ROADJHOTWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>8239040616</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>ABC@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>AU SMALL FINANCE BANK LIMITED</BNK_NM>
+          <ACC_NO>2021244429858180</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>MAHADEV BUILDER</ORG_NME>
+        <TAN_NO>123455</TAN_NO>
+        <MAC_ADD>
+          <ADD>29 A SHIV VATIKA GOVIDPURA KALWAD ROADJHOTWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>8239040616</TEL_NO>
+        </MAC_TEL>
+        <MAC_EMA>
+          <EMA_ADD>ABC@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>DEVENDRA</FST_NME>
+        <RF_CA>
+          <ADD>80 SHRERAM CIRCEJHOTWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9166916647</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>HARI</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_CA>
+          <ADD>80 SHRERAM CIRCEJHOTWARAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9166916647</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>40000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05222861_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-11-01</DATE>
+      <APP_DTE>2022-10-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AASFV6239L</PAN>
+        <FST_NME>VEER DEVELOPERS</FST_NME>
+        <LST_NME>VEER DEVELOPERS</LST_NME>
+        <DOB>2020-02-15</DOB>
+        <MP_CA>
+          <ADD>PLOT NO 1 VEER RESIDENCY PALSANA ROADKHARVASA CHORYASI SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395010</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>PLOT NO 1 VEER RESIDENCY PALSANA ROADKHARVASA CHORYASI SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395010</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9825427760</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>THE MEHSANA URBAN COOPERATIVE BANK</BNK_NM>
+          <ACC_NO>00341101001912</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>VEER DEVELOPERS</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>PLOT NO 1 VEER RESIDENCY PALSANA ROADKHARVASA CHORYASI SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395010</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9825427760</TEL_NO>
+        </MAC_TEL>
+        <MAC_EMA>
+          <EMA_ADD>abc@example.com</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AIJPP2322B</PAN>
+        <FST_NME>RAMESHBHAI</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1976-09-30</DOB>
+        <AGE>46</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>A 2 202  PRAYOSHA STAR MADHURAM CIRCLE DINDOLISURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395010</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AKFPP8836N</PAN>
+        <FST_NME>JAYANTIBHAI</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1980-11-05</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>D 404 4TH FLOOR EMPIRE RECIDENCY DELADVA ROADDINDOLI</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>394210</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AMCPP8114C</PAN>
+        <FST_NME>MUKESHBHAI</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <DOB>1974-07-22</DOB>
+        <AGE>48</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>C 204 VINAYAK RESIDENCY PUNA KUMBHARIYA ROAD KUMBHARIYA SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395010</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>5277</ORG_CD>
+        <ORG_NME>Square Capital Advisory Pvt Ltd</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>DILIP</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <RF_CA>
+          <ADD>A 402 SHIVAN APT BHAHINAVDHNA SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395002</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7698877988</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>BHAVUK</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <RF_CA>
+          <ADD>A 402 SHIVAN APT BHAHINAVDHNA SURAT</ADD>
+          <CTY>Surat</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>395002</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>7698877988</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

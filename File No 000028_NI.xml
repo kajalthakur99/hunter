@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>10000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05274056_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-07-08</DATE>
+      <APP_DTE>2023-07-07</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEXFS6271A</PAN>
+        <FST_NME>SHREE KRISHNA RESIDENCY</FST_NME>
+        <LST_NME>SHREE KRISHNA RESIDENCY</LST_NME>
+        <DOB>2023-01-24</DOB>
+        <MP_CA>
+          <ADD>84 KIRAN VIHAR MANYAWAS ROAD MANSAROVARJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302019</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>84 KIRAN VIHAR MANYAWAS ROAD MANSAROVARJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302019</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>8529073112</TEL_NO>
+        </MP_MT>
+        <MP_BNK>
+          <BNK_NM>AU SMALL FINANCE BANK LIMITED</BNK_NM>
+          <ACC_NO>2302244447233916</ACC_NO>
+        </MP_BNK>
+        <MP_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AEXFS6271A</DOC_NO>
+        </MP_ID>
+      </MP>
+      <SME>
+        <ORG_NME>SHREE KRISHNA RESIDENCY</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>84 KIRAN VIHAR MANYAWAS ROAD MANSAROVARJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302019</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>8529073112</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO. A -29, 34, 35,VIDHANSABHA NAGAR A, GRAM BALRAMPURAURF KHEJADO KA BAS, JAIPUR </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302021</PIN>
+        </MAC_PROP>
+      </SME>
+      <CP>
+        <PAN>BPQPP2122E</PAN>
+        <FST_NME>RAJENDRA</FST_NME>
+        <LST_NME>PRASAD</LST_NME>
+        <DOB>1988-11-15</DOB>
+        <AGE>34</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>MAYFAIR HEIGHTS FLAT NO 715 KARDHANI SCHEME KALAWAR ROADJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AJHPG1541N</PAN>
+        <FST_NME>PANKAJ</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>GOYAL</LST_NME>
+        <DOB>1986-06-15</DOB>
+        <AGE>37</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>84 KIRAN VIHAR MANYAWAS ROAD MANSAROVARJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302019</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4802</ORG_CD>
+        <ORG_NME>Sita Ram Choudhary</ORG_NME>
+        <BR_ADD>
+          <ADD>2/28, S-1, Near Gandhipath, Veshali Nagar, Jaipur </ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <PIN>302021</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>GHAN</FST_NME>
+        <LST_NME>SHYAM</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO 3 KAWAR ROADKARDHANI SCHEMEJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9783888861</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SITA</FST_NME>
+        <LST_NME>RAM</LST_NME>
+        <RF_CA>
+          <ADD>PLOT NO 3 KAWAR ROADKARDHANI SCHEMEJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9783888861</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

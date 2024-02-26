@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>51000</APP_VAL>
+      <TERM>149</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05195041_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2022-03-06</DATE>
+      <APP_DTE>2022-02-28</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>CCTPM4934L</PAN>
+        <FST_NME>MUKESH</FST_NME>
+        <LST_NME>MUKESH</LST_NME>
+        <DOB>1990-03-12</DOB>
+        <AGE>31</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H NO 18 BLOCK  3FATHEPUR BLOCK 58FARIDABAD HARYANA</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 18 BLOCK  3FATHEPUR BLOCK 58FARIDABAD HARYANA</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>waka muaza fatehpur billoch tehsil  ballbgarh disst  faridabad araji khewat khetoni no 338/357mono 25 kila no 8/2 khewat/ khetoni no 336/355 mono 25 kila no 9 12/2 khewat/khetoni no 337/356  mono 25 kila no 13</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9811672680</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>AXIS BANK</BNK_NM>
+          <ACC_NO>914010016167620</ACC_NO>
+        </MA_BNK>
+        <MA_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>CCTPM4934L</DOC_NO>
+        </MA_ID>
+        <MA_EMP>
+          <ORG_NME>VEGO HOME SCIENCE PVT LTD</ORG_NME>
+          <EMP_IND>MANAFACTURING</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>A 452 NEW ASHOK NAGAR NEW DELHINEW DELHI</ADD>
+            <CTY>East Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110096</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9811672680</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>GRSPS9460M</PAN>
+        <FST_NME>NARAYAN</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1964-10-10</DOB>
+        <AGE>57</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 18 BLOCK  3FATHEPUR BLOCK 58FARIDABAD HARYANA</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </JA_CA>
+      </JA>
+      <JA>
+        <PAN>BTGPM3640E</PAN>
+        <FST_NME>MANOJ</FST_NME>
+        <LST_NME>MANOJ</LST_NME>
+        <DOB>1992-03-12</DOB>
+        <AGE>29</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 18 BLOCK  3FATHEPUR BLOCK 58FARIDABAD HARYANA</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>YESPAL</FST_NME>
+        <RF_CA>
+          <ADD>ADARSH NAGARIBALLABGARD FARIDABADFARIDABAD</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9212187629</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>NISHANT</FST_NME>
+        <RF_CA>
+          <ADD>ADARSH NAGARIBALLABGARD FARIDABADFARIDABAD</ADD>
+          <CTY>Faridabad</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>121004</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9212187629</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

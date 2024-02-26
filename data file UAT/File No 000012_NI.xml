@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>60000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05236637_HOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-12-24</DATE>
+      <APP_DTE>2022-12-23</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AEVFS7509B</PAN>
+        <FST_NME>SHREE BALAJI BUILDERS AND DEVELOPERS</FST_NME>
+        <LST_NME>SHREE BALAJI BUILDERS AND DEVELOPERS</LST_NME>
+        <DOB>2022-11-01</DOB>
+        <MP_CA>
+          <ADD>P NO 47 GOVIND NAGAR 2 GOKULPURA KALWAR ROADJAIPURRAJ</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>P NO 47 GOVIND NAGAR 2 GOKULPURA KALWAR ROADJAIPURRAJ</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9887444431</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>ABC@GMAIL.CO</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>INDUSIND BANK</BNK_NM>
+          <ACC_NO>259596706669</ACC_NO>
+        </MP_BNK>
+        <MP_ID>
+          <DOC_TYP>PAN CARD</DOC_TYP>
+          <DOC_NO>AEVFS7509B</DOC_NO>
+        </MP_ID>
+      </MP>
+      <SME>
+        <ORG_NME>SHREE BALAJI BUILDERS AND DEVELOPERS</ORG_NME>
+        <TAN_NO>12345667</TAN_NO>
+        <MAC_ADD>
+          <ADD>P NO 47 GOVIND NAGAR 2 GOKULPURA KALWAR ROADJAIPURRAJ</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9887444431</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>PLOT NO 276 277 278RECONSTITUTION GIRRAJ NAGAR GRAM BALRAMPURAURNER JAIPURF KHEJADON KA BAS SANGA</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302029</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>ABC@GMAIL.CO</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AJUPB4369G</PAN>
+        <FST_NME>AMARJEET</FST_NME>
+        <MID_NME>SINGH</MID_NME>
+        <LST_NME>PARTNER</LST_NME>
+        <DOB>1982-07-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>F 1 B 118 KARDHANI GOVINDPURAKALWAR ROAD JAIPURRAJASTHAN</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>AWOPD5934A</PAN>
+        <FST_NME>OMPRAKASH</FST_NME>
+        <LST_NME>DHAYAL</LST_NME>
+        <DOB>1982-01-15</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 47 GOVIND NAGAR 2ND GOKULPURA KALWAR ROADJAIPUR RAJ</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ACKPL9177B</PAN>
+        <FST_NME>BHANWAR</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <DOB>1981-08-17</DOB>
+        <AGE>41</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>P NO 116 117 HARI NAGAR KALWAR ROADJHOTWARA JAIPURRAJ</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>SARWAN</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <RF_CA>
+          <ADD>R NO 82 JAYDADI NAGARGOKULPURAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9963708571</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>SITARAM</FST_NME>
+        <LST_NME>CHOUDHARY</LST_NME>
+        <RF_CA>
+          <ADD>R NO 82 JAYDADI NAGARGOKULPURAJAIPUR</ADD>
+          <CTY>Jaipur</CTY>
+          <STE>Rajasthan</STE>
+          <CTRY>India</CTRY>
+          <PIN>302012</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9963708571</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

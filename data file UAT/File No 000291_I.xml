@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>2987457</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05227617_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2022-10-09</DATE>
+      <APP_DTE>2022-10-09</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>AHRPA2324B</PAN>
+        <FST_NME>JAVED</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <DOB>1978-08-01</DOB>
+        <AGE>44</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>H NO 200 A J EXTENSION STREET NO 6LAXMI NAGARDELHI</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110092</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>H NO 40 NAGRA JEEWAN PURAJHANSIUP</ADD>
+          <CTY>Jhansi</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>284003</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>PLOT NO 119SECTOR 44GURGAON HARYANA</ADD>
+          <CTY>Gurgaon</CTY>
+          <STE>Haryana</STE>
+          <CTRY>India</CTRY>
+          <PIN>122003</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>8527958786</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK</BNK_NM>
+          <ACC_NO>50100197814774</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>POLICY BAZAAR</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PLOT NO 119SECTOR 44GURGAON HARYANA</ADD>
+            <CTY>Gurgaon</CTY>
+            <STE>Haryana</STE>
+            <CTRY>India</CTRY>
+            <PIN>122003</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9999943068</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>DXNPA8492M</PAN>
+        <FST_NME>FAIZA</FST_NME>
+        <LST_NME>ALI</LST_NME>
+        <DOB>1986-02-08</DOB>
+        <AGE>36</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>H NO 200 A J EXTENSION STREET NO 6LAXMI NAGARDELHI</ADD>
+          <CTY>East Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110092</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>ANSHUL</FST_NME>
+        <LST_NME>SINHA</LST_NME>
+        <RF_CA>
+          <ADD>H NO BZ 1401 DEVYAN SH FLORA SECTOR 16 C GAUR CITY 2GREATER NOIDA WEST UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201009</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9686244897</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>ADHIR</FST_NME>
+        <LST_NME>NANDY</LST_NME>
+        <RF_CA>
+          <ADD>H NO BZ 1401 DEVYAN SH FLORA SECTOR 16 C GAUR CITY 2GREATER NOIDA WEST UP</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201009</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9686244897</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

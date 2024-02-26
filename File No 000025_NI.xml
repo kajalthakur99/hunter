@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>37500000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05267349_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2023-06-01</DATE>
+      <APP_DTE>2023-05-31</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAJFL8797J</PAN>
+        <FST_NME>LALAJI BUILDCON LLP</FST_NME>
+        <LST_NME>LALAJI BUILDCON LLP</LST_NME>
+        <DOB>2022-01-03</DOB>
+        <MP_CA>
+          <ADD>3RD FLR A 22 GREEN PARK NR GP METRO STATIONDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110016</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>3RD FLR A 22 GREEN PARK NR GP METRO STATIONDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110016</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9871470772</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>INFO@LUBYPRAMOD.COM</EMA_ADD>
+        </MP_EMA>
+      </MP>
+      <SME>
+        <ORG_NME>LALAJI BUILDCON LLP</ORG_NME>
+        <TAN_NO>1</TAN_NO>
+        <MAC_ADD>
+          <ADD>3RD FLR A 22 GREEN PARK NR GP METRO STATIONDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110016</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9871470772</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>3RD FLR A 22 GREEN PARK NR GP METRO STATIONDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110016</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>INFO@LUBYPRAMOD.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>AAGPK5759E</PAN>
+        <FST_NME>PRAMOD</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1968-11-03</DOB>
+        <AGE>54</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>C 89 3RD FLR ANAND NIKETAN CHANAKYA SOUTH MOTI BAGH SOUTH WESTDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110021</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>ABAPS1485L</PAN>
+        <FST_NME>POOJA</FST_NME>
+        <LST_NME>SINGHAL</LST_NME>
+        <DOB>1969-04-13</DOB>
+        <AGE>54</AGE>
+        <GNDR>FEMALE</GNDR>
+        <CP_CA>
+          <ADD>C 89 3RD FLR ANAND NIKETAN CHANAKYA SOUTH MOTI BAGH SOUTH WESTDL</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110021</PIN>
+        </CP_CA>
+      </CP>
+      <BR>
+        <ORG_CD>4925</ORG_CD>
+        <ORG_NME>Kazei Solutions Private Limited</ORG_NME>
+        <BR_ADD>
+          <ADD>H-1/203, Second Floor,Garg Tower,Netaji Subash Place,Pitampura,North West Delhi </ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110045</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

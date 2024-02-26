@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>1</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>40000000</APP_VAL>
+      <TERM>48</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05210667_NHOU</IDENTIFIER>
+      <PRODUCT>SME_ACC</PRODUCT>
+      <DATE>2022-06-30</DATE>
+      <APP_DTE>2022-06-29</APP_DTE>
+      <BRNCH_RGN>HO BRANCH</BRNCH_RGN>
+      <MP>
+        <PAN>AAUFR3225L</PAN>
+        <FST_NME>RAJ ENTERPRISES</FST_NME>
+        <LST_NME>RAJ ENTERPRISES</LST_NME>
+        <DOB>2016-07-08</DOB>
+        <MP_CA>
+          <ADD>SHOP NO 4 P NO 74 75 G F MAHALAXMI PLAZA SEC 5RAJENDRA NAGAR </ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_CA>
+        <MP_PMA>
+          <ADD>SHOP NO 4 P NO 74 75 G F MAHALAXMI PLAZA SEC 5RAJENDRA NAGAR </ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MP_PMA>
+        <MP_MT>
+          <TEL_NO>9718197099</TEL_NO>
+        </MP_MT>
+        <MP_EMA>
+          <EMA_ADD>PRIYANKRANA07@GMAIL.COM</EMA_ADD>
+        </MP_EMA>
+        <MP_BNK>
+          <BNK_NM>IDBI BANK</BNK_NM>
+          <ACC_NO>1990102000002578</ACC_NO>
+        </MP_BNK>
+      </MP>
+      <SME>
+        <ORG_NME>RAJ ENTERPRISES</ORG_NME>
+        <TAN_NO>0</TAN_NO>
+        <MAC_ADD>
+          <ADD>SHOP NO 4 P NO 74 75 G F MAHALAXMI PLAZA SEC 5SHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MAC_ADD>
+        <MAC_TEL>
+          <TEL_NO>9718197099</TEL_NO>
+        </MAC_TEL>
+        <MAC_PROP>
+          <ADD>Plot No. 11/9A Sector 3 Rajendra Nagar SahibabadGhaziabad Uttar Pradesh</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </MAC_PROP>
+        <MAC_EMA>
+          <EMA_ADD>PRIYANKRANA07@GMAIL.COM</EMA_ADD>
+        </MAC_EMA>
+      </SME>
+      <CP>
+        <PAN>BDCPS8637R</PAN>
+        <FST_NME>SANCER</FST_NME>
+        <MID_NME>PAL</MID_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1980-04-12</DOB>
+        <AGE>42</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H NO 223 SATYAM ENCLAVE SHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>CMPPD0889R</PAN>
+        <FST_NME>GAURAV</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1998-03-22</DOB>
+        <AGE>24</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H 3 ASTHA APPT GT ROAD SEC 5RAJENDRA NAGAR SHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <CP>
+        <PAN>BYTPR1925F</PAN>
+        <FST_NME>PRIYANK</FST_NME>
+        <LST_NME>RANA</LST_NME>
+        <DOB>1995-07-27</DOB>
+        <AGE>26</AGE>
+        <GNDR>MALE</GNDR>
+        <CP_CA>
+          <ADD>H NO 115 116 GIRIDHAR ENCLAVE GT ROADSHAHIBABAD</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </CP_CA>
+      </CP>
+      <RF>
+        <FST_NME>SURENDER</FST_NME>
+        <LST_NME>PANWAR</LST_NME>
+        <RF_CA>
+          <ADD>SH 2 P NO 5 25 RAJENDRA NAGARGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810626488</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>DEVENDER</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <RF_CA>
+          <ADD>SH 2 P NO 5 25 RAJENDRA NAGARGZB</ADD>
+          <CTY>Ghaziabad</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>201005</PIN>
+        </RF_CA>
+        <RF_MT>
+          <TEL_NO>9810626488</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

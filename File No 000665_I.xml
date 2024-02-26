@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>6</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>1485216</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05257208_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-04-30</APP_DTE>
+      <BRNCH_RGN>Delhi</BRNCH_RGN>
+      <MA>
+        <PAN>AIJPP8511C</PAN>
+        <FST_NME>MADATHARA</FST_NME>
+        <MID_NME>MOHANDAS</MID_NME>
+        <LST_NME>PRADEEP</LST_NME>
+        <DOB>1976-05-15</DOB>
+        <AGE>46</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>MADATHARA MOHANDAS PRADEEP M MOHANDAS A 93,GALI NO.8,PHASE 5 AYA NAGARNEW AYA NAGAR SOUTH</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110047</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>MADATHARA MOHANDAS PRADEEP M MOHANDAS A 93,GALI NO.8,PHASE 5 AYA NAGARNEW AYA NAGAR SOUTH</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110047</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9711884010</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>AXIS BANK</BNK_NM>
+          <ACC_NO>921020042428011</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DESIGN4 STUDIO</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>A-93 GALI NO 8 PHASE V AYA NAGAR AYA NAGAR SOUTH DELHI DELHI</ADD>
+            <CTY>South West Delhi</CTY>
+            <STE>Delhi</STE>
+            <CTRY>India</CTRY>
+            <PIN>110047</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9711884010</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>PQVPS9828G</PAN>
+        <FST_NME>SHEELA</FST_NME>
+        <LST_NME>RAI</LST_NME>
+        <DOB>1995-01-15</DOB>
+        <AGE>28</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>C O MADATHARA MOHANDAS PRADEEP,A-93 GALI NO-8 PHASE-5,BASDILAAYA NAGAR,SOUTH</ADD>
+          <CTY>South West Delhi</CTY>
+          <STE>Delhi</STE>
+          <CTRY>India</CTRY>
+          <PIN>110047</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5468</ORG_CD>
+        <ORG_NME>AK Financial Management</ORG_NME>
+      </BR>
+      <RF>
+        <FST_NME>BALRAJ</FST_NME>
+        <RF_MT>
+          <TEL_NO>9871349585</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>GURPREET</FST_NME>
+        <RF_MT>
+          <TEL_NO>9871349585</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>871996</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262430_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-05-02</APP_DTE>
+      <BRNCH_RGN>UP - Meerut</BRNCH_RGN>
+      <MA>
+        <PAN>CCEPK4872L</PAN>
+        <FST_NME>RAVINDRA</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1979-07-10</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O NATHU RAM MALKAPURKHANJARPUR HARIDWAR ROORKEE</ADD>
+          <CTY>Roorkee</CTY>
+          <STE>Uttarakhand</STE>
+          <CTRY>India</CTRY>
+          <PIN>247667</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O NATHU RAM MALKAPURKHANJARPUR HARIDWAR ROORKEE</ADD>
+          <CTY>Roorkee</CTY>
+          <STE>Uttarakhand</STE>
+          <CTRY>India</CTRY>
+          <PIN>247667</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>S O NATHU RAM MALKAPURKHANJARPUR HARIDWAR ROORKEE</ADD>
+          <CTY>Roorkee</CTY>
+          <STE>Uttarakhand</STE>
+          <CTRY>India</CTRY>
+          <PIN>247667</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9917316570</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>General Provision Store </ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>VILLAGE MANAKAPUR KHANJARPURROORKEE HARIDWAR</ADD>
+            <CTY>Roorkee</CTY>
+            <STE>Uttarakhand</STE>
+            <CTRY>India</CTRY>
+            <PIN>247667</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9917316570</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>FYQPM5668R</PAN>
+        <FST_NME>MAMTESH</FST_NME>
+        <LST_NME>MAMTESH</LST_NME>
+        <DOB>1983-01-01</DOB>
+        <AGE>40</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O RAVINDRA KUMAR MALKAPURKHANJARPUR HARIDWARROORKEE</ADD>
+          <CTY>Roorkee</CTY>
+          <STE>Uttarakhand</STE>
+          <CTRY>India</CTRY>
+          <PIN>247667</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>4073</ORG_CD>
+        <ORG_NME>RAJ KHOSLA &amp; CO. PVT. LTD.</ORG_NME>
+        <BR_ADD>
+          <ADD>812 suryakiran building 19 KGMARG</ADD>
+          <CTY>North West Delhi</CTY>
+          <STE>Delhi</STE>
+          <PIN>110034</PIN>
+          <CTRY>INDIA</CTRY>
+        </BR_ADD>
+      </BR>
+      <RF>
+        <FST_NME>NARESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9785724180</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANJU</FST_NME>
+        <RF_MT>
+          <TEL_NO>9785724180</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1100393</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05261076_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-04-30</APP_DTE>
+      <BRNCH_RGN>MH - Marathwada</BRNCH_RGN>
+      <MA>
+        <PAN>AAWPD5831G</PAN>
+        <FST_NME>SANJAY</FST_NME>
+        <MID_NME>SHIVAJI</MID_NME>
+        <LST_NME>DARADE</LST_NME>
+        <DOB>1969-06-04</DOB>
+        <AGE>53</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>FLAT NO 5 SIDDHIVINAYAK PARK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422102</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>FLAT NO 5 SIDDHIVINAYAK PARK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422102</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8805102067</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>YES BANK</BNK_NM>
+          <ACC_NO>002100100004456</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>DARADE CLINIC</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>DARADE CLINIC JAKHORI</ADD>
+            <CTY>Nasik</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>422102</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8805102067</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BZXPD5934M</PAN>
+        <FST_NME>AKSHAY</FST_NME>
+        <MID_NME>SANJAY</MID_NME>
+        <LST_NME>DARADE</LST_NME>
+        <DOB>1995-11-06</DOB>
+        <AGE>27</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>FLAT NO 5 SIDDHIVINAYAK PARK</ADD>
+          <CTY>Nasik</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>422102</PIN>
+        </JA_CA>
+      </JA>
+      <BR>
+        <ORG_CD>5636</ORG_CD>
+        <ORG_NME>D &amp; k Associates</ORG_NME>
+      </BR>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>132613</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05261036_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-05-02</APP_DTE>
+      <BRNCH_RGN>MH - Pune</BRNCH_RGN>
+      <MA>
+        <PAN>AMMPG8097K</PAN>
+        <FST_NME>SURJIT</FST_NME>
+        <MID_NME>ARVIND</MID_NME>
+        <LST_NME>GAIKWAD</LST_NME>
+        <DOB>1982-06-03</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>PLOT NO 16 4 MOUJE PANCHGANI </ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O ARVIND GAIKWAD BAGADE COTGE AURTHR RD</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9890282989</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SUJIT ARVIND GAIKWAD</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PLOT NO 16 4 MOUJE PANCHGANI </ADD>
+            <CTY>Satara</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>412805</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9890282989</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BIYPK4494F</PAN>
+        <FST_NME>RUPALI</FST_NME>
+        <MID_NME>SUJIT</MID_NME>
+        <LST_NME>GAIKWAD</LST_NME>
+        <DOB>1987-08-07</DOB>
+        <AGE>35</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>PLOT NO 16 4 MOUJE PANCHGANI </ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1018723</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05260468_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-05-02</APP_DTE>
+      <BRNCH_RGN>MH - Pune</BRNCH_RGN>
+      <MA>
+        <PAN>AMMPG8097K</PAN>
+        <FST_NME>SURJIT</FST_NME>
+        <MID_NME>ARVING </MID_NME>
+        <LST_NME>GAIKWAD</LST_NME>
+        <DOB>1982-06-03</DOB>
+        <AGE>40</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>PLOT NO 16  4 MUUJE PANGHANI TAL MAHABLESHWAR</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O ARVLND GAIKWAD BAGADE COTTAGEW AURTHAR RD TAL </ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9890282989</TEL_NO>
+        </MA_MT>
+        <MA_EMP>
+          <ORG_NME>SUJIT ARVIND GAIKWAD</ORG_NME>
+          <EMP_IND>TRAVEL</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>PLOT NO 16  4 MUUJE PANGHANI TAL MAHABLESHWAR</ADD>
+            <CTY>Satara</CTY>
+            <STE>Maharashtra</STE>
+            <CTRY>India</CTRY>
+            <PIN>412805</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9890282989</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <PAN>BIYPK4494F</PAN>
+        <FST_NME>RUPALI</FST_NME>
+        <MID_NME>SURJIT</MID_NME>
+        <LST_NME>GAIKWAD</LST_NME>
+        <DOB>1987-08-07</DOB>
+        <AGE>35</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>PLOT NO 16  4 MUUJE PANGHANI TAL MAHABLESHWAR</ADD>
+          <CTY>Satara</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>412805</PIN>
+        </JA_CA>
+      </JA>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>768303</APP_VAL>
+      <TERM>240</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05262587_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-05-02</DATE>
+      <APP_DTE>2023-05-02</APP_DTE>
+      <BRNCH_RGN>Lucknow-2</BRNCH_RGN>
+      <MA>
+        <PAN>NTPPS9046P</PAN>
+        <FST_NME>ABODH</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1985-01-01</DOB>
+        <AGE>38</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>750 EWS, RAIBARELI ROAD, SOUTH NAGAR, LUCKNOW </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226025</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>750 EWS, RAIBARELI ROAD, SOUTH NAGAR, LUCKNOW </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226025</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>8957020010</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>BANK OF MAHARASHTRA</BNK_NM>
+          <ACC_NO>60180264594</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>Sawan Fast Food</ORG_NME>
+          <EMP_IND>FOOD</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>KALLI BAZAR, KALLI PASHCHIM, RAEBARELI ROAD, LUCKNOW </ADD>
+            <CTY>Lucknow</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>227305</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>8957020010</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>MAMTA</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <DOB>1992-05-01</DOB>
+        <AGE>31</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>750 EWS, RAIBARELI ROAD, SOUTH NAGAR, LUCKNOW </ADD>
+          <CTY>Lucknow</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>226025</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>KISHORI</FST_NME>
+        <LST_NME>LAL</LST_NME>
+        <RF_MT>
+          <TEL_NO>9960354462</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>RAM</FST_NME>
+        <LST_NME>SINGH</LST_NME>
+        <RF_MT>
+          <TEL_NO>9960354462</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>

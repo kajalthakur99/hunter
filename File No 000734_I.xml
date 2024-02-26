@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BATCH xmlns="urn:mclsoftware.co.uk:hunterII" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <HEADER>
+    <COUNT>5</COUNT>
+    <ORIGINATOR>SHDFC</ORIGINATOR>
+  </HEADER>
+  <SUBMISSIONS>
+    <SUBMISSION>
+      <APP_VAL>999207</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05268330_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-06-07</DATE>
+      <APP_DTE>2023-06-07</APP_DTE>
+      <BRNCH_RGN>UP - Agra</BRNCH_RGN>
+      <MA>
+        <PAN>BAYPK5953R</PAN>
+        <FST_NME>AKHALESH</FST_NME>
+        <LST_NME>KUMAR</LST_NME>
+        <DOB>1978-10-08</DOB>
+        <AGE>44</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>KH NO 185, BHAGWAN NAGAR NR JAGJEEVANNAGAR, MAUJA NARAICH, AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>PLOT NO 34 B, GANDHI CHANDNINEAR KABIR ASHRAM, MOTI MAHAL KUBERPUR AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>KH NO-1885, WAKE BHAGWAN NAGAR, NEAR JAGJEEVAN NAGAR, MAZA NARAICH ETAMDPURAGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9105948405</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>HDFC BANK LTD</BNK_NM>
+          <ACC_NO>50100308255453</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>DOIPR6776B</PAN>
+        <FST_NME>RAJNI</FST_NME>
+        <LST_NME>RAJNI</LST_NME>
+        <DOB>1984-03-02</DOB>
+        <AGE>39</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>KH NO 1885, BHAGWAN NAGAR NR JAGJEEVANNAGAR, MAUJA NARAICH, AGRA</ADD>
+          <CTY>Agra</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>282006</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MABISH</FST_NME>
+        <LST_NME>SHARMA</LST_NME>
+        <RF_MT>
+          <TEL_NO>9870789525</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>LAXMI</FST_NME>
+        <LST_NME>NARAYAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9870789525</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>494718</APP_VAL>
+      <TERM>96</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05268649_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-06-07</DATE>
+      <APP_DTE>2023-06-07</APP_DTE>
+      <BRNCH_RGN>Gujarat</BRNCH_RGN>
+      <MA>
+        <PAN>EDKPP2987L</PAN>
+        <FST_NME>PARMAR</FST_NME>
+        <MID_NME>VIJAYSINH</MID_NME>
+        <LST_NME>JIVABHAI</LST_NME>
+        <DOB>1967-12-15</DOB>
+        <AGE>55</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>SHREE KHODIYAR KRUPA,CHANDRESH NAGAR STREET NO 2,OPP GANGASAGAR RAMJI TEMPLEMAVDI PLOT POSTAL COLONY</ADD>
+          <CTY>Rajkot</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>360004</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>SHREE KHODIYAR KRUPA,CHANDRESH NAGAR STREET NO 2,OPP GANGASAGAR RAMJI TEMPLEMAVDI PLOT POSTAL COLONY</ADD>
+          <CTY>Rajkot</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>360004</PIN>
+        </MA_PMA>
+        <MA_PROP>
+          <ADD>Rajkot</ADD>
+          <CTY>Kalavad</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>360001</PIN>
+        </MA_PROP>
+        <MA_MT>
+          <TEL_NO>9725335208</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>YES BANK</BNK_NM>
+          <ACC_NO>00161000100005006</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>RAJSHRI BAJAJ</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>NR.MALAVIYA COLLEGE, GONDAL ROAD</ADD>
+            <CTY>Rajkot</CTY>
+            <STE>Gujarat</STE>
+            <CTRY>India</CTRY>
+            <PIN>360002</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9725335208</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>PARMAR</FST_NME>
+        <MID_NME>MINABA</MID_NME>
+        <LST_NME>VIJAYSINH</LST_NME>
+        <DOB>1972-05-20</DOB>
+        <AGE>51</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>HOUSE BLDG.APT.CHANDRESH NAGAR SOCIETY 2,VILLAGE TOWN P.O.MAVDI PINCODE</ADD>
+          <CTY>Rajkot</CTY>
+          <STE>Gujarat</STE>
+          <CTRY>India</CTRY>
+          <PIN>360004</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MANHARBHAI</FST_NME>
+        <LST_NME>MEHTA</LST_NME>
+        <RF_MT>
+          <TEL_NO>8917284152</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>UMANG</FST_NME>
+        <LST_NME>PATEL</LST_NME>
+        <RF_MT>
+          <TEL_NO>8917284152</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>709559</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>W_APPL05267848_HOU</IDENTIFIER>
+      <PRODUCT>HL_IND</PRODUCT>
+      <DATE>2023-06-07</DATE>
+      <APP_DTE>2023-06-07</APP_DTE>
+      <BRNCH_RGN>MH - Latur</BRNCH_RGN>
+      <MA>
+        <PAN>CTXPB3066R</PAN>
+        <FST_NME>MANSOOR</FST_NME>
+        <MID_NME>YADUL</MID_NME>
+        <LST_NME>BEG</LST_NME>
+        <DOB>1980-01-01</DOB>
+        <AGE>43</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>ADNAN GARDAN DHANEGAON NANDED</ADD>
+          <CTY>Aurangabad</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431604</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>ADNAN GARDAN DHANEGAON NANDED</ADD>
+          <CTY>Aurangabad</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431604</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9823231024</TEL_NO>
+        </MA_MT>
+        <MA_BNK>
+          <BNK_NM>PUNJAB NATIONAL BANK</BNK_NM>
+          <ACC_NO>13352191010356</ACC_NO>
+        </MA_BNK>
+      </MA>
+      <JA>
+        <PAN>GKZPB8725C</PAN>
+        <FST_NME>RUKHSANA</FST_NME>
+        <MID_NME>BEGUM</MID_NME>
+        <LST_NME>MANSOOR</LST_NME>
+        <DOB>1984-01-01</DOB>
+        <AGE>39</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>ADNAN GARDAN DHANEGAON </ADD>
+          <CTY>Aurangabad</CTY>
+          <STE>Maharashtra</STE>
+          <CTRY>India</CTRY>
+          <PIN>431604</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>MANIK</FST_NME>
+        <LST_NME>DESHMUKH</LST_NME>
+        <RF_MT>
+          <TEL_NO>9763845097</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>BASHIR</FST_NME>
+        <LST_NME>PATHAN</LST_NME>
+        <RF_MT>
+          <TEL_NO>9763845097</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>655870</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>N_APPL05265813_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-06-07</DATE>
+      <APP_DTE>2023-06-07</APP_DTE>
+      <BRNCH_RGN>UP - Lucknow</BRNCH_RGN>
+      <MA>
+        <PAN>AWUPG9256E</PAN>
+        <FST_NME>MANOJ</FST_NME>
+        <MID_NME>KUMAR</MID_NME>
+        <LST_NME>GAUTAM</LST_NME>
+        <DOB>1974-07-15</DOB>
+        <AGE>48</AGE>
+        <GNDR>MALE</GNDR>
+        <MA_CA>
+          <ADD>S O PREM NARAYAN,AMOGHPUR,MUGHALSARAIMUGALSARAL,CHANDAULL</ADD>
+          <CTY>Chandauli</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>232101</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>S O PREM NARAYAN,AMOGHPUR,MUGHALSARAIMUGALSARAL,CHANDAULL</ADD>
+          <CTY>Chandauli</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>232101</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9125590411</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>MANOJKUMARGAUTAM411@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+        <MA_BNK>
+          <BNK_NM>INDIAN BANK</BNK_NM>
+          <ACC_NO>20419542826</ACC_NO>
+        </MA_BNK>
+        <MA_EMP>
+          <ORG_NME>S K HOSPITAL AND SURGICAL CENTER</ORG_NME>
+          <EMP_IND>OTHER</EMP_IND>
+          <MA_EMP_AD>
+            <ADD>KUDHKALA KALI MANDIR CHAKIA ROAD MUGHALSARAI CHANDAULI CHANDAULI </ADD>
+            <CTY>Chandauli</CTY>
+            <STE>Uttar Pradesh</STE>
+            <CTRY>India</CTRY>
+            <PIN>232101</PIN>
+          </MA_EMP_AD>
+          <MA_EMP_BT>
+            <TEL_NO>9125590411</TEL_NO>
+          </MA_EMP_BT>
+        </MA_EMP>
+      </MA>
+      <JA>
+        <FST_NME>KUSUM</FST_NME>
+        <LST_NME>KUSUM</LST_NME>
+        <DOB>1983-09-09</DOB>
+        <AGE>39</AGE>
+        <GNDR>FEMALE</GNDR>
+        <JA_CA>
+          <ADD>W O MANOJ KUMAR GAUTAM,AMOGHPUR,MUGHALSARAIMUGALSARAI,MUGALSARAI</ADD>
+          <CTY>Chandauli</CTY>
+          <STE>Uttar Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>232101</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>BALIRAM</FST_NME>
+        <RF_MT>
+          <TEL_NO>9414358507</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>MANOJ</FST_NME>
+        <LST_NME>PANDEY</LST_NME>
+        <RF_MT>
+          <TEL_NO>9414358507</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+    <SUBMISSION>
+      <APP_VAL>1226263</APP_VAL>
+      <TERM>180</TERM>
+      <CLASSIFICATION>UNKNOWN</CLASSIFICATION>
+      <IDENTIFIER>S_APPL05263077_NHOU</IDENTIFIER>
+      <PRODUCT>NHL_IND</PRODUCT>
+      <DATE>2023-06-07</DATE>
+      <APP_DTE>2023-06-07</APP_DTE>
+      <BRNCH_RGN>ANANTHAPUR</BRNCH_RGN>
+      <MA>
+        <PAN>DYGPR1933C</PAN>
+        <FST_NME>D</FST_NME>
+        <LST_NME>RAMADEVI</LST_NME>
+        <DOB>1985-01-01</DOB>
+        <AGE>38</AGE>
+        <GNDR>FEMALE</GNDR>
+        <MA_CA>
+          <ADD>D NO 24 133 SIDDAIAH GUTTA   DHAMMAVARAM  ANANTAPUR PINCODE 515671</ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515001</PIN>
+        </MA_CA>
+        <MA_PMA>
+          <ADD>D NO   16 1849 SAI NAGAR DHARMAVARAM ANANTAPUR  515671</ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515001</PIN>
+        </MA_PMA>
+        <MA_MT>
+          <TEL_NO>9908283584</TEL_NO>
+        </MA_MT>
+        <MA_EMA>
+          <EMA_ADD>NAGADAVARAKONDA69@GMAIL.COM</EMA_ADD>
+        </MA_EMA>
+      </MA>
+      <JA>
+        <PAN>DKVPR4183R</PAN>
+        <FST_NME>DNAGAPPA</FST_NME>
+        <LST_NME>NAGAPPA</LST_NME>
+        <DOB>1975-05-01</DOB>
+        <AGE>48</AGE>
+        <GNDR>MALE</GNDR>
+        <JA_CA>
+          <ADD>D NO 24  133  SIDDAIAH GUTTA DHARMAVARAM ANANTAPUR PINCODE -515671</ADD>
+          <CTY>Anantapur</CTY>
+          <STE>Andhra Pradesh</STE>
+          <CTRY>India</CTRY>
+          <PIN>515001</PIN>
+        </JA_CA>
+      </JA>
+      <RF>
+        <FST_NME>GANGADHAR</FST_NME>
+        <RF_MT>
+          <TEL_NO>9908876082</TEL_NO>
+        </RF_MT>
+      </RF>
+      <RF>
+        <FST_NME>GANESH</FST_NME>
+        <RF_MT>
+          <TEL_NO>9908876082</TEL_NO>
+        </RF_MT>
+      </RF>
+    </SUBMISSION>
+  </SUBMISSIONS>
+</BATCH>
